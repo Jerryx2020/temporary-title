@@ -9,8 +9,8 @@
 
 #### Workspace setup ####
 # Load required libraries
-library(opendatatoronto)  # For accessing Open Data Toronto
-library(tidyverse)        # For data manipulation and saving
+library(opendatatoronto)
+library(tidyverse)        
 
 #### Download data ####
 # Fetch the DineSafe package using its package ID

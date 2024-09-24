@@ -1,101 +1,1001 @@
-establishment_name,establishment_type,inspection_date,severity,outcome,amount_fined
-Establishment 1,Bar,2018-11-10,S,Pass,1000
-Establishment 2,Bakery,2019-03-13,M,Conditional Pass,1080
-Establishment 3,Café,2018-06-06,C,Conditional Pass,980
-Establishment 4,Bar,2022-12-05,S,Pass,1050
-Establishment 5,Food Truck,2022-05-07,C,Closed,940
-Establishment 6,Restaurant,2018-04-14,C,Closed,980
-Establishment 7,Café,2018-02-03,M,Pass,1050
-Establishment 8,Bakery,2018-08-10,M,Closed,910
-Establishment 9,Bakery,2022-10-03,S,Pass,980
-Establishment 10,Café,2021-05-21,C,Closed,900
-Establishment 11,Restaurant,2023-03-07,M,Pass,1000
-Establishment 12,Café,2018-06-23,S,Closed,840
-Establishment 13,Food Truck,2021-02-14,S,Pass,1090
-Establishment 14,Food Truck,2019-10-12,S,Conditional Pass,870
-Establishment 15,Restaurant,2019-08-21,S,Pass,980
-Establishment 16,Food Truck,2019-07-08,C,Conditional Pass,1060
-Establishment 17,Food Truck,2023-04-01,M,Closed,880
-Establishment 18,Restaurant,2020-01-05,S,Pass,1010
-Establishment 19,Café,2020-03-18,M,Closed,1000
-Establishment 20,Restaurant,2021-07-02,S,Pass,820
-Establishment 21,Café,2020-08-23,S,Conditional Pass,1020
-Establishment 22,Food Truck,2023-06-25,M,Conditional Pass,850
-Establishment 23,Restaurant,2020-06-17,M,Pass,1000
-Establishment 24,Café,2020-04-15,C,Pass,970
-Establishment 25,Café,2022-06-08,M,Pass,1080
-Establishment 26,Restaurant,2019-03-24,S,Closed,1030
-Establishment 27,Bakery,2022-04-14,C,Conditional Pass,1010
-Establishment 28,Restaurant,2023-01-18,C,Closed,880
-Establishment 29,Restaurant,2022-03-05,S,Pass,800
-Establishment 30,Bar,2018-05-26,M,Closed,1090
-Establishment 31,Restaurant,2023-01-12,C,Pass,950
-Establishment 32,Café,2019-05-25,C,Pass,960
-Establishment 33,Restaurant,2018-05-29,S,Conditional Pass,970
-Establishment 34,Restaurant,2021-12-04,S,Pass,970
-Establishment 35,Food Truck,2018-12-23,C,Pass,770
-Establishment 36,Bar,2022-08-02,S,Pass,980
-Establishment 37,Bakery,2019-01-03,S,Closed,1130
-Establishment 38,Café,2019-12-24,C,Pass,960
-Establishment 39,Bakery,2020-01-03,S,Pass,900
-Establishment 40,Café,2021-11-17,C,Closed,1040
-Establishment 41,Bar,2021-08-14,M,Conditional Pass,1060
-Establishment 42,Restaurant,2021-11-08,S,Conditional Pass,1100
-Establishment 43,Restaurant,2023-07-14,C,Pass,980
-Establishment 44,Food Truck,2023-09-27,M,Pass,1110
-Establishment 45,Bar,2018-03-01,M,Pass,1080
-Establishment 46,Café,2021-06-22,C,Pass,970
-Establishment 47,Bakery,2019-10-18,C,Conditional Pass,830
-Establishment 48,Food Truck,2018-05-14,S,Pass,960
-Establishment 49,Bakery,2022-06-09,C,Closed,1060
-Establishment 50,Café,2023-01-06,S,Closed,940
-Establishment 51,Café,2021-02-13,M,Closed,1030
-Establishment 52,Café,2021-07-27,C,Pass,1120
-Establishment 53,Bakery,2018-11-13,S,Pass,930
-Establishment 54,Bar,2020-02-16,C,Conditional Pass,960
-Establishment 55,Bar,2021-05-26,S,Closed,1160
-Establishment 56,Bar,2022-10-15,C,Pass,850
-Establishment 57,Café,2018-08-11,C,Closed,900
-Establishment 58,Bakery,2019-07-19,S,Conditional Pass,1070
-Establishment 59,Café,2022-12-20,C,Closed,1100
-Establishment 60,Bakery,2023-12-11,S,Conditional Pass,990
-Establishment 61,Restaurant,2018-07-26,C,Closed,940
-Establishment 62,Food Truck,2023-02-14,S,Pass,860
-Establishment 63,Bar,2021-07-07,S,Closed,1020
-Establishment 64,Bar,2023-03-05,S,Conditional Pass,870
-Establishment 65,Bakery,2023-01-01,C,Pass,890
-Establishment 66,Food Truck,2018-09-09,M,Closed,970
-Establishment 67,Food Truck,2018-02-13,S,Pass,840
-Establishment 68,Restaurant,2022-07-08,C,Conditional Pass,970
-Establishment 69,Bakery,2023-12-26,C,Conditional Pass,970
-Establishment 70,Café,2018-01-07,S,Closed,970
-Establishment 71,Café,2021-02-21,S,Pass,1410
-Establishment 72,Food Truck,2021-06-28,S,Pass,940
-Establishment 73,Café,2022-04-05,S,Conditional Pass,1010
-Establishment 74,Restaurant,2023-03-05,C,Closed,970
-Establishment 75,Food Truck,2022-12-29,C,Closed,1150
-Establishment 76,Bar,2020-06-16,C,Pass,930
-Establishment 77,Café,2021-04-11,M,Conditional Pass,980
-Establishment 78,Bakery,2023-11-02,C,Closed,950
-Establishment 79,Café,2022-02-07,M,Pass,1010
-Establishment 80,Bar,2022-05-20,M,Pass,870
-Establishment 81,Bakery,2022-05-19,C,Pass,1040
-Establishment 82,Restaurant,2020-01-06,S,Pass,1070
-Establishment 83,Food Truck,2021-12-16,M,Closed,960
-Establishment 84,Bar,2020-12-09,C,Conditional Pass,1070
-Establishment 85,Restaurant,2018-08-12,M,Conditional Pass,880
-Establishment 86,Food Truck,2022-04-06,M,Pass,1060
-Establishment 87,Food Truck,2020-05-18,S,Conditional Pass,990
-Establishment 88,Bakery,2018-12-04,M,Conditional Pass,900
-Establishment 89,Bar,2018-01-23,C,Pass,980
-Establishment 90,Restaurant,2021-03-11,M,Pass,1010
-Establishment 91,Bakery,2019-05-07,M,Closed,980
-Establishment 92,Bakery,2021-10-18,C,Conditional Pass,870
-Establishment 93,Bar,2020-09-23,S,Pass,1050
-Establishment 94,Bar,2021-08-22,C,Closed,970
-Establishment 95,Café,2020-10-30,C,Pass,1210
-Establishment 96,Food Truck,2023-03-01,C,Pass,1070
-Establishment 97,Bakery,2020-09-23,M,Conditional Pass,950
-Establishment 98,Café,2019-05-02,C,Conditional Pass,950
-Establishment 99,Restaurant,2021-06-25,S,Pass,1030
-Establishment 100,Café,2022-10-17,M,Conditional Pass,860
+establishment_id,establishment_name,establishment_type,inspection_frequency,severity,outcome,action
+ID_1,Establishment_1,Ice Cream / Yogurt Vendors,5,C - Crucial,Pass,Ticket
+ID_1,Establishment_1,Butcher Shop,4,,Conditional Pass,Prohibition Order Requested
+ID_1,Establishment_1,Student Nutrition Site,2,S - Significant,Pass,Closure Order
+ID_1,Establishment_1,Centralized Kitchen,5,C - Crucial,Pass,Not in Compliance
+ID_1,Establishment_1,Boarding / Lodging Home - Kitchen,3,,Closed,Closure Order
+ID_2,Establishment_2,Boarding / Lodging Home - Kitchen,1,N/A - Not Applicable,Closed,Summons
+ID_2,Establishment_2,Food Vending Facility,2,,Closed,Closure Order
+ID_2,Establishment_2,Catering Vehicle,4,S - Significant,Conditional Pass,Corrected During Inspection
+ID_2,Establishment_2,Hot Dog Cart,4,,Pass,Prohibition Order Requested
+ID_2,Establishment_2,Butcher Shop,2,,Pass,Order
+ID_3,Establishment_3,Milk Products Plant,1,,Conditional Pass,Education Provided
+ID_3,Establishment_3,Brew Your Own Beer / Wine,2,S - Significant,Conditional Pass,Education Provided
+ID_3,Establishment_3,Refreshment Stand (Stationary),3,M - Minor,Closed,Recommendations
+ID_3,Establishment_3,Bed & Breakfast,3,S - Significant,Conditional Pass,Order
+ID_3,Establishment_3,Boarding / Lodging Home - Kitchen,1,N/A - Not Applicable,Closed,Summons
+ID_4,Establishment_4,Cafeteria - Public Access,3,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_4,Establishment_4,Community Kitchen (Meal Program),3,S - Significant,Closed,Education Provided
+ID_4,Establishment_4,Hospitals & Health Facilities,1,M - Minor,Pass,Corrected During Inspection
+ID_4,Establishment_4,Food Court Vendor,2,N/A - Not Applicable,Conditional Pass,Education Provided
+ID_4,Establishment_4,Catering Vehicle,1,S - Significant,Closed,Summons
+ID_5,Establishment_5,Supermarket,2,N/A - Not Applicable,Closed,Recommendations
+ID_5,Establishment_5,Meat Processing Plant,3,C - Crucial,Pass,Corrected During Inspection
+ID_5,Establishment_5,Institutional Food Services,1,C - Crucial,Closed,Prohibition Order Requested
+ID_5,Establishment_5,Fairs / Festivals / Special Occasions,2,N/A - Not Applicable,Pass,Order
+ID_5,Establishment_5,Secondary School Food Services,2,N/A - Not Applicable,Pass,Not in Compliance
+ID_6,Establishment_6,Refreshment Stand (Stationary),1,S - Significant,Closed,Warning Letter
+ID_6,Establishment_6,Retirement Homes(Licensed),4,S - Significant,Conditional Pass,Order
+ID_6,Establishment_6,Bake Shop,1,,Pass,Warning Letter
+ID_6,Establishment_6,Cafeteria - Private Access,1,C - Crucial,Conditional Pass,Summons and Health Hazard Order
+ID_6,Establishment_6,Cocktail Bar / Beverage Room,5,N/A - Not Applicable,Closed,Warning Letter
+ID_7,Establishment_7,Cafeteria - Public Access,1,C - Crucial,Pass,Order
+ID_7,Establishment_7,Private Club,2,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_7,Establishment_7,Food Bank,1,C - Crucial,Conditional Pass,Closure Order
+ID_7,Establishment_7,Food Processing Plant,1,C - Crucial,Closed,Recommendations
+ID_7,Establishment_7,Supermarket,3,M - Minor,Pass,Summons and Health Hazard Order
+ID_8,Establishment_8,Butcher Shop,5,S - Significant,Closed,Closure Order
+ID_8,Establishment_8,Elementary School Food Services,4,N/A - Not Applicable,Conditional Pass,Recommendations
+ID_8,Establishment_8,Brew Your Own Beer / Wine,2,M - Minor,Pass,Prohibition Order Requested
+ID_8,Establishment_8,Flea Market,4,S - Significant,Closed,Corrected During Inspection
+ID_8,Establishment_8,Chartered Cruise Boats,2,M - Minor,Pass,Summons and Health Hazard Order
+ID_9,Establishment_9,Farmers` Market Vendor,5,C - Crucial,Pass,Not in Compliance
+ID_9,Establishment_9,Hospitals & Health Facilities,1,,Closed,Order
+ID_9,Establishment_9,Milk Pasteurization Plant,1,C - Crucial,Pass,Warning Letter
+ID_9,Establishment_9,Secondary School Food Services,3,,Closed,Recommendations
+ID_9,Establishment_9,Milk Products Plant,5,N/A - Not Applicable,Pass,Not in Compliance
+ID_10,Establishment_10,Butcher Shop,2,S - Significant,Closed,Closure Order
+ID_10,Establishment_10,College / University Food Services,4,M - Minor,Closed,Notice to Comply
+ID_10,Establishment_10,Bed & Breakfast,3,,Closed,Summons and Health Hazard Order
+ID_10,Establishment_10,Boarding / Lodging Home - Kitchen,4,S - Significant,Conditional Pass,Corrected During Inspection
+ID_10,Establishment_10,Cafeteria - Private Access,2,C - Crucial,Conditional Pass,Not in Compliance
+ID_11,Establishment_11,Food Take Out,2,N/A - Not Applicable,Pass,Not in Compliance
+ID_11,Establishment_11,Food Store (Convenience/Variety),2,M - Minor,Closed,Prohibition Order Requested
+ID_11,Establishment_11,Bake Shop,4,M - Minor,Closed,Not in Compliance
+ID_11,Establishment_11,Food Processing Plant,5,,Closed,Summons and Health Hazard Order
+ID_11,Establishment_11,Restaurant,5,N/A - Not Applicable,Pass,Recommendations
+ID_12,Establishment_12,Cocktail Bar / Beverage Room,5,,Conditional Pass,Summons
+ID_12,Establishment_12,Student Nutrition Site,2,S - Significant,Closed,Order
+ID_12,Establishment_12,Food Take Out,4,C - Crucial,Conditional Pass,Education Provided
+ID_12,Establishment_12,Cafeteria - Public Access,2,S - Significant,Pass,Summons
+ID_12,Establishment_12,Restaurant,4,S - Significant,Pass,Education Provided
+ID_13,Establishment_13,Food Depot,1,,Conditional Pass,Order
+ID_13,Establishment_13,Food Take Out,3,C - Crucial,Conditional Pass,Notice to Comply
+ID_13,Establishment_13,Butcher Shop,5,S - Significant,Conditional Pass,Recommendations
+ID_13,Establishment_13,Retirement Homes(Un-licensed),5,,Pass,Not in Compliance
+ID_13,Establishment_13,Boarding / Lodging Home - Kitchen,4,S - Significant,Closed,Notice to Comply
+ID_14,Establishment_14,Supermarket,3,C - Crucial,Closed,Order
+ID_14,Establishment_14,Rest Home,3,C - Crucial,Pass,Notice to Comply
+ID_14,Establishment_14,Fairs / Festivals / Special Occasions,1,S - Significant,Conditional Pass,Summons
+ID_14,Establishment_14,Chartered Cruise Boats,4,C - Crucial,Pass,Warning Letter
+ID_14,Establishment_14,Milk Products Plant,2,,Closed,Warning Letter
+ID_15,Establishment_15,Milk Pasteurization Plant,2,M - Minor,Pass,Recommendations
+ID_15,Establishment_15,Child Care - Catered,3,C - Crucial,Pass,Ticket
+ID_15,Establishment_15,Milk Pasteurization Plant,2,M - Minor,Closed,Notice to Comply
+ID_15,Establishment_15,Ice Manufacturing Plant,1,M - Minor,Conditional Pass,Not in Compliance
+ID_15,Establishment_15,College / University Food Services,3,M - Minor,Closed,Summons and Health Hazard Order
+ID_16,Establishment_16,Bed & Breakfast,5,S - Significant,Closed,Not in Compliance
+ID_16,Establishment_16,Milk Pasteurization Plant,2,,Pass,Order
+ID_16,Establishment_16,Butcher Shop,4,C - Crucial,Closed,Corrected During Inspection
+ID_16,Establishment_16,Ice Cream Plant,2,M - Minor,Pass,Prohibition Order Requested
+ID_16,Establishment_16,Ice Manufacturing Plant,5,S - Significant,Pass,Education Provided
+ID_17,Establishment_17,Mobile Food Preparation Premises,4,M - Minor,Closed,Summons
+ID_17,Establishment_17,Retirement Homes(Licensed),1,S - Significant,Conditional Pass,Order
+ID_17,Establishment_17,Refreshment Stand (Stationary),3,C - Crucial,Pass,Corrected During Inspection
+ID_17,Establishment_17,Ice Manufacturing Plant,5,M - Minor,Conditional Pass,Recommendations
+ID_17,Establishment_17,Student Nutrition Site,1,N/A - Not Applicable,Closed,Not in Compliance
+ID_18,Establishment_18,Catering Vehicle,3,M - Minor,Conditional Pass,Notice to Comply
+ID_18,Establishment_18,Other Educational Facility Food Services,3,M - Minor,Pass,Education Provided
+ID_18,Establishment_18,Ice Cream / Yogurt Vendors,4,S - Significant,Closed,Order
+ID_18,Establishment_18,Food Store (Convenience/Variety),5,N/A - Not Applicable,Closed,Ticket
+ID_18,Establishment_18,Secondary School Food Services,1,N/A - Not Applicable,Conditional Pass,Ticket
+ID_19,Establishment_19,Refreshment Stand (Stationary),4,C - Crucial,Pass,Warning Letter
+ID_19,Establishment_19,Chartered Cruise Boats,4,S - Significant,Conditional Pass,Prohibition Order Requested
+ID_19,Establishment_19,Retirement Homes(Licensed),5,C - Crucial,Closed,Warning Letter
+ID_19,Establishment_19,Hospitals & Health Facilities,5,N/A - Not Applicable,Pass,Summons
+ID_19,Establishment_19,Child Care - Catered,2,,Pass,Notice to Comply
+ID_20,Establishment_20,Food Take Out,3,M - Minor,Conditional Pass,Order
+ID_20,Establishment_20,Chartered Cruise Boats,4,M - Minor,Pass,Closure Order
+ID_20,Establishment_20,Restaurant,2,,Pass,Summons and Health Hazard Order
+ID_20,Establishment_20,Chartered Cruise Boats,1,C - Crucial,Conditional Pass,Education Provided
+ID_20,Establishment_20,College / University Food Services,2,,Closed,Closure Order
+ID_21,Establishment_21,Hot Dog Cart,2,,Conditional Pass,Summons
+ID_21,Establishment_21,Banquet Facility,4,S - Significant,Closed,Summons and Health Hazard Order
+ID_21,Establishment_21,Fairs / Festivals / Special Occasions,3,M - Minor,Conditional Pass,Not in Compliance
+ID_21,Establishment_21,Nursing Home / Home for the Aged,1,S - Significant,Conditional Pass,Ticket
+ID_21,Establishment_21,Other Educational Facility Food Services,1,S - Significant,Pass,Summons and Health Hazard Order
+ID_22,Establishment_22,Centralized Kitchen,1,C - Crucial,Closed,Order
+ID_22,Establishment_22,Mobile Food Preparation Premises,4,S - Significant,Pass,Education Provided
+ID_22,Establishment_22,Fish Shop,4,N/A - Not Applicable,Pass,Summons
+ID_22,Establishment_22,Food Cart,5,S - Significant,Conditional Pass,Summons
+ID_22,Establishment_22,Food Store (Convenience/Variety),4,M - Minor,Pass,Corrected During Inspection
+ID_23,Establishment_23,Milk Pasteurization Plant,1,,Pass,Recommendations
+ID_23,Establishment_23,Bakery,4,M - Minor,Conditional Pass,Closure Order
+ID_23,Establishment_23,Child Care - Food Preparation,1,,Conditional Pass,Summons
+ID_23,Establishment_23,Fish Shop,2,C - Crucial,Pass,Closure Order
+ID_23,Establishment_23,Chartered Cruise Boats,5,S - Significant,Closed,Corrected During Inspection
+ID_24,Establishment_24,Cafeteria - Private Access,1,M - Minor,Pass,Recommendations
+ID_24,Establishment_24,Mobile Food Preparation Premises,4,M - Minor,Conditional Pass,Ticket
+ID_24,Establishment_24,Food Vending Facility,1,,Pass,Notice to Comply
+ID_24,Establishment_24,Meat Processing Plant,1,N/A - Not Applicable,Closed,Corrected During Inspection
+ID_24,Establishment_24,Brew Your Own Beer / Wine,3,N/A - Not Applicable,Conditional Pass,Warning Letter
+ID_25,Establishment_25,Food Vending Facility,3,M - Minor,Closed,Notice to Comply
+ID_25,Establishment_25,Milk Pasteurization Plant,5,,Conditional Pass,Summons and Health Hazard Order
+ID_25,Establishment_25,Locker Plant,5,C - Crucial,Conditional Pass,Ticket
+ID_25,Establishment_25,Food Take Out,1,C - Crucial,Conditional Pass,Not in Compliance
+ID_25,Establishment_25,Child Care - Food Preparation,2,C - Crucial,Pass,Summons and Health Hazard Order
+ID_26,Establishment_26,Restaurant,5,,Closed,Summons and Health Hazard Order
+ID_26,Establishment_26,Locker Plant,5,,Conditional Pass,Order
+ID_26,Establishment_26,Cafeteria - Public Access,5,N/A - Not Applicable,Closed,Order
+ID_26,Establishment_26,Bake Shop,3,S - Significant,Closed,Warning Letter
+ID_26,Establishment_26,Catering Vehicle,3,,Closed,Education Provided
+ID_27,Establishment_27,Food Caterer,4,C - Crucial,Closed,Education Provided
+ID_27,Establishment_27,Locker Plant,3,N/A - Not Applicable,Closed,Ticket
+ID_27,Establishment_27,Student Nutrition Site,5,N/A - Not Applicable,Pass,Corrected During Inspection
+ID_27,Establishment_27,Cocktail Bar / Beverage Room,2,N/A - Not Applicable,Closed,Notice to Comply
+ID_27,Establishment_27,Private Club,5,,Pass,Warning Letter
+ID_28,Establishment_28,Retirement Homes(Un-licensed),1,,Conditional Pass,Notice to Comply
+ID_28,Establishment_28,Food Store (Convenience/Variety),1,N/A - Not Applicable,Conditional Pass,Summons
+ID_28,Establishment_28,Ice Cream Plant,5,,Closed,Recommendations
+ID_28,Establishment_28,Child Care - Catered,2,M - Minor,Conditional Pass,Corrected During Inspection
+ID_28,Establishment_28,Chartered Cruise Boats,3,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_29,Establishment_29,Institutional Food Services,3,,Closed,Education Provided
+ID_29,Establishment_29,Child Care - Catered,4,N/A - Not Applicable,Pass,Not in Compliance
+ID_29,Establishment_29,Milk Pasteurization Plant,3,M - Minor,Closed,Summons
+ID_29,Establishment_29,Church Banquet Facility,1,N/A - Not Applicable,Closed,Prohibition Order Requested
+ID_29,Establishment_29,Retirement Homes(Licensed),4,C - Crucial,Closed,Ticket
+ID_30,Establishment_30,Bakery,5,M - Minor,Closed,Notice to Comply
+ID_30,Establishment_30,Bottling Plant,1,S - Significant,Conditional Pass,Warning Letter
+ID_30,Establishment_30,Rest Home,5,M - Minor,Closed,Summons
+ID_30,Establishment_30,Locker Plant,1,,Pass,Summons
+ID_30,Establishment_30,Food Vending Facility,2,,Closed,Order
+ID_31,Establishment_31,Bake Shop,3,N/A - Not Applicable,Pass,Closure Order
+ID_31,Establishment_31,Food Bank,4,M - Minor,Conditional Pass,Summons
+ID_31,Establishment_31,Locker Plant,5,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_31,Establishment_31,Butcher Shop,1,C - Crucial,Pass,Notice to Comply
+ID_31,Establishment_31,Locker Plant,5,M - Minor,Pass,Education Provided
+ID_32,Establishment_32,Ice Manufacturing Plant,1,C - Crucial,Pass,Not in Compliance
+ID_32,Establishment_32,Mobile Food Preparation Premises,2,S - Significant,Closed,Not in Compliance
+ID_32,Establishment_32,Private Club,3,S - Significant,Pass,Summons and Health Hazard Order
+ID_32,Establishment_32,Locker Plant,5,M - Minor,Conditional Pass,Warning Letter
+ID_32,Establishment_32,Flea Market,3,S - Significant,Closed,Warning Letter
+ID_33,Establishment_33,Food Depot,2,,Closed,Recommendations
+ID_33,Establishment_33,Food Bank,1,M - Minor,Pass,Closure Order
+ID_33,Establishment_33,Bake Shop,4,,Pass,Closure Order
+ID_33,Establishment_33,Locker Plant,4,M - Minor,Conditional Pass,Warning Letter
+ID_33,Establishment_33,Supermarket,5,M - Minor,Conditional Pass,Ticket
+ID_34,Establishment_34,Student Nutrition Site,2,M - Minor,Closed,Not in Compliance
+ID_34,Establishment_34,Centralized Kitchen,3,S - Significant,Pass,Warning Letter
+ID_34,Establishment_34,Community Kitchen (Meal Program),4,M - Minor,Conditional Pass,Recommendations
+ID_34,Establishment_34,Boarding / Lodging Home - Kitchen,1,,Conditional Pass,Corrected During Inspection
+ID_34,Establishment_34,Hospitals & Health Facilities,4,N/A - Not Applicable,Closed,Corrected During Inspection
+ID_35,Establishment_35,Centralized Kitchen,3,,Closed,Not in Compliance
+ID_35,Establishment_35,Milk Products Plant,3,N/A - Not Applicable,Pass,Not in Compliance
+ID_35,Establishment_35,Milk Pasteurization Plant,2,,Pass,Order
+ID_35,Establishment_35,Milk Products Plant,1,M - Minor,Closed,Not in Compliance
+ID_35,Establishment_35,Nursing Home / Home for the Aged,4,M - Minor,Closed,Summons and Health Hazard Order
+ID_36,Establishment_36,Commissary,2,S - Significant,Pass,Closure Order
+ID_36,Establishment_36,Bottling Plant,5,,Closed,Education Provided
+ID_36,Establishment_36,Retirement Homes(Un-licensed),1,,Conditional Pass,Recommendations
+ID_36,Establishment_36,Farmers` Market Vendor,1,N/A - Not Applicable,Pass,Warning Letter
+ID_36,Establishment_36,College / University Food Services,1,,Pass,Summons and Health Hazard Order
+ID_37,Establishment_37,Fish Shop,3,S - Significant,Closed,Summons and Health Hazard Order
+ID_37,Establishment_37,Fairs / Festivals / Special Occasions,4,N/A - Not Applicable,Closed,Education Provided
+ID_37,Establishment_37,Other Educational Facility Food Services,2,S - Significant,Conditional Pass,Summons
+ID_37,Establishment_37,Private Club,1,N/A - Not Applicable,Closed,Ticket
+ID_37,Establishment_37,Farmers` Market Vendor,5,S - Significant,Pass,Summons
+ID_38,Establishment_38,Other Educational Facility Food Services,1,M - Minor,Pass,Not in Compliance
+ID_38,Establishment_38,Milk Pasteurization Plant,4,,Conditional Pass,Not in Compliance
+ID_38,Establishment_38,Church Banquet Facility,5,S - Significant,Conditional Pass,Recommendations
+ID_38,Establishment_38,Serving Kitchen,3,M - Minor,Pass,Not in Compliance
+ID_38,Establishment_38,Mobile Food Preparation Premises,4,,Conditional Pass,Prohibition Order Requested
+ID_39,Establishment_39,Ice Cream Plant,4,C - Crucial,Conditional Pass,Closure Order
+ID_39,Establishment_39,Food Take Out,5,S - Significant,Pass,Notice to Comply
+ID_39,Establishment_39,Boarding / Lodging Home - Kitchen,4,C - Crucial,Closed,Recommendations
+ID_39,Establishment_39,Chartered Cruise Boats,3,M - Minor,Pass,Corrected During Inspection
+ID_39,Establishment_39,Bed & Breakfast,3,M - Minor,Closed,Not in Compliance
+ID_40,Establishment_40,Retirement Homes(Un-licensed),1,,Closed,Education Provided
+ID_40,Establishment_40,Milk Pasteurization Plant,5,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_40,Establishment_40,Fairs / Festivals / Special Occasions,5,M - Minor,Closed,Notice to Comply
+ID_40,Establishment_40,Ice Cream / Yogurt Vendors,1,C - Crucial,Conditional Pass,Education Provided
+ID_40,Establishment_40,Child Care - Catered,3,C - Crucial,Conditional Pass,Notice to Comply
+ID_41,Establishment_41,Bakery,1,C - Crucial,Closed,Corrected During Inspection
+ID_41,Establishment_41,Milk Products Plant,4,,Conditional Pass,Closure Order
+ID_41,Establishment_41,Bake Shop,1,S - Significant,Conditional Pass,Order
+ID_41,Establishment_41,Restaurant,2,N/A - Not Applicable,Conditional Pass,Warning Letter
+ID_41,Establishment_41,Food Vending Facility,2,N/A - Not Applicable,Pass,Education Provided
+ID_42,Establishment_42,Boarding / Lodging Home - Kitchen,3,M - Minor,Pass,Order
+ID_42,Establishment_42,Catering Vehicle,3,S - Significant,Pass,Summons
+ID_42,Establishment_42,Ice Cream / Yogurt Vendors,5,M - Minor,Closed,Summons and Health Hazard Order
+ID_42,Establishment_42,Other Educational Facility Food Services,4,N/A - Not Applicable,Pass,Corrected During Inspection
+ID_42,Establishment_42,Secondary School Food Services,5,M - Minor,Closed,Summons
+ID_43,Establishment_43,Food Vending Facility,2,S - Significant,Closed,Ticket
+ID_43,Establishment_43,Hospitals & Health Facilities,3,S - Significant,Conditional Pass,Prohibition Order Requested
+ID_43,Establishment_43,Mobile Food Preparation Premises,1,,Pass,Not in Compliance
+ID_43,Establishment_43,Fish Shop,3,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_43,Establishment_43,Restaurant,1,N/A - Not Applicable,Closed,Notice to Comply
+ID_44,Establishment_44,Bake Shop,3,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_44,Establishment_44,Institutional Food Services,5,N/A - Not Applicable,Closed,Order
+ID_44,Establishment_44,Bakery,4,M - Minor,Closed,Summons and Health Hazard Order
+ID_44,Establishment_44,Student Nutrition Site,1,M - Minor,Pass,Summons and Health Hazard Order
+ID_44,Establishment_44,Hot Dog Cart,5,S - Significant,Conditional Pass,Warning Letter
+ID_45,Establishment_45,Hospitals & Health Facilities,1,M - Minor,Conditional Pass,Corrected During Inspection
+ID_45,Establishment_45,Food Caterer,5,C - Crucial,Closed,Warning Letter
+ID_45,Establishment_45,Flea Market,3,,Conditional Pass,Summons and Health Hazard Order
+ID_45,Establishment_45,Ice Manufacturing Plant,5,,Pass,Not in Compliance
+ID_45,Establishment_45,Mobile Food Preparation Premises,3,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_46,Establishment_46,Bottling Plant,4,N/A - Not Applicable,Conditional Pass,Education Provided
+ID_46,Establishment_46,Food Bank,4,C - Crucial,Closed,Corrected During Inspection
+ID_46,Establishment_46,Food Processing Plant,4,S - Significant,Conditional Pass,Closure Order
+ID_46,Establishment_46,Community Kitchen (Meal Program),1,,Pass,Summons and Health Hazard Order
+ID_46,Establishment_46,Church Banquet Facility,4,,Closed,Recommendations
+ID_47,Establishment_47,Bake Shop,1,M - Minor,Closed,Warning Letter
+ID_47,Establishment_47,Flea Market,1,N/A - Not Applicable,Closed,Education Provided
+ID_47,Establishment_47,Serving Kitchen,1,,Closed,Not in Compliance
+ID_47,Establishment_47,Cafeteria - Private Access,4,S - Significant,Pass,Summons
+ID_47,Establishment_47,Cocktail Bar / Beverage Room,3,,Closed,Summons
+ID_48,Establishment_48,Hospitals & Health Facilities,4,S - Significant,Pass,Summons and Health Hazard Order
+ID_48,Establishment_48,Bottling Plant,4,N/A - Not Applicable,Closed,Corrected During Inspection
+ID_48,Establishment_48,Food Depot,2,,Conditional Pass,Closure Order
+ID_48,Establishment_48,Food Processing Plant,3,N/A - Not Applicable,Pass,Ticket
+ID_48,Establishment_48,Food Depot,2,M - Minor,Closed,Notice to Comply
+ID_49,Establishment_49,Commissary,4,S - Significant,Pass,Closure Order
+ID_49,Establishment_49,Food Caterer,1,C - Crucial,Closed,Recommendations
+ID_49,Establishment_49,Supermarket,2,M - Minor,Pass,Ticket
+ID_49,Establishment_49,Meat Processing Plant,4,M - Minor,Closed,Prohibition Order Requested
+ID_49,Establishment_49,Refreshment Stand (Stationary),5,,Conditional Pass,Corrected During Inspection
+ID_50,Establishment_50,Food Cart,3,C - Crucial,Closed,Ticket
+ID_50,Establishment_50,Rest Home,2,N/A - Not Applicable,Pass,Closure Order
+ID_50,Establishment_50,Elementary School Food Services,2,N/A - Not Applicable,Pass,Summons and Health Hazard Order
+ID_50,Establishment_50,Fairs / Festivals / Special Occasions,5,S - Significant,Conditional Pass,Not in Compliance
+ID_50,Establishment_50,Fairs / Festivals / Special Occasions,3,S - Significant,Pass,Order
+ID_51,Establishment_51,Retirement Homes(Un-licensed),4,N/A - Not Applicable,Pass,Education Provided
+ID_51,Establishment_51,Child Care - Catered,3,,Closed,Education Provided
+ID_51,Establishment_51,Food Processing Plant,3,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_51,Establishment_51,Milk Products Plant,4,S - Significant,Pass,Corrected During Inspection
+ID_51,Establishment_51,Commissary,4,S - Significant,Conditional Pass,Order
+ID_52,Establishment_52,Restaurant,2,S - Significant,Pass,Prohibition Order Requested
+ID_52,Establishment_52,Banquet Facility,1,,Closed,Not in Compliance
+ID_52,Establishment_52,Other Educational Facility Food Services,2,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_52,Establishment_52,Catering Vehicle,5,M - Minor,Closed,Order
+ID_52,Establishment_52,Food Caterer,2,C - Crucial,Conditional Pass,Closure Order
+ID_53,Establishment_53,Butcher Shop,5,,Conditional Pass,Recommendations
+ID_53,Establishment_53,Catering Vehicle,3,,Closed,Education Provided
+ID_53,Establishment_53,Commissary,4,C - Crucial,Conditional Pass,Closure Order
+ID_53,Establishment_53,Food Depot,1,,Closed,Notice to Comply
+ID_53,Establishment_53,Meat Processing Plant,5,M - Minor,Pass,Corrected During Inspection
+ID_54,Establishment_54,Refreshment Stand (Stationary),3,,Conditional Pass,Warning Letter
+ID_54,Establishment_54,Elementary School Food Services,5,N/A - Not Applicable,Conditional Pass,Ticket
+ID_54,Establishment_54,Secondary School Food Services,4,S - Significant,Closed,Closure Order
+ID_54,Establishment_54,Cafeteria - Private Access,3,N/A - Not Applicable,Conditional Pass,Education Provided
+ID_54,Establishment_54,Child Care - Catered,5,N/A - Not Applicable,Closed,Not in Compliance
+ID_55,Establishment_55,Milk Products Plant,1,S - Significant,Pass,Summons and Health Hazard Order
+ID_55,Establishment_55,College / University Food Services,2,S - Significant,Pass,Summons
+ID_55,Establishment_55,Cafeteria - Private Access,4,C - Crucial,Closed,Summons and Health Hazard Order
+ID_55,Establishment_55,Milk Pasteurization Plant,1,M - Minor,Pass,Not in Compliance
+ID_55,Establishment_55,Supermarket,3,M - Minor,Closed,Warning Letter
+ID_56,Establishment_56,Chartered Cruise Boats,5,N/A - Not Applicable,Closed,Notice to Comply
+ID_56,Establishment_56,Ice Manufacturing Plant,2,M - Minor,Conditional Pass,Notice to Comply
+ID_56,Establishment_56,Child Care - Catered,5,C - Crucial,Pass,Ticket
+ID_56,Establishment_56,Ice Cream / Yogurt Vendors,1,,Closed,Recommendations
+ID_56,Establishment_56,Student Nutrition Site,1,M - Minor,Conditional Pass,Not in Compliance
+ID_57,Establishment_57,Secondary School Food Services,2,N/A - Not Applicable,Closed,Order
+ID_57,Establishment_57,Food Caterer,1,,Pass,Prohibition Order Requested
+ID_57,Establishment_57,Bottling Plant,5,,Conditional Pass,Not in Compliance
+ID_57,Establishment_57,Farmers` Market Vendor,5,S - Significant,Pass,Summons
+ID_57,Establishment_57,Private Club,4,,Pass,Notice to Comply
+ID_58,Establishment_58,Centralized Kitchen,2,N/A - Not Applicable,Pass,Summons
+ID_58,Establishment_58,Child Care - Food Preparation,5,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_58,Establishment_58,Brew Your Own Beer / Wine,1,S - Significant,Pass,Prohibition Order Requested
+ID_58,Establishment_58,Farmers` Market Vendor,1,C - Crucial,Pass,Summons
+ID_58,Establishment_58,Hot Dog Cart,1,N/A - Not Applicable,Closed,Closure Order
+ID_59,Establishment_59,Retirement Homes(Licensed),1,C - Crucial,Closed,Summons and Health Hazard Order
+ID_59,Establishment_59,Food Court Vendor,2,N/A - Not Applicable,Conditional Pass,Ticket
+ID_59,Establishment_59,Child Care - Food Preparation,4,,Conditional Pass,Ticket
+ID_59,Establishment_59,Retirement Homes(Un-licensed),4,M - Minor,Pass,Summons
+ID_59,Establishment_59,Milk Pasteurization Plant,5,N/A - Not Applicable,Conditional Pass,Summons
+ID_60,Establishment_60,Student Nutrition Site,1,S - Significant,Conditional Pass,Not in Compliance
+ID_60,Establishment_60,Centralized Kitchen,1,S - Significant,Conditional Pass,Closure Order
+ID_60,Establishment_60,Serving Kitchen,1,S - Significant,Conditional Pass,Not in Compliance
+ID_60,Establishment_60,Butcher Shop,5,M - Minor,Closed,Warning Letter
+ID_60,Establishment_60,Food Caterer,3,N/A - Not Applicable,Pass,Not in Compliance
+ID_61,Establishment_61,Hospitals & Health Facilities,3,,Pass,Not in Compliance
+ID_61,Establishment_61,Food Cart,5,M - Minor,Conditional Pass,Order
+ID_61,Establishment_61,College / University Food Services,5,,Pass,Summons
+ID_61,Establishment_61,Bed & Breakfast,2,S - Significant,Closed,Recommendations
+ID_61,Establishment_61,Retirement Homes(Un-licensed),5,C - Crucial,Pass,Closure Order
+ID_62,Establishment_62,Food Processing Plant,2,S - Significant,Closed,Corrected During Inspection
+ID_62,Establishment_62,Food Vending Facility,3,N/A - Not Applicable,Conditional Pass,Not in Compliance
+ID_62,Establishment_62,Ice Manufacturing Plant,2,C - Crucial,Closed,Notice to Comply
+ID_62,Establishment_62,Locker Plant,3,M - Minor,Closed,Summons and Health Hazard Order
+ID_62,Establishment_62,Retirement Homes(Licensed),5,,Closed,Ticket
+ID_63,Establishment_63,Food Caterer,3,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_63,Establishment_63,Student Nutrition Site,1,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_63,Establishment_63,Milk Products Plant,5,M - Minor,Conditional Pass,Warning Letter
+ID_63,Establishment_63,Refreshment Stand (Stationary),4,N/A - Not Applicable,Closed,Summons
+ID_63,Establishment_63,Food Processing Plant,4,N/A - Not Applicable,Closed,Education Provided
+ID_64,Establishment_64,Bake Shop,4,C - Crucial,Conditional Pass,Not in Compliance
+ID_64,Establishment_64,Community Kitchen (Meal Program),1,,Pass,Education Provided
+ID_64,Establishment_64,Community Kitchen (Meal Program),1,N/A - Not Applicable,Closed,Notice to Comply
+ID_64,Establishment_64,Brew Your Own Beer / Wine,4,M - Minor,Conditional Pass,Corrected During Inspection
+ID_64,Establishment_64,Community Kitchen (Meal Program),3,C - Crucial,Conditional Pass,Not in Compliance
+ID_65,Establishment_65,Child Care - Food Preparation,1,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_65,Establishment_65,Bakery,4,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_65,Establishment_65,Bake Shop,2,M - Minor,Pass,Recommendations
+ID_65,Establishment_65,Retirement Homes(Licensed),3,M - Minor,Conditional Pass,Ticket
+ID_65,Establishment_65,Private Club,1,M - Minor,Pass,Summons
+ID_66,Establishment_66,College / University Food Services,1,M - Minor,Conditional Pass,Closure Order
+ID_66,Establishment_66,Commissary,1,C - Crucial,Pass,Order
+ID_66,Establishment_66,Flea Market,1,M - Minor,Closed,Not in Compliance
+ID_66,Establishment_66,Food Court Vendor,4,S - Significant,Closed,Closure Order
+ID_66,Establishment_66,Banquet Facility,2,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_67,Establishment_67,Bakery,1,M - Minor,Pass,Closure Order
+ID_67,Establishment_67,Private Club,2,M - Minor,Conditional Pass,Ticket
+ID_67,Establishment_67,Catering Vehicle,1,S - Significant,Closed,Education Provided
+ID_67,Establishment_67,Retirement Homes(Licensed),5,,Conditional Pass,Ticket
+ID_67,Establishment_67,Refreshment Stand (Stationary),2,,Pass,Order
+ID_68,Establishment_68,Cocktail Bar / Beverage Room,5,,Closed,Prohibition Order Requested
+ID_68,Establishment_68,Flea Market,4,M - Minor,Pass,Not in Compliance
+ID_68,Establishment_68,Catering Vehicle,3,N/A - Not Applicable,Closed,Education Provided
+ID_68,Establishment_68,Child Care - Food Preparation,5,M - Minor,Closed,Corrected During Inspection
+ID_68,Establishment_68,Meat Processing Plant,1,N/A - Not Applicable,Pass,Corrected During Inspection
+ID_69,Establishment_69,Child Care - Catered,2,M - Minor,Pass,Warning Letter
+ID_69,Establishment_69,Child Care - Food Preparation,2,M - Minor,Conditional Pass,Summons
+ID_69,Establishment_69,Child Care - Catered,1,M - Minor,Pass,Notice to Comply
+ID_69,Establishment_69,Flea Market,2,,Pass,Summons and Health Hazard Order
+ID_69,Establishment_69,Banquet Facility,1,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_70,Establishment_70,Mobile Food Preparation Premises,4,M - Minor,Pass,Warning Letter
+ID_70,Establishment_70,Food Cart,5,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_70,Establishment_70,Bake Shop,3,S - Significant,Conditional Pass,Closure Order
+ID_70,Establishment_70,Food Vending Facility,4,M - Minor,Conditional Pass,Not in Compliance
+ID_70,Establishment_70,Refreshment Stand (Stationary),5,,Closed,Education Provided
+ID_71,Establishment_71,Brew Your Own Beer / Wine,2,M - Minor,Closed,Not in Compliance
+ID_71,Establishment_71,Ice Cream / Yogurt Vendors,2,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_71,Establishment_71,Boarding / Lodging Home - Kitchen,1,N/A - Not Applicable,Conditional Pass,Summons
+ID_71,Establishment_71,Student Nutrition Site,3,,Pass,Education Provided
+ID_71,Establishment_71,Food Cart,2,M - Minor,Conditional Pass,Summons
+ID_72,Establishment_72,Rest Home,2,N/A - Not Applicable,Pass,Summons
+ID_72,Establishment_72,Elementary School Food Services,3,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_72,Establishment_72,Child Care - Food Preparation,2,,Pass,Summons and Health Hazard Order
+ID_72,Establishment_72,Bottling Plant,5,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_72,Establishment_72,Cocktail Bar / Beverage Room,2,,Closed,Order
+ID_73,Establishment_73,Ice Cream / Yogurt Vendors,5,S - Significant,Closed,Summons
+ID_73,Establishment_73,Food Processing Plant,4,,Pass,Ticket
+ID_73,Establishment_73,Commissary,4,N/A - Not Applicable,Pass,Corrected During Inspection
+ID_73,Establishment_73,Fairs / Festivals / Special Occasions,2,M - Minor,Conditional Pass,Closure Order
+ID_73,Establishment_73,Chartered Cruise Boats,1,,Conditional Pass,Closure Order
+ID_74,Establishment_74,Chartered Cruise Boats,2,M - Minor,Conditional Pass,Recommendations
+ID_74,Establishment_74,Food Cart,1,,Conditional Pass,Summons
+ID_74,Establishment_74,Commissary,5,N/A - Not Applicable,Conditional Pass,Warning Letter
+ID_74,Establishment_74,Elementary School Food Services,5,S - Significant,Closed,Summons
+ID_74,Establishment_74,Boarding / Lodging Home - Kitchen,1,N/A - Not Applicable,Closed,Recommendations
+ID_75,Establishment_75,Food Court Vendor,3,,Conditional Pass,Summons and Health Hazard Order
+ID_75,Establishment_75,Institutional Food Services,5,N/A - Not Applicable,Pass,Recommendations
+ID_75,Establishment_75,Boarding / Lodging Home - Kitchen,4,,Conditional Pass,Summons
+ID_75,Establishment_75,Milk Products Plant,5,,Closed,Education Provided
+ID_75,Establishment_75,Milk Products Plant,4,N/A - Not Applicable,Pass,Notice to Comply
+ID_76,Establishment_76,Catering Vehicle,5,,Closed,Recommendations
+ID_76,Establishment_76,Food Cart,2,,Pass,Order
+ID_76,Establishment_76,Centralized Kitchen,4,N/A - Not Applicable,Closed,Order
+ID_76,Establishment_76,Bottling Plant,1,,Pass,Not in Compliance
+ID_76,Establishment_76,Boarding / Lodging Home - Kitchen,5,C - Crucial,Pass,Summons
+ID_77,Establishment_77,Catering Vehicle,5,,Pass,Recommendations
+ID_77,Establishment_77,Farmers` Market Vendor,3,S - Significant,Conditional Pass,Notice to Comply
+ID_77,Establishment_77,Restaurant,5,N/A - Not Applicable,Closed,Recommendations
+ID_77,Establishment_77,Cafeteria - Public Access,1,S - Significant,Conditional Pass,Order
+ID_77,Establishment_77,Mobile Food Preparation Premises,3,C - Crucial,Conditional Pass,Warning Letter
+ID_78,Establishment_78,Restaurant,1,C - Crucial,Closed,Recommendations
+ID_78,Establishment_78,Elementary School Food Services,4,M - Minor,Closed,Prohibition Order Requested
+ID_78,Establishment_78,Food Depot,5,C - Crucial,Pass,Education Provided
+ID_78,Establishment_78,Food Bank,4,,Pass,Prohibition Order Requested
+ID_78,Establishment_78,Mobile Food Preparation Premises,2,N/A - Not Applicable,Pass,Order
+ID_79,Establishment_79,Food Processing Plant,5,S - Significant,Pass,Order
+ID_79,Establishment_79,Restaurant,3,C - Crucial,Conditional Pass,Corrected During Inspection
+ID_79,Establishment_79,Cafeteria - Private Access,5,,Conditional Pass,Recommendations
+ID_79,Establishment_79,Hot Dog Cart,4,,Pass,Recommendations
+ID_79,Establishment_79,Fish Shop,5,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_80,Establishment_80,College / University Food Services,2,S - Significant,Pass,Warning Letter
+ID_80,Establishment_80,Bake Shop,3,S - Significant,Conditional Pass,Notice to Comply
+ID_80,Establishment_80,Bakery,1,M - Minor,Conditional Pass,Order
+ID_80,Establishment_80,Cafeteria - Private Access,2,,Closed,Not in Compliance
+ID_80,Establishment_80,Mobile Food Preparation Premises,4,M - Minor,Closed,Warning Letter
+ID_81,Establishment_81,Fairs / Festivals / Special Occasions,3,,Closed,Closure Order
+ID_81,Establishment_81,Milk Products Plant,4,,Conditional Pass,Summons
+ID_81,Establishment_81,Fish Shop,1,,Conditional Pass,Not in Compliance
+ID_81,Establishment_81,Fairs / Festivals / Special Occasions,1,M - Minor,Conditional Pass,Summons
+ID_81,Establishment_81,Catering Vehicle,2,C - Crucial,Conditional Pass,Notice to Comply
+ID_82,Establishment_82,Food Vending Facility,1,S - Significant,Closed,Prohibition Order Requested
+ID_82,Establishment_82,Elementary School Food Services,5,N/A - Not Applicable,Conditional Pass,Corrected During Inspection
+ID_82,Establishment_82,Supermarket,1,,Pass,Order
+ID_82,Establishment_82,Locker Plant,2,M - Minor,Closed,Ticket
+ID_82,Establishment_82,Serving Kitchen,1,,Pass,Notice to Comply
+ID_83,Establishment_83,Retirement Homes(Un-licensed),3,C - Crucial,Closed,Closure Order
+ID_83,Establishment_83,Ice Cream / Yogurt Vendors,3,M - Minor,Pass,Order
+ID_83,Establishment_83,Ice Cream Plant,5,S - Significant,Closed,Corrected During Inspection
+ID_83,Establishment_83,Child Care - Food Preparation,5,C - Crucial,Conditional Pass,Ticket
+ID_83,Establishment_83,Mobile Food Preparation Premises,3,N/A - Not Applicable,Closed,Not in Compliance
+ID_84,Establishment_84,Student Nutrition Site,3,M - Minor,Closed,Education Provided
+ID_84,Establishment_84,Ice Manufacturing Plant,1,N/A - Not Applicable,Pass,Order
+ID_84,Establishment_84,Nursing Home / Home for the Aged,1,,Pass,Corrected During Inspection
+ID_84,Establishment_84,Cocktail Bar / Beverage Room,1,C - Crucial,Closed,Corrected During Inspection
+ID_84,Establishment_84,Bed & Breakfast,1,,Conditional Pass,Order
+ID_85,Establishment_85,Child Care - Food Preparation,4,C - Crucial,Pass,Education Provided
+ID_85,Establishment_85,Child Care - Catered,4,M - Minor,Conditional Pass,Ticket
+ID_85,Establishment_85,Serving Kitchen,4,M - Minor,Conditional Pass,Recommendations
+ID_85,Establishment_85,Fairs / Festivals / Special Occasions,3,C - Crucial,Conditional Pass,Closure Order
+ID_85,Establishment_85,Community Kitchen (Meal Program),1,C - Crucial,Pass,Not in Compliance
+ID_86,Establishment_86,Bottling Plant,1,N/A - Not Applicable,Pass,Notice to Comply
+ID_86,Establishment_86,Food Processing Plant,1,C - Crucial,Closed,Notice to Comply
+ID_86,Establishment_86,Community Kitchen (Meal Program),4,,Conditional Pass,Notice to Comply
+ID_86,Establishment_86,Locker Plant,3,,Pass,Order
+ID_86,Establishment_86,Other Educational Facility Food Services,1,C - Crucial,Closed,Corrected During Inspection
+ID_87,Establishment_87,Community Kitchen (Meal Program),1,,Closed,Education Provided
+ID_87,Establishment_87,Fairs / Festivals / Special Occasions,1,N/A - Not Applicable,Closed,Corrected During Inspection
+ID_87,Establishment_87,Food Vending Facility,5,,Pass,Closure Order
+ID_87,Establishment_87,Food Cart,4,M - Minor,Closed,Not in Compliance
+ID_87,Establishment_87,Other Educational Facility Food Services,2,N/A - Not Applicable,Closed,Closure Order
+ID_88,Establishment_88,Meat Processing Plant,2,,Conditional Pass,Education Provided
+ID_88,Establishment_88,Cafeteria - Public Access,2,,Closed,Summons
+ID_88,Establishment_88,Bottling Plant,2,C - Crucial,Pass,Education Provided
+ID_88,Establishment_88,Fish Shop,3,C - Crucial,Conditional Pass,Order
+ID_88,Establishment_88,Food Court Vendor,1,C - Crucial,Conditional Pass,Warning Letter
+ID_89,Establishment_89,Bakery,3,C - Crucial,Pass,Notice to Comply
+ID_89,Establishment_89,Locker Plant,1,M - Minor,Pass,Corrected During Inspection
+ID_89,Establishment_89,Community Kitchen (Meal Program),5,N/A - Not Applicable,Conditional Pass,Ticket
+ID_89,Establishment_89,Bakery,3,,Pass,Warning Letter
+ID_89,Establishment_89,Student Nutrition Site,3,,Pass,Notice to Comply
+ID_90,Establishment_90,Cafeteria - Private Access,5,N/A - Not Applicable,Conditional Pass,Corrected During Inspection
+ID_90,Establishment_90,Child Care - Food Preparation,4,C - Crucial,Pass,Warning Letter
+ID_90,Establishment_90,Farmers` Market Vendor,3,N/A - Not Applicable,Closed,Notice to Comply
+ID_90,Establishment_90,Bake Shop,4,S - Significant,Conditional Pass,Not in Compliance
+ID_90,Establishment_90,Milk Pasteurization Plant,1,S - Significant,Closed,Not in Compliance
+ID_91,Establishment_91,Bakery,5,,Conditional Pass,Notice to Comply
+ID_91,Establishment_91,Food Processing Plant,3,S - Significant,Closed,Corrected During Inspection
+ID_91,Establishment_91,Secondary School Food Services,2,M - Minor,Closed,Not in Compliance
+ID_91,Establishment_91,Fish Shop,2,,Pass,Education Provided
+ID_91,Establishment_91,Commissary,3,N/A - Not Applicable,Closed,Closure Order
+ID_92,Establishment_92,Hospitals & Health Facilities,5,S - Significant,Closed,Prohibition Order Requested
+ID_92,Establishment_92,Ice Cream / Yogurt Vendors,3,M - Minor,Closed,Summons and Health Hazard Order
+ID_92,Establishment_92,Food Court Vendor,2,N/A - Not Applicable,Conditional Pass,Summons
+ID_92,Establishment_92,Milk Products Plant,2,C - Crucial,Pass,Order
+ID_92,Establishment_92,Food Caterer,1,S - Significant,Conditional Pass,Not in Compliance
+ID_93,Establishment_93,Food Court Vendor,1,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_93,Establishment_93,Food Cart,1,,Pass,Ticket
+ID_93,Establishment_93,Fairs / Festivals / Special Occasions,2,,Conditional Pass,Education Provided
+ID_93,Establishment_93,Rest Home,1,M - Minor,Pass,Summons
+ID_93,Establishment_93,Ice Manufacturing Plant,3,M - Minor,Conditional Pass,Corrected During Inspection
+ID_94,Establishment_94,Church Banquet Facility,3,M - Minor,Pass,Summons
+ID_94,Establishment_94,Centralized Kitchen,4,,Pass,Education Provided
+ID_94,Establishment_94,Food Take Out,4,N/A - Not Applicable,Pass,Order
+ID_94,Establishment_94,Milk Pasteurization Plant,2,C - Crucial,Conditional Pass,Summons and Health Hazard Order
+ID_94,Establishment_94,Food Cart,1,,Closed,Corrected During Inspection
+ID_95,Establishment_95,Catering Vehicle,1,S - Significant,Closed,Corrected During Inspection
+ID_95,Establishment_95,Hot Dog Cart,1,S - Significant,Pass,Order
+ID_95,Establishment_95,Retirement Homes(Licensed),5,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_95,Establishment_95,Food Take Out,3,N/A - Not Applicable,Pass,Ticket
+ID_95,Establishment_95,Child Care - Food Preparation,5,S - Significant,Conditional Pass,Recommendations
+ID_96,Establishment_96,Private Club,2,,Conditional Pass,Corrected During Inspection
+ID_96,Establishment_96,Boarding / Lodging Home - Kitchen,4,C - Crucial,Pass,Corrected During Inspection
+ID_96,Establishment_96,Centralized Kitchen,5,S - Significant,Pass,Recommendations
+ID_96,Establishment_96,Mobile Food Preparation Premises,1,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_96,Establishment_96,College / University Food Services,4,N/A - Not Applicable,Conditional Pass,Closure Order
+ID_97,Establishment_97,Food Depot,4,,Pass,Warning Letter
+ID_97,Establishment_97,Mobile Food Preparation Premises,5,N/A - Not Applicable,Conditional Pass,Not in Compliance
+ID_97,Establishment_97,Hot Dog Cart,3,N/A - Not Applicable,Pass,Recommendations
+ID_97,Establishment_97,Catering Vehicle,2,N/A - Not Applicable,Pass,Prohibition Order Requested
+ID_97,Establishment_97,Refreshment Stand (Stationary),2,M - Minor,Pass,Warning Letter
+ID_98,Establishment_98,Rest Home,1,,Conditional Pass,Notice to Comply
+ID_98,Establishment_98,Food Bank,5,,Pass,Closure Order
+ID_98,Establishment_98,Cafeteria - Private Access,2,S - Significant,Closed,Prohibition Order Requested
+ID_98,Establishment_98,Fairs / Festivals / Special Occasions,2,C - Crucial,Pass,Ticket
+ID_98,Establishment_98,Banquet Facility,3,,Pass,Prohibition Order Requested
+ID_99,Establishment_99,Centralized Kitchen,2,M - Minor,Conditional Pass,Summons and Health Hazard Order
+ID_99,Establishment_99,Food Take Out,1,,Pass,Summons
+ID_99,Establishment_99,Food Cart,4,M - Minor,Closed,Summons
+ID_99,Establishment_99,Cafeteria - Private Access,2,,Closed,Summons and Health Hazard Order
+ID_99,Establishment_99,Serving Kitchen,1,C - Crucial,Closed,Corrected During Inspection
+ID_100,Establishment_100,Bottling Plant,1,S - Significant,Closed,Recommendations
+ID_100,Establishment_100,Secondary School Food Services,3,S - Significant,Closed,Warning Letter
+ID_100,Establishment_100,Private Club,2,C - Crucial,Conditional Pass,Warning Letter
+ID_100,Establishment_100,Cafeteria - Public Access,5,M - Minor,Pass,Recommendations
+ID_100,Establishment_100,Food Bank,1,,Closed,Notice to Comply
+ID_101,Establishment_101,Milk Products Plant,5,N/A - Not Applicable,Closed,Order
+ID_101,Establishment_101,Brew Your Own Beer / Wine,5,S - Significant,Pass,Corrected During Inspection
+ID_101,Establishment_101,Bottling Plant,5,,Conditional Pass,Corrected During Inspection
+ID_101,Establishment_101,Retirement Homes(Licensed),5,M - Minor,Conditional Pass,Notice to Comply
+ID_101,Establishment_101,Catering Vehicle,1,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_102,Establishment_102,Cocktail Bar / Beverage Room,3,C - Crucial,Closed,Recommendations
+ID_102,Establishment_102,Nursing Home / Home for the Aged,2,N/A - Not Applicable,Conditional Pass,Prohibition Order Requested
+ID_102,Establishment_102,Food Processing Plant,1,N/A - Not Applicable,Conditional Pass,Order
+ID_102,Establishment_102,Other Educational Facility Food Services,1,S - Significant,Pass,Not in Compliance
+ID_102,Establishment_102,College / University Food Services,5,C - Crucial,Closed,Warning Letter
+ID_103,Establishment_103,Commissary,4,M - Minor,Conditional Pass,Closure Order
+ID_103,Establishment_103,Mobile Food Preparation Premises,2,N/A - Not Applicable,Closed,Corrected During Inspection
+ID_103,Establishment_103,Retirement Homes(Licensed),4,S - Significant,Closed,Corrected During Inspection
+ID_103,Establishment_103,Institutional Food Services,2,S - Significant,Conditional Pass,Prohibition Order Requested
+ID_103,Establishment_103,Hot Dog Cart,5,S - Significant,Closed,Order
+ID_104,Establishment_104,Centralized Kitchen,2,M - Minor,Closed,Not in Compliance
+ID_104,Establishment_104,Bottling Plant,4,N/A - Not Applicable,Closed,Not in Compliance
+ID_104,Establishment_104,Hot Dog Cart,4,S - Significant,Conditional Pass,Notice to Comply
+ID_104,Establishment_104,Child Care - Food Preparation,4,,Conditional Pass,Summons and Health Hazard Order
+ID_104,Establishment_104,Bakery,5,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_105,Establishment_105,Nursing Home / Home for the Aged,4,M - Minor,Closed,Notice to Comply
+ID_105,Establishment_105,Bakery,5,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_105,Establishment_105,Private Club,1,C - Crucial,Conditional Pass,Ticket
+ID_105,Establishment_105,Flea Market,3,C - Crucial,Conditional Pass,Warning Letter
+ID_105,Establishment_105,Milk Products Plant,4,C - Crucial,Closed,Not in Compliance
+ID_106,Establishment_106,Bakery,2,N/A - Not Applicable,Conditional Pass,Summons
+ID_106,Establishment_106,Fairs / Festivals / Special Occasions,2,N/A - Not Applicable,Pass,Prohibition Order Requested
+ID_106,Establishment_106,Bottling Plant,3,C - Crucial,Closed,Corrected During Inspection
+ID_106,Establishment_106,Brew Your Own Beer / Wine,3,S - Significant,Closed,Ticket
+ID_106,Establishment_106,Bakery,1,M - Minor,Pass,Recommendations
+ID_107,Establishment_107,Ice Cream Plant,3,C - Crucial,Conditional Pass,Summons
+ID_107,Establishment_107,Food Cart,3,S - Significant,Pass,Corrected During Inspection
+ID_107,Establishment_107,Milk Pasteurization Plant,4,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_107,Establishment_107,College / University Food Services,2,S - Significant,Closed,Education Provided
+ID_107,Establishment_107,Hospitals & Health Facilities,4,C - Crucial,Pass,Summons
+ID_108,Establishment_108,Catering Vehicle,1,C - Crucial,Closed,Order
+ID_108,Establishment_108,Church Banquet Facility,3,C - Crucial,Pass,Education Provided
+ID_108,Establishment_108,Child Care - Food Preparation,1,N/A - Not Applicable,Conditional Pass,Summons
+ID_108,Establishment_108,Serving Kitchen,3,N/A - Not Applicable,Pass,Summons and Health Hazard Order
+ID_108,Establishment_108,Centralized Kitchen,4,M - Minor,Pass,Education Provided
+ID_109,Establishment_109,Serving Kitchen,4,S - Significant,Closed,Summons and Health Hazard Order
+ID_109,Establishment_109,Locker Plant,3,M - Minor,Conditional Pass,Ticket
+ID_109,Establishment_109,Student Nutrition Site,3,C - Crucial,Conditional Pass,Summons and Health Hazard Order
+ID_109,Establishment_109,Milk Pasteurization Plant,4,C - Crucial,Conditional Pass,Not in Compliance
+ID_109,Establishment_109,Flea Market,1,M - Minor,Closed,Warning Letter
+ID_110,Establishment_110,Cocktail Bar / Beverage Room,1,C - Crucial,Pass,Corrected During Inspection
+ID_110,Establishment_110,Community Kitchen (Meal Program),1,N/A - Not Applicable,Closed,Order
+ID_110,Establishment_110,Chartered Cruise Boats,2,,Conditional Pass,Warning Letter
+ID_110,Establishment_110,Institutional Food Services,5,C - Crucial,Conditional Pass,Corrected During Inspection
+ID_110,Establishment_110,Boarding / Lodging Home - Kitchen,1,M - Minor,Pass,Not in Compliance
+ID_111,Establishment_111,Boarding / Lodging Home - Kitchen,2,S - Significant,Pass,Summons
+ID_111,Establishment_111,Child Care - Food Preparation,3,,Conditional Pass,Warning Letter
+ID_111,Establishment_111,Food Vending Facility,3,,Conditional Pass,Summons and Health Hazard Order
+ID_111,Establishment_111,Food Cart,3,C - Crucial,Conditional Pass,Not in Compliance
+ID_111,Establishment_111,Nursing Home / Home for the Aged,3,,Closed,Summons and Health Hazard Order
+ID_112,Establishment_112,Serving Kitchen,2,,Conditional Pass,Ticket
+ID_112,Establishment_112,Fish Shop,3,,Closed,Notice to Comply
+ID_112,Establishment_112,College / University Food Services,2,S - Significant,Conditional Pass,Closure Order
+ID_112,Establishment_112,Refreshment Stand (Stationary),1,S - Significant,Pass,Prohibition Order Requested
+ID_112,Establishment_112,Retirement Homes(Un-licensed),5,C - Crucial,Conditional Pass,Corrected During Inspection
+ID_113,Establishment_113,Chartered Cruise Boats,2,M - Minor,Pass,Closure Order
+ID_113,Establishment_113,Food Vending Facility,3,M - Minor,Closed,Closure Order
+ID_113,Establishment_113,Ice Cream Plant,1,S - Significant,Pass,Summons
+ID_113,Establishment_113,Farmers` Market Vendor,1,N/A - Not Applicable,Closed,Notice to Comply
+ID_113,Establishment_113,Secondary School Food Services,2,N/A - Not Applicable,Pass,Corrected During Inspection
+ID_114,Establishment_114,Food Court Vendor,3,,Pass,Summons
+ID_114,Establishment_114,Bed & Breakfast,2,C - Crucial,Closed,Summons and Health Hazard Order
+ID_114,Establishment_114,Fish Shop,4,,Conditional Pass,Summons
+ID_114,Establishment_114,Bakery,2,N/A - Not Applicable,Pass,Warning Letter
+ID_114,Establishment_114,Fairs / Festivals / Special Occasions,4,N/A - Not Applicable,Closed,Not in Compliance
+ID_115,Establishment_115,Food Store (Convenience/Variety),1,C - Crucial,Pass,Summons and Health Hazard Order
+ID_115,Establishment_115,Serving Kitchen,3,S - Significant,Conditional Pass,Corrected During Inspection
+ID_115,Establishment_115,Butcher Shop,5,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_115,Establishment_115,Cafeteria - Private Access,1,S - Significant,Conditional Pass,Summons
+ID_115,Establishment_115,Chartered Cruise Boats,4,,Pass,Notice to Comply
+ID_116,Establishment_116,Food Take Out,3,S - Significant,Conditional Pass,Notice to Comply
+ID_116,Establishment_116,Brew Your Own Beer / Wine,5,M - Minor,Closed,Corrected During Inspection
+ID_116,Establishment_116,Butcher Shop,3,S - Significant,Closed,Ticket
+ID_116,Establishment_116,Food Court Vendor,3,,Closed,Order
+ID_116,Establishment_116,Secondary School Food Services,2,M - Minor,Closed,Summons
+ID_117,Establishment_117,Church Banquet Facility,2,,Conditional Pass,Prohibition Order Requested
+ID_117,Establishment_117,Ice Cream / Yogurt Vendors,4,,Closed,Warning Letter
+ID_117,Establishment_117,Catering Vehicle,1,S - Significant,Closed,Ticket
+ID_117,Establishment_117,Mobile Food Preparation Premises,2,C - Crucial,Closed,Summons
+ID_117,Establishment_117,Cocktail Bar / Beverage Room,4,M - Minor,Closed,Corrected During Inspection
+ID_118,Establishment_118,Fish Shop,5,,Pass,Recommendations
+ID_118,Establishment_118,Fairs / Festivals / Special Occasions,2,N/A - Not Applicable,Conditional Pass,Closure Order
+ID_118,Establishment_118,Commissary,5,S - Significant,Closed,Education Provided
+ID_118,Establishment_118,Milk Pasteurization Plant,1,S - Significant,Closed,Corrected During Inspection
+ID_118,Establishment_118,Bed & Breakfast,5,S - Significant,Closed,Ticket
+ID_119,Establishment_119,Hot Dog Cart,5,C - Crucial,Conditional Pass,Ticket
+ID_119,Establishment_119,Centralized Kitchen,4,N/A - Not Applicable,Conditional Pass,Education Provided
+ID_119,Establishment_119,Food Store (Convenience/Variety),4,,Conditional Pass,Ticket
+ID_119,Establishment_119,Centralized Kitchen,5,C - Crucial,Closed,Summons and Health Hazard Order
+ID_119,Establishment_119,Refreshment Stand (Stationary),4,M - Minor,Pass,Summons
+ID_120,Establishment_120,Private Club,4,,Conditional Pass,Education Provided
+ID_120,Establishment_120,Food Cart,5,,Conditional Pass,Summons
+ID_120,Establishment_120,Mobile Food Preparation Premises,5,M - Minor,Conditional Pass,Not in Compliance
+ID_120,Establishment_120,Bake Shop,2,C - Crucial,Conditional Pass,Recommendations
+ID_120,Establishment_120,Bed & Breakfast,3,M - Minor,Pass,Summons and Health Hazard Order
+ID_121,Establishment_121,Retirement Homes(Licensed),5,C - Crucial,Pass,Recommendations
+ID_121,Establishment_121,Fairs / Festivals / Special Occasions,4,C - Crucial,Pass,Recommendations
+ID_121,Establishment_121,Flea Market,5,,Conditional Pass,Warning Letter
+ID_121,Establishment_121,Fairs / Festivals / Special Occasions,3,M - Minor,Conditional Pass,Not in Compliance
+ID_121,Establishment_121,Child Care - Food Preparation,2,M - Minor,Conditional Pass,Corrected During Inspection
+ID_122,Establishment_122,Serving Kitchen,3,S - Significant,Conditional Pass,Notice to Comply
+ID_122,Establishment_122,Hospitals & Health Facilities,5,M - Minor,Closed,Corrected During Inspection
+ID_122,Establishment_122,Serving Kitchen,4,,Pass,Warning Letter
+ID_122,Establishment_122,Food Caterer,1,C - Crucial,Closed,Notice to Comply
+ID_122,Establishment_122,Rest Home,2,,Conditional Pass,Ticket
+ID_123,Establishment_123,Brew Your Own Beer / Wine,3,C - Crucial,Pass,Education Provided
+ID_123,Establishment_123,Catering Vehicle,4,N/A - Not Applicable,Pass,Closure Order
+ID_123,Establishment_123,Child Care - Catered,1,N/A - Not Applicable,Closed,Notice to Comply
+ID_123,Establishment_123,Milk Products Plant,1,S - Significant,Conditional Pass,Order
+ID_123,Establishment_123,Food Cart,1,C - Crucial,Conditional Pass,Corrected During Inspection
+ID_124,Establishment_124,Butcher Shop,5,C - Crucial,Pass,Corrected During Inspection
+ID_124,Establishment_124,Banquet Facility,3,S - Significant,Pass,Recommendations
+ID_124,Establishment_124,Fairs / Festivals / Special Occasions,3,,Pass,Education Provided
+ID_124,Establishment_124,Chartered Cruise Boats,2,C - Crucial,Closed,Corrected During Inspection
+ID_124,Establishment_124,Other Educational Facility Food Services,4,N/A - Not Applicable,Pass,Summons and Health Hazard Order
+ID_125,Establishment_125,Hot Dog Cart,2,N/A - Not Applicable,Pass,Warning Letter
+ID_125,Establishment_125,Community Kitchen (Meal Program),3,N/A - Not Applicable,Pass,Ticket
+ID_125,Establishment_125,Meat Processing Plant,2,S - Significant,Closed,Not in Compliance
+ID_125,Establishment_125,Serving Kitchen,3,C - Crucial,Conditional Pass,Ticket
+ID_125,Establishment_125,Mobile Food Preparation Premises,4,S - Significant,Conditional Pass,Prohibition Order Requested
+ID_126,Establishment_126,Centralized Kitchen,1,M - Minor,Conditional Pass,Corrected During Inspection
+ID_126,Establishment_126,Fairs / Festivals / Special Occasions,4,,Closed,Not in Compliance
+ID_126,Establishment_126,Fairs / Festivals / Special Occasions,4,M - Minor,Pass,Prohibition Order Requested
+ID_126,Establishment_126,Butcher Shop,5,,Pass,Ticket
+ID_126,Establishment_126,Ice Cream Plant,2,N/A - Not Applicable,Conditional Pass,Summons
+ID_127,Establishment_127,Food Bank,1,,Closed,Education Provided
+ID_127,Establishment_127,Elementary School Food Services,5,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_127,Establishment_127,Hospitals & Health Facilities,2,,Closed,Closure Order
+ID_127,Establishment_127,Fish Shop,2,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_127,Establishment_127,Serving Kitchen,3,M - Minor,Pass,Summons and Health Hazard Order
+ID_128,Establishment_128,Boarding / Lodging Home - Kitchen,1,S - Significant,Conditional Pass,Corrected During Inspection
+ID_128,Establishment_128,Cafeteria - Private Access,4,,Conditional Pass,Warning Letter
+ID_128,Establishment_128,Chartered Cruise Boats,1,M - Minor,Closed,Prohibition Order Requested
+ID_128,Establishment_128,Rest Home,5,S - Significant,Conditional Pass,Warning Letter
+ID_128,Establishment_128,Community Kitchen (Meal Program),4,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_129,Establishment_129,Banquet Facility,4,M - Minor,Conditional Pass,Corrected During Inspection
+ID_129,Establishment_129,Food Cart,1,C - Crucial,Pass,Summons
+ID_129,Establishment_129,Restaurant,3,,Closed,Ticket
+ID_129,Establishment_129,Food Vending Facility,3,C - Crucial,Pass,Order
+ID_129,Establishment_129,Retirement Homes(Licensed),3,C - Crucial,Pass,Notice to Comply
+ID_130,Establishment_130,Restaurant,5,C - Crucial,Pass,Prohibition Order Requested
+ID_130,Establishment_130,Bake Shop,2,S - Significant,Conditional Pass,Prohibition Order Requested
+ID_130,Establishment_130,Milk Pasteurization Plant,2,S - Significant,Conditional Pass,Not in Compliance
+ID_130,Establishment_130,Restaurant,3,C - Crucial,Conditional Pass,Ticket
+ID_130,Establishment_130,Milk Pasteurization Plant,2,C - Crucial,Conditional Pass,Closure Order
+ID_131,Establishment_131,Catering Vehicle,3,N/A - Not Applicable,Pass,Warning Letter
+ID_131,Establishment_131,Food Court Vendor,3,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_131,Establishment_131,Locker Plant,2,,Closed,Notice to Comply
+ID_131,Establishment_131,Other Educational Facility Food Services,5,S - Significant,Conditional Pass,Notice to Comply
+ID_131,Establishment_131,Food Caterer,4,M - Minor,Conditional Pass,Education Provided
+ID_132,Establishment_132,Bake Shop,4,C - Crucial,Conditional Pass,Warning Letter
+ID_132,Establishment_132,Serving Kitchen,3,M - Minor,Closed,Order
+ID_132,Establishment_132,Ice Manufacturing Plant,4,C - Crucial,Conditional Pass,Closure Order
+ID_132,Establishment_132,Milk Products Plant,5,,Pass,Not in Compliance
+ID_132,Establishment_132,Commissary,4,C - Crucial,Closed,Order
+ID_133,Establishment_133,Food Vending Facility,4,,Pass,Corrected During Inspection
+ID_133,Establishment_133,Food Vending Facility,4,M - Minor,Pass,Education Provided
+ID_133,Establishment_133,Commissary,4,M - Minor,Closed,Education Provided
+ID_133,Establishment_133,Fairs / Festivals / Special Occasions,2,M - Minor,Pass,Recommendations
+ID_133,Establishment_133,Supermarket,2,S - Significant,Conditional Pass,Corrected During Inspection
+ID_134,Establishment_134,Child Care - Catered,5,C - Crucial,Closed,Summons
+ID_134,Establishment_134,Hospitals & Health Facilities,1,M - Minor,Conditional Pass,Closure Order
+ID_134,Establishment_134,Fairs / Festivals / Special Occasions,1,C - Crucial,Conditional Pass,Ticket
+ID_134,Establishment_134,Hospitals & Health Facilities,5,N/A - Not Applicable,Conditional Pass,Order
+ID_134,Establishment_134,Food Cart,3,,Pass,Ticket
+ID_135,Establishment_135,Centralized Kitchen,3,S - Significant,Conditional Pass,Education Provided
+ID_135,Establishment_135,Fairs / Festivals / Special Occasions,3,N/A - Not Applicable,Conditional Pass,Order
+ID_135,Establishment_135,Community Kitchen (Meal Program),3,S - Significant,Pass,Ticket
+ID_135,Establishment_135,Farmers` Market Vendor,1,S - Significant,Pass,Ticket
+ID_135,Establishment_135,Retirement Homes(Un-licensed),4,M - Minor,Closed,Corrected During Inspection
+ID_136,Establishment_136,Student Nutrition Site,4,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_136,Establishment_136,Milk Pasteurization Plant,2,,Closed,Ticket
+ID_136,Establishment_136,Fairs / Festivals / Special Occasions,5,C - Crucial,Closed,Prohibition Order Requested
+ID_136,Establishment_136,Chartered Cruise Boats,1,S - Significant,Conditional Pass,Recommendations
+ID_136,Establishment_136,Mobile Food Preparation Premises,4,,Conditional Pass,Corrected During Inspection
+ID_137,Establishment_137,Butcher Shop,4,C - Crucial,Closed,Summons
+ID_137,Establishment_137,Rest Home,1,,Closed,Education Provided
+ID_137,Establishment_137,Flea Market,4,S - Significant,Closed,Ticket
+ID_137,Establishment_137,Catering Vehicle,5,M - Minor,Pass,Warning Letter
+ID_137,Establishment_137,Other Educational Facility Food Services,5,,Closed,Ticket
+ID_138,Establishment_138,Meat Processing Plant,3,S - Significant,Closed,Closure Order
+ID_138,Establishment_138,Food Court Vendor,5,N/A - Not Applicable,Conditional Pass,Not in Compliance
+ID_138,Establishment_138,Supermarket,1,,Closed,Summons
+ID_138,Establishment_138,Cafeteria - Private Access,4,C - Crucial,Closed,Summons and Health Hazard Order
+ID_138,Establishment_138,Church Banquet Facility,5,S - Significant,Closed,Ticket
+ID_139,Establishment_139,Cafeteria - Public Access,2,C - Crucial,Closed,Education Provided
+ID_139,Establishment_139,Milk Pasteurization Plant,2,S - Significant,Pass,Summons
+ID_139,Establishment_139,Fish Shop,4,N/A - Not Applicable,Conditional Pass,Summons and Health Hazard Order
+ID_139,Establishment_139,Retirement Homes(Un-licensed),1,S - Significant,Conditional Pass,Corrected During Inspection
+ID_139,Establishment_139,Boarding / Lodging Home - Kitchen,5,S - Significant,Closed,Ticket
+ID_140,Establishment_140,Centralized Kitchen,5,,Closed,Summons and Health Hazard Order
+ID_140,Establishment_140,Cocktail Bar / Beverage Room,4,N/A - Not Applicable,Pass,Prohibition Order Requested
+ID_140,Establishment_140,Retirement Homes(Licensed),3,M - Minor,Conditional Pass,Education Provided
+ID_140,Establishment_140,Bed & Breakfast,2,C - Crucial,Conditional Pass,Ticket
+ID_140,Establishment_140,Food Depot,4,S - Significant,Closed,Notice to Comply
+ID_141,Establishment_141,Church Banquet Facility,5,S - Significant,Closed,Education Provided
+ID_141,Establishment_141,Farmers` Market Vendor,4,,Conditional Pass,Summons
+ID_141,Establishment_141,Food Store (Convenience/Variety),4,S - Significant,Conditional Pass,Corrected During Inspection
+ID_141,Establishment_141,Food Bank,2,S - Significant,Conditional Pass,Recommendations
+ID_141,Establishment_141,Other Educational Facility Food Services,1,,Conditional Pass,Ticket
+ID_142,Establishment_142,Commissary,5,C - Crucial,Conditional Pass,Summons and Health Hazard Order
+ID_142,Establishment_142,Institutional Food Services,4,,Pass,Corrected During Inspection
+ID_142,Establishment_142,Food Court Vendor,4,M - Minor,Pass,Corrected During Inspection
+ID_142,Establishment_142,Private Club,3,C - Crucial,Closed,Closure Order
+ID_142,Establishment_142,Fish Shop,3,N/A - Not Applicable,Closed,Closure Order
+ID_143,Establishment_143,Food Vending Facility,4,,Conditional Pass,Corrected During Inspection
+ID_143,Establishment_143,Child Care - Catered,3,N/A - Not Applicable,Closed,Notice to Comply
+ID_143,Establishment_143,Locker Plant,3,C - Crucial,Conditional Pass,Notice to Comply
+ID_143,Establishment_143,Locker Plant,4,S - Significant,Conditional Pass,Summons and Health Hazard Order
+ID_143,Establishment_143,Brew Your Own Beer / Wine,5,S - Significant,Closed,Warning Letter
+ID_144,Establishment_144,Food Processing Plant,1,C - Crucial,Pass,Recommendations
+ID_144,Establishment_144,Ice Manufacturing Plant,3,C - Crucial,Conditional Pass,Prohibition Order Requested
+ID_144,Establishment_144,Bottling Plant,5,S - Significant,Pass,Education Provided
+ID_144,Establishment_144,Bakery,5,,Closed,Ticket
+ID_144,Establishment_144,Church Banquet Facility,3,S - Significant,Pass,Prohibition Order Requested
+ID_145,Establishment_145,Food Processing Plant,2,S - Significant,Pass,Order
+ID_145,Establishment_145,Serving Kitchen,4,M - Minor,Conditional Pass,Recommendations
+ID_145,Establishment_145,Church Banquet Facility,3,M - Minor,Conditional Pass,Summons and Health Hazard Order
+ID_145,Establishment_145,Locker Plant,5,,Closed,Prohibition Order Requested
+ID_145,Establishment_145,Retirement Homes(Licensed),1,C - Crucial,Conditional Pass,Corrected During Inspection
+ID_146,Establishment_146,Private Club,4,C - Crucial,Pass,Prohibition Order Requested
+ID_146,Establishment_146,Food Court Vendor,1,,Pass,Summons
+ID_146,Establishment_146,Catering Vehicle,4,M - Minor,Pass,Summons
+ID_146,Establishment_146,Meat Processing Plant,1,S - Significant,Closed,Not in Compliance
+ID_146,Establishment_146,Centralized Kitchen,3,M - Minor,Closed,Summons and Health Hazard Order
+ID_147,Establishment_147,Cafeteria - Private Access,1,,Conditional Pass,Closure Order
+ID_147,Establishment_147,Hot Dog Cart,2,M - Minor,Conditional Pass,Education Provided
+ID_147,Establishment_147,Fairs / Festivals / Special Occasions,3,M - Minor,Closed,Ticket
+ID_147,Establishment_147,Ice Cream Plant,3,,Conditional Pass,Notice to Comply
+ID_147,Establishment_147,Ice Manufacturing Plant,2,,Closed,Recommendations
+ID_148,Establishment_148,Fairs / Festivals / Special Occasions,2,C - Crucial,Conditional Pass,Warning Letter
+ID_148,Establishment_148,Commissary,2,N/A - Not Applicable,Pass,Summons
+ID_148,Establishment_148,Centralized Kitchen,1,S - Significant,Closed,Corrected During Inspection
+ID_148,Establishment_148,Refreshment Stand (Stationary),3,,Closed,Summons
+ID_148,Establishment_148,Food Caterer,2,S - Significant,Conditional Pass,Closure Order
+ID_149,Establishment_149,Cafeteria - Public Access,2,C - Crucial,Conditional Pass,Ticket
+ID_149,Establishment_149,Milk Products Plant,3,,Closed,Summons and Health Hazard Order
+ID_149,Establishment_149,Fairs / Festivals / Special Occasions,1,C - Crucial,Closed,Notice to Comply
+ID_149,Establishment_149,Locker Plant,5,M - Minor,Closed,Summons
+ID_149,Establishment_149,Centralized Kitchen,2,N/A - Not Applicable,Conditional Pass,Summons
+ID_150,Establishment_150,Private Club,3,C - Crucial,Pass,Summons
+ID_150,Establishment_150,Bakery,4,,Pass,Education Provided
+ID_150,Establishment_150,Cocktail Bar / Beverage Room,2,C - Crucial,Pass,Closure Order
+ID_150,Establishment_150,Flea Market,2,S - Significant,Pass,Order
+ID_150,Establishment_150,Hospitals & Health Facilities,1,N/A - Not Applicable,Closed,Education Provided
+ID_151,Establishment_151,Butcher Shop,5,C - Crucial,Pass,Recommendations
+ID_151,Establishment_151,Commissary,5,,Conditional Pass,Not in Compliance
+ID_151,Establishment_151,Bed & Breakfast,3,S - Significant,Conditional Pass,Closure Order
+ID_151,Establishment_151,Elementary School Food Services,3,C - Crucial,Conditional Pass,Not in Compliance
+ID_151,Establishment_151,Food Caterer,1,,Conditional Pass,Recommendations
+ID_152,Establishment_152,Cafeteria - Private Access,2,,Pass,Ticket
+ID_152,Establishment_152,Elementary School Food Services,2,M - Minor,Conditional Pass,Corrected During Inspection
+ID_152,Establishment_152,Bed & Breakfast,4,S - Significant,Closed,Ticket
+ID_152,Establishment_152,Food Processing Plant,5,,Pass,Summons and Health Hazard Order
+ID_152,Establishment_152,Hospitals & Health Facilities,5,N/A - Not Applicable,Closed,Summons
+ID_153,Establishment_153,Boarding / Lodging Home - Kitchen,5,S - Significant,Conditional Pass,Not in Compliance
+ID_153,Establishment_153,Child Care - Food Preparation,2,M - Minor,Closed,Not in Compliance
+ID_153,Establishment_153,Ice Manufacturing Plant,2,S - Significant,Closed,Recommendations
+ID_153,Establishment_153,Private Club,2,,Closed,Not in Compliance
+ID_153,Establishment_153,Bake Shop,3,,Closed,Not in Compliance
+ID_154,Establishment_154,Commissary,3,S - Significant,Pass,Order
+ID_154,Establishment_154,Refreshment Stand (Stationary),1,M - Minor,Pass,Warning Letter
+ID_154,Establishment_154,Institutional Food Services,3,,Closed,Not in Compliance
+ID_154,Establishment_154,Church Banquet Facility,1,,Pass,Not in Compliance
+ID_154,Establishment_154,Supermarket,5,C - Crucial,Closed,Prohibition Order Requested
+ID_155,Establishment_155,Community Kitchen (Meal Program),5,C - Crucial,Pass,Ticket
+ID_155,Establishment_155,Retirement Homes(Licensed),3,S - Significant,Closed,Summons
+ID_155,Establishment_155,Child Care - Catered,5,M - Minor,Conditional Pass,Closure Order
+ID_155,Establishment_155,Serving Kitchen,1,,Pass,Ticket
+ID_155,Establishment_155,Secondary School Food Services,3,N/A - Not Applicable,Closed,Prohibition Order Requested
+ID_156,Establishment_156,Church Banquet Facility,3,N/A - Not Applicable,Conditional Pass,Warning Letter
+ID_156,Establishment_156,Locker Plant,3,N/A - Not Applicable,Conditional Pass,Prohibition Order Requested
+ID_156,Establishment_156,Community Kitchen (Meal Program),3,,Closed,Education Provided
+ID_156,Establishment_156,Bottling Plant,5,,Closed,Notice to Comply
+ID_156,Establishment_156,Private Club,1,,Conditional Pass,Summons and Health Hazard Order
+ID_157,Establishment_157,Ice Manufacturing Plant,4,,Closed,Recommendations
+ID_157,Establishment_157,Ice Manufacturing Plant,1,S - Significant,Conditional Pass,Recommendations
+ID_157,Establishment_157,Restaurant,5,N/A - Not Applicable,Conditional Pass,Ticket
+ID_157,Establishment_157,Catering Vehicle,4,,Closed,Closure Order
+ID_157,Establishment_157,Elementary School Food Services,4,C - Crucial,Closed,Summons and Health Hazard Order
+ID_158,Establishment_158,Centralized Kitchen,1,C - Crucial,Pass,Closure Order
+ID_158,Establishment_158,Centralized Kitchen,3,,Conditional Pass,Ticket
+ID_158,Establishment_158,Student Nutrition Site,4,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_158,Establishment_158,Retirement Homes(Licensed),3,C - Crucial,Pass,Closure Order
+ID_158,Establishment_158,Commissary,1,C - Crucial,Pass,Recommendations
+ID_159,Establishment_159,Retirement Homes(Licensed),4,S - Significant,Conditional Pass,Warning Letter
+ID_159,Establishment_159,Community Kitchen (Meal Program),1,,Closed,Summons
+ID_159,Establishment_159,Food Court Vendor,4,C - Crucial,Pass,Recommendations
+ID_159,Establishment_159,Secondary School Food Services,1,S - Significant,Pass,Summons and Health Hazard Order
+ID_159,Establishment_159,Food Depot,1,,Pass,Prohibition Order Requested
+ID_160,Establishment_160,Nursing Home / Home for the Aged,2,M - Minor,Closed,Summons
+ID_160,Establishment_160,Flea Market,5,,Conditional Pass,Notice to Comply
+ID_160,Establishment_160,Centralized Kitchen,2,N/A - Not Applicable,Conditional Pass,Summons
+ID_160,Establishment_160,Butcher Shop,3,,Closed,Warning Letter
+ID_160,Establishment_160,Rest Home,4,C - Crucial,Conditional Pass,Notice to Comply
+ID_161,Establishment_161,Institutional Food Services,5,S - Significant,Conditional Pass,Not in Compliance
+ID_161,Establishment_161,Retirement Homes(Un-licensed),4,C - Crucial,Conditional Pass,Summons and Health Hazard Order
+ID_161,Establishment_161,Milk Products Plant,4,C - Crucial,Pass,Summons
+ID_161,Establishment_161,Food Store (Convenience/Variety),3,N/A - Not Applicable,Conditional Pass,Ticket
+ID_161,Establishment_161,Supermarket,1,S - Significant,Closed,Summons and Health Hazard Order
+ID_162,Establishment_162,Meat Processing Plant,3,M - Minor,Conditional Pass,Not in Compliance
+ID_162,Establishment_162,Institutional Food Services,2,N/A - Not Applicable,Closed,Prohibition Order Requested
+ID_162,Establishment_162,Student Nutrition Site,4,,Closed,Order
+ID_162,Establishment_162,Food Court Vendor,5,C - Crucial,Pass,Summons and Health Hazard Order
+ID_162,Establishment_162,Food Take Out,5,M - Minor,Pass,Recommendations
+ID_163,Establishment_163,Food Processing Plant,5,C - Crucial,Closed,Recommendations
+ID_163,Establishment_163,Rest Home,3,C - Crucial,Pass,Corrected During Inspection
+ID_163,Establishment_163,Milk Products Plant,3,S - Significant,Conditional Pass,Education Provided
+ID_163,Establishment_163,Cocktail Bar / Beverage Room,4,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_163,Establishment_163,Cafeteria - Private Access,2,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_164,Establishment_164,Supermarket,2,N/A - Not Applicable,Conditional Pass,Prohibition Order Requested
+ID_164,Establishment_164,Ice Cream Plant,2,,Conditional Pass,Corrected During Inspection
+ID_164,Establishment_164,Child Care - Catered,2,,Closed,Summons
+ID_164,Establishment_164,Mobile Food Preparation Premises,2,N/A - Not Applicable,Closed,Prohibition Order Requested
+ID_164,Establishment_164,Bakery,4,S - Significant,Pass,Corrected During Inspection
+ID_165,Establishment_165,Bakery,2,C - Crucial,Closed,Order
+ID_165,Establishment_165,Church Banquet Facility,1,M - Minor,Pass,Corrected During Inspection
+ID_165,Establishment_165,Institutional Food Services,4,S - Significant,Pass,Not in Compliance
+ID_165,Establishment_165,Bake Shop,4,N/A - Not Applicable,Pass,Order
+ID_165,Establishment_165,Boarding / Lodging Home - Kitchen,3,N/A - Not Applicable,Closed,Ticket
+ID_166,Establishment_166,Milk Products Plant,4,C - Crucial,Conditional Pass,Summons
+ID_166,Establishment_166,Food Bank,2,M - Minor,Pass,Closure Order
+ID_166,Establishment_166,Food Processing Plant,4,S - Significant,Conditional Pass,Closure Order
+ID_166,Establishment_166,Retirement Homes(Licensed),1,N/A - Not Applicable,Closed,Closure Order
+ID_166,Establishment_166,Bed & Breakfast,3,C - Crucial,Closed,Order
+ID_167,Establishment_167,Rest Home,5,C - Crucial,Pass,Ticket
+ID_167,Establishment_167,Church Banquet Facility,1,,Pass,Recommendations
+ID_167,Establishment_167,Elementary School Food Services,4,N/A - Not Applicable,Pass,Prohibition Order Requested
+ID_167,Establishment_167,Institutional Food Services,4,C - Crucial,Conditional Pass,Ticket
+ID_167,Establishment_167,Student Nutrition Site,2,C - Crucial,Closed,Warning Letter
+ID_168,Establishment_168,Banquet Facility,1,C - Crucial,Pass,Closure Order
+ID_168,Establishment_168,Community Kitchen (Meal Program),3,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_168,Establishment_168,Hot Dog Cart,1,C - Crucial,Pass,Summons and Health Hazard Order
+ID_168,Establishment_168,Refreshment Stand (Stationary),2,S - Significant,Conditional Pass,Warning Letter
+ID_168,Establishment_168,Retirement Homes(Un-licensed),2,S - Significant,Closed,Summons
+ID_169,Establishment_169,Banquet Facility,4,S - Significant,Pass,Recommendations
+ID_169,Establishment_169,Child Care - Catered,2,,Closed,Not in Compliance
+ID_169,Establishment_169,Catering Vehicle,3,M - Minor,Conditional Pass,Ticket
+ID_169,Establishment_169,Rest Home,2,M - Minor,Conditional Pass,Not in Compliance
+ID_169,Establishment_169,College / University Food Services,3,S - Significant,Pass,Closure Order
+ID_170,Establishment_170,Food Court Vendor,3,N/A - Not Applicable,Pass,Ticket
+ID_170,Establishment_170,Child Care - Food Preparation,3,S - Significant,Closed,Education Provided
+ID_170,Establishment_170,Hot Dog Cart,5,M - Minor,Pass,Corrected During Inspection
+ID_170,Establishment_170,Boarding / Lodging Home - Kitchen,5,C - Crucial,Pass,Not in Compliance
+ID_170,Establishment_170,Food Caterer,5,,Conditional Pass,Warning Letter
+ID_171,Establishment_171,Bottling Plant,5,M - Minor,Closed,Summons and Health Hazard Order
+ID_171,Establishment_171,Institutional Food Services,4,S - Significant,Pass,Corrected During Inspection
+ID_171,Establishment_171,Child Care - Catered,5,,Conditional Pass,Corrected During Inspection
+ID_171,Establishment_171,Milk Pasteurization Plant,4,M - Minor,Conditional Pass,Notice to Comply
+ID_171,Establishment_171,Flea Market,4,N/A - Not Applicable,Conditional Pass,Recommendations
+ID_172,Establishment_172,Food Cart,1,,Closed,Not in Compliance
+ID_172,Establishment_172,Refreshment Stand (Stationary),3,,Closed,Closure Order
+ID_172,Establishment_172,Ice Cream / Yogurt Vendors,4,C - Crucial,Conditional Pass,Ticket
+ID_172,Establishment_172,Serving Kitchen,1,,Closed,Summons
+ID_172,Establishment_172,Student Nutrition Site,2,M - Minor,Closed,Summons and Health Hazard Order
+ID_173,Establishment_173,Hot Dog Cart,1,C - Crucial,Pass,Warning Letter
+ID_173,Establishment_173,Child Care - Catered,3,,Conditional Pass,Not in Compliance
+ID_173,Establishment_173,Bed & Breakfast,2,M - Minor,Pass,Ticket
+ID_173,Establishment_173,Flea Market,2,S - Significant,Conditional Pass,Recommendations
+ID_173,Establishment_173,Institutional Food Services,2,,Closed,Not in Compliance
+ID_174,Establishment_174,Ice Cream Plant,5,C - Crucial,Closed,Summons
+ID_174,Establishment_174,Centralized Kitchen,3,S - Significant,Pass,Summons
+ID_174,Establishment_174,Bottling Plant,1,,Conditional Pass,Corrected During Inspection
+ID_174,Establishment_174,Food Store (Convenience/Variety),4,C - Crucial,Conditional Pass,Education Provided
+ID_174,Establishment_174,Brew Your Own Beer / Wine,4,,Conditional Pass,Summons and Health Hazard Order
+ID_175,Establishment_175,Boarding / Lodging Home - Kitchen,1,C - Crucial,Conditional Pass,Ticket
+ID_175,Establishment_175,Chartered Cruise Boats,3,M - Minor,Closed,Education Provided
+ID_175,Establishment_175,Ice Manufacturing Plant,3,N/A - Not Applicable,Conditional Pass,Order
+ID_175,Establishment_175,Institutional Food Services,4,N/A - Not Applicable,Pass,Closure Order
+ID_175,Establishment_175,Fairs / Festivals / Special Occasions,5,S - Significant,Closed,Summons
+ID_176,Establishment_176,Cocktail Bar / Beverage Room,2,M - Minor,Closed,Ticket
+ID_176,Establishment_176,Child Care - Food Preparation,3,C - Crucial,Closed,Summons and Health Hazard Order
+ID_176,Establishment_176,Food Take Out,2,N/A - Not Applicable,Pass,Order
+ID_176,Establishment_176,Cafeteria - Private Access,2,C - Crucial,Closed,Ticket
+ID_176,Establishment_176,Milk Pasteurization Plant,2,M - Minor,Conditional Pass,Recommendations
+ID_177,Establishment_177,Milk Products Plant,3,C - Crucial,Closed,Summons and Health Hazard Order
+ID_177,Establishment_177,Farmers` Market Vendor,3,S - Significant,Closed,Ticket
+ID_177,Establishment_177,Milk Pasteurization Plant,3,S - Significant,Closed,Recommendations
+ID_177,Establishment_177,Nursing Home / Home for the Aged,3,M - Minor,Pass,Recommendations
+ID_177,Establishment_177,Farmers` Market Vendor,5,,Conditional Pass,Summons and Health Hazard Order
+ID_178,Establishment_178,Bake Shop,5,C - Crucial,Pass,Notice to Comply
+ID_178,Establishment_178,Rest Home,3,,Closed,Order
+ID_178,Establishment_178,Restaurant,2,M - Minor,Closed,Corrected During Inspection
+ID_178,Establishment_178,Food Depot,2,C - Crucial,Closed,Recommendations
+ID_178,Establishment_178,Other Educational Facility Food Services,1,C - Crucial,Pass,Order
+ID_179,Establishment_179,Nursing Home / Home for the Aged,4,C - Crucial,Closed,Not in Compliance
+ID_179,Establishment_179,Ice Manufacturing Plant,4,N/A - Not Applicable,Pass,Recommendations
+ID_179,Establishment_179,Child Care - Food Preparation,3,C - Crucial,Pass,Order
+ID_179,Establishment_179,Rest Home,1,N/A - Not Applicable,Pass,Corrected During Inspection
+ID_179,Establishment_179,Private Club,3,S - Significant,Pass,Summons
+ID_180,Establishment_180,Banquet Facility,5,,Closed,Corrected During Inspection
+ID_180,Establishment_180,Cocktail Bar / Beverage Room,3,S - Significant,Closed,Closure Order
+ID_180,Establishment_180,Ice Cream / Yogurt Vendors,5,N/A - Not Applicable,Closed,Corrected During Inspection
+ID_180,Establishment_180,Fish Shop,3,M - Minor,Conditional Pass,Not in Compliance
+ID_180,Establishment_180,Ice Manufacturing Plant,3,C - Crucial,Closed,Ticket
+ID_181,Establishment_181,Bakery,3,S - Significant,Pass,Prohibition Order Requested
+ID_181,Establishment_181,Brew Your Own Beer / Wine,5,S - Significant,Conditional Pass,Ticket
+ID_181,Establishment_181,Restaurant,4,M - Minor,Closed,Corrected During Inspection
+ID_181,Establishment_181,Food Store (Convenience/Variety),5,M - Minor,Conditional Pass,Recommendations
+ID_181,Establishment_181,Flea Market,2,M - Minor,Pass,Ticket
+ID_182,Establishment_182,Other Educational Facility Food Services,3,N/A - Not Applicable,Conditional Pass,Ticket
+ID_182,Establishment_182,Bottling Plant,2,,Pass,Warning Letter
+ID_182,Establishment_182,Child Care - Food Preparation,2,S - Significant,Closed,Summons
+ID_182,Establishment_182,Food Vending Facility,1,,Pass,Corrected During Inspection
+ID_182,Establishment_182,Serving Kitchen,5,M - Minor,Conditional Pass,Order
+ID_183,Establishment_183,Cafeteria - Private Access,4,,Pass,Prohibition Order Requested
+ID_183,Establishment_183,Boarding / Lodging Home - Kitchen,3,C - Crucial,Pass,Summons
+ID_183,Establishment_183,Church Banquet Facility,4,,Pass,Corrected During Inspection
+ID_183,Establishment_183,Food Store (Convenience/Variety),1,M - Minor,Pass,Order
+ID_183,Establishment_183,Hospitals & Health Facilities,4,,Conditional Pass,Closure Order
+ID_184,Establishment_184,Cocktail Bar / Beverage Room,3,C - Crucial,Pass,Summons
+ID_184,Establishment_184,Hospitals & Health Facilities,4,S - Significant,Pass,Education Provided
+ID_184,Establishment_184,Rest Home,2,N/A - Not Applicable,Conditional Pass,Closure Order
+ID_184,Establishment_184,Brew Your Own Beer / Wine,3,C - Crucial,Pass,Summons
+ID_184,Establishment_184,Cafeteria - Public Access,3,S - Significant,Pass,Closure Order
+ID_185,Establishment_185,Locker Plant,1,M - Minor,Closed,Corrected During Inspection
+ID_185,Establishment_185,Cafeteria - Public Access,1,,Closed,Closure Order
+ID_185,Establishment_185,Other Educational Facility Food Services,2,,Pass,Not in Compliance
+ID_185,Establishment_185,Other Educational Facility Food Services,2,,Closed,Recommendations
+ID_185,Establishment_185,Mobile Food Preparation Premises,4,C - Crucial,Pass,Warning Letter
+ID_186,Establishment_186,Bake Shop,1,,Pass,Education Provided
+ID_186,Establishment_186,Restaurant,2,C - Crucial,Conditional Pass,Education Provided
+ID_186,Establishment_186,Cafeteria - Public Access,4,,Pass,Ticket
+ID_186,Establishment_186,Church Banquet Facility,4,S - Significant,Pass,Summons and Health Hazard Order
+ID_186,Establishment_186,Ice Cream / Yogurt Vendors,2,M - Minor,Conditional Pass,Order
+ID_187,Establishment_187,Banquet Facility,2,N/A - Not Applicable,Closed,Ticket
+ID_187,Establishment_187,Hospitals & Health Facilities,2,C - Crucial,Conditional Pass,Summons and Health Hazard Order
+ID_187,Establishment_187,Hospitals & Health Facilities,1,C - Crucial,Closed,Not in Compliance
+ID_187,Establishment_187,Locker Plant,1,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_187,Establishment_187,Food Take Out,3,M - Minor,Conditional Pass,Summons
+ID_188,Establishment_188,Food Store (Convenience/Variety),1,,Closed,Corrected During Inspection
+ID_188,Establishment_188,Private Club,1,N/A - Not Applicable,Conditional Pass,Notice to Comply
+ID_188,Establishment_188,Milk Products Plant,3,C - Crucial,Conditional Pass,Recommendations
+ID_188,Establishment_188,Secondary School Food Services,2,C - Crucial,Conditional Pass,Order
+ID_188,Establishment_188,Ice Cream Plant,1,M - Minor,Closed,Closure Order
+ID_189,Establishment_189,Community Kitchen (Meal Program),4,S - Significant,Pass,Notice to Comply
+ID_189,Establishment_189,Other Educational Facility Food Services,3,N/A - Not Applicable,Pass,Recommendations
+ID_189,Establishment_189,Rest Home,4,N/A - Not Applicable,Conditional Pass,Not in Compliance
+ID_189,Establishment_189,Food Court Vendor,5,S - Significant,Pass,Recommendations
+ID_189,Establishment_189,Food Take Out,3,C - Crucial,Conditional Pass,Warning Letter
+ID_190,Establishment_190,Food Vending Facility,5,M - Minor,Conditional Pass,Recommendations
+ID_190,Establishment_190,Butcher Shop,1,N/A - Not Applicable,Closed,Recommendations
+ID_190,Establishment_190,Retirement Homes(Un-licensed),1,C - Crucial,Closed,Not in Compliance
+ID_190,Establishment_190,College / University Food Services,3,C - Crucial,Closed,Summons and Health Hazard Order
+ID_190,Establishment_190,Food Bank,5,M - Minor,Closed,Order
+ID_191,Establishment_191,Elementary School Food Services,1,M - Minor,Conditional Pass,Notice to Comply
+ID_191,Establishment_191,Chartered Cruise Boats,5,S - Significant,Pass,Notice to Comply
+ID_191,Establishment_191,Chartered Cruise Boats,2,M - Minor,Conditional Pass,Ticket
+ID_191,Establishment_191,Institutional Food Services,5,S - Significant,Conditional Pass,Ticket
+ID_191,Establishment_191,Farmers` Market Vendor,5,,Pass,Not in Compliance
+ID_192,Establishment_192,Elementary School Food Services,2,N/A - Not Applicable,Closed,Order
+ID_192,Establishment_192,Farmers` Market Vendor,5,C - Crucial,Conditional Pass,Notice to Comply
+ID_192,Establishment_192,Banquet Facility,2,C - Crucial,Conditional Pass,Summons
+ID_192,Establishment_192,Milk Products Plant,3,,Conditional Pass,Recommendations
+ID_192,Establishment_192,Fairs / Festivals / Special Occasions,3,M - Minor,Conditional Pass,Prohibition Order Requested
+ID_193,Establishment_193,College / University Food Services,4,,Closed,Warning Letter
+ID_193,Establishment_193,Cafeteria - Private Access,5,N/A - Not Applicable,Closed,Summons and Health Hazard Order
+ID_193,Establishment_193,Milk Pasteurization Plant,3,,Pass,Education Provided
+ID_193,Establishment_193,Brew Your Own Beer / Wine,1,M - Minor,Closed,Prohibition Order Requested
+ID_193,Establishment_193,Milk Pasteurization Plant,2,S - Significant,Pass,Order
+ID_194,Establishment_194,Rest Home,5,M - Minor,Conditional Pass,Not in Compliance
+ID_194,Establishment_194,Child Care - Food Preparation,2,M - Minor,Pass,Closure Order
+ID_194,Establishment_194,Serving Kitchen,4,S - Significant,Conditional Pass,Prohibition Order Requested
+ID_194,Establishment_194,Meat Processing Plant,4,,Closed,Recommendations
+ID_194,Establishment_194,Milk Products Plant,5,M - Minor,Pass,Prohibition Order Requested
+ID_195,Establishment_195,Child Care - Food Preparation,1,,Pass,Prohibition Order Requested
+ID_195,Establishment_195,Retirement Homes(Licensed),4,C - Crucial,Closed,Summons
+ID_195,Establishment_195,Refreshment Stand (Stationary),1,N/A - Not Applicable,Conditional Pass,Summons
+ID_195,Establishment_195,Secondary School Food Services,1,C - Crucial,Closed,Summons and Health Hazard Order
+ID_195,Establishment_195,Cocktail Bar / Beverage Room,4,C - Crucial,Closed,Not in Compliance
+ID_196,Establishment_196,Bed & Breakfast,3,M - Minor,Pass,Order
+ID_196,Establishment_196,Locker Plant,2,M - Minor,Conditional Pass,Order
+ID_196,Establishment_196,Bed & Breakfast,5,M - Minor,Closed,Recommendations
+ID_196,Establishment_196,Refreshment Stand (Stationary),4,S - Significant,Pass,Order
+ID_196,Establishment_196,Food Take Out,3,M - Minor,Pass,Prohibition Order Requested
+ID_197,Establishment_197,Elementary School Food Services,1,M - Minor,Closed,Prohibition Order Requested
+ID_197,Establishment_197,Brew Your Own Beer / Wine,5,,Closed,Warning Letter
+ID_197,Establishment_197,Milk Pasteurization Plant,3,,Closed,Recommendations
+ID_197,Establishment_197,Brew Your Own Beer / Wine,3,M - Minor,Closed,Not in Compliance
+ID_197,Establishment_197,Church Banquet Facility,2,S - Significant,Pass,Warning Letter
+ID_198,Establishment_198,Secondary School Food Services,3,N/A - Not Applicable,Closed,Notice to Comply
+ID_198,Establishment_198,Child Care - Food Preparation,4,M - Minor,Closed,Summons
+ID_198,Establishment_198,Bakery,4,,Pass,Corrected During Inspection
+ID_198,Establishment_198,Food Vending Facility,2,N/A - Not Applicable,Conditional Pass,Prohibition Order Requested
+ID_198,Establishment_198,Chartered Cruise Boats,2,,Pass,Warning Letter
+ID_199,Establishment_199,Rest Home,2,S - Significant,Pass,Notice to Comply
+ID_199,Establishment_199,Cocktail Bar / Beverage Room,1,S - Significant,Closed,Summons
+ID_199,Establishment_199,Ice Manufacturing Plant,2,S - Significant,Pass,Summons
+ID_199,Establishment_199,Bottling Plant,4,C - Crucial,Closed,Education Provided
+ID_199,Establishment_199,Nursing Home / Home for the Aged,4,N/A - Not Applicable,Pass,Notice to Comply
+ID_200,Establishment_200,Brew Your Own Beer / Wine,3,,Closed,Notice to Comply
+ID_200,Establishment_200,Nursing Home / Home for the Aged,2,C - Crucial,Closed,Summons and Health Hazard Order
+ID_200,Establishment_200,Centralized Kitchen,3,S - Significant,Conditional Pass,Recommendations
+ID_200,Establishment_200,Serving Kitchen,1,,Conditional Pass,Warning Letter
+ID_200,Establishment_200,Locker Plant,4,C - Crucial,Pass,Summons and Health Hazard Order

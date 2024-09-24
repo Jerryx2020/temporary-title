@@ -12,35 +12,42 @@ library(tidyverse)
 
 #### Test data ####
 # Load the cleaned data
-data <- read_csv("data/analysis_data/analysis_data.csv")
+data <- read_csv("data/analysis_data/cleaned_dinesafe_data.csv")
 
-# 1. Test for negative fines
-test_negative_fines <- all(data$amount_fined >= 0)
-if (!test_negative_fines) {
-  message("Warning: There are negative fine values in the data.")
-}
+# 1. Test for missing values in important columns (Establishment Name, Establishment Type, Outcome)
+missing_values <- data %>%
+  summarise(
+    missing_establishment_name = sum(is.na(`Establishment Name`)),
+    missing_establishment_type = sum(is.na(`Establishment Type`)),
+    missing_outcome = sum(is.na(Outcome))
+  )
 
-# 2. Test for missing values in key columns (inspection_date, outcome, severity)
-test_missing_values <- data |>
-  select(inspection_date, outcome, severity) |>
-  summarise(across(everything(), ~ sum(is.na(.))))
+print(missing_values)  # Check if there are missing values in critical columns
 
-if (any(test_missing_values > 0)) {
-  message("Warning: There are missing values in key columns.")
-} else {
-  message("No missing values in key columns.")
-}
+# 2. Test for invalid severity values
+valid_severity_levels <- c("", "C - Crucial", "M - Minor", "S - Significant", "N/A - Not Applicable")
+invalid_severity_values <- data %>%
+  filter(!Severity %in% valid_severity_levels)
 
-# 3. Test for valid severity levels
-valid_severity_levels <- c("S", "M", "C")
-test_severity_levels <- all(data$severity %in% valid_severity_levels)
-if (!test_severity_levels) {
-  message("Warning: There are invalid severity levels in the data.")
-}
+print(invalid_severity_values)  # Any rows where Severity is not a valid category will be shown
 
-# 4. Test for valid outcomes (Pass, Conditional Pass, Closed)
-valid_outcomes <- c("Pass", "Conditional Pass", "Closed")
-test_outcomes <- all(data$outcome %in% valid_outcomes)
-if (!test_outcomes) {
-  message("Warning: There are invalid outcomes in the data.")
-}
+# 3. Test for invalid or empty action values
+valid_action_levels <- c("Notice to Comply", "Closure Order", "Corrected During Inspection", 
+                         "Not in Compliance", "Summons", "Summons and Health Hazard Order", 
+                         "Ticket", "Education Provided", "Recommendations", 
+                         "Prohibition Order Requested", "Warning Letter", "Order")
+
+invalid_action_values <- data %>%
+  filter(!Action %in% valid_action_levels)
+
+print(invalid_action_values)  # Show any rows with invalid or missing actions
+
+# 4. Test for completeness of key fields
+# Are there any rows where key fields (Establishment Name, Type, Outcome, Action) are completely missing?
+complete_cases_check <- data %>%
+  filter(is.na(`Establishment Name`) | is.na(`Establishment Type`) | is.na(Outcome) | is.na(Action))
+
+print(complete_cases_check)  # Output rows where any of the key fields are missing
+
+# Test Results Summary
+print("Sanity checks completed for DineSafe data.")
