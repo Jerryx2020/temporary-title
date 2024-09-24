@@ -1,0 +1,1001 @@
+establishment_name,establishment_type,inspection_date,inspection_outcome,violations,fine_amount
+Restaurant F 95,Café,2018-06-19,Pass,Improper Handwashing,0
+Restaurant L 2,Food Processing Facility,2020-02-01,Pass,"Inadequate Temperature Control, Cross-Contamination, Inadequate Temperature Control",0
+Restaurant N 79,Grocery Store,2018-01-21,Pass,Cross-Contamination,0
+Restaurant K 41,Food Truck,2023-09-09,Closed,Improper Handwashing,4000
+Restaurant V 76,Restaurant,2023-03-16,Pass,Improper Handwashing,0
+Restaurant R 18,Food Processing Facility,2018-11-29,Pass,,0
+Restaurant N 31,Food Truck,2022-12-02,Conditional Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant R 18,Food Truck,2022-03-25,Conditional Pass,,0
+Restaurant F 17,Café,2019-11-03,Pass,Expired Food,0
+Restaurant Y 95,Food Truck,2023-11-07,Pass,Inadequate Temperature Control,0
+Restaurant Q 20,Grocery Store,2019-02-14,Closed,Inadequate Temperature Control,3500
+Restaurant U 80,Grocery Store,2020-08-28,Pass,Inadequate Temperature Control,0
+Restaurant R 99,Café,2020-01-27,Pass,Inadequate Temperature Control,0
+Restaurant R 60,Café,2023-06-07,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant Z 83,Café,2018-11-25,Pass,Improper Handwashing,0
+Restaurant X 61,Restaurant,2018-04-04,Closed,"Improper Handwashing, Cross-Contamination",2000
+Restaurant R 99,Café,2018-01-14,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant S 71,Grocery Store,2019-12-31,Pass,Inadequate Temperature Control,0
+Restaurant L 89,Grocery Store,2022-06-26,Pass,"Expired Food, Improper Handwashing",0
+Restaurant B 21,Food Truck,2019-08-31,Pass,"Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant L 4,Café,2018-09-11,Pass,Inadequate Temperature Control,0
+Restaurant L 89,Food Truck,2019-01-24,Closed,,5000
+Restaurant X 100,Restaurant,2018-07-11,Pass,Cross-Contamination,0
+Restaurant X 61,Grocery Store,2018-08-12,Pass,Improper Handwashing,0
+Restaurant V 2,Food Truck,2019-03-14,Pass,,0
+Restaurant F 17,Food Truck,2019-04-27,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant X 100,Restaurant,2019-12-10,Pass,,0
+Restaurant Z 19,Grocery Store,2023-12-06,Conditional Pass,,0
+Restaurant Q 55,Food Processing Facility,2023-02-12,Pass,,0
+Restaurant K 41,Café,2021-06-25,Pass,Unclean Food Preparation Area,0
+Restaurant F 17,Café,2021-10-25,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant R 60,Food Truck,2020-09-10,Pass,Unclean Food Preparation Area,0
+Restaurant F 95,Food Processing Facility,2021-10-09,Pass,,0
+Restaurant O 3,Food Processing Facility,2021-06-19,Pass,"Cross-Contamination, Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant O 57,Food Truck,2018-01-01,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant X 1,Café,2021-07-10,Pass,Cross-Contamination,0
+Restaurant K 41,Café,2023-01-10,Closed,"Inadequate Temperature Control, Unclean Food Preparation Area, Cross-Contamination",4500
+Restaurant L 89,Café,2023-03-13,Closed,Cross-Contamination,5000
+Restaurant S 17,Café,2018-10-26,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant K 14,Food Truck,2022-07-04,Pass,,0
+Restaurant L 89,Grocery Store,2022-04-11,Pass,Inadequate Temperature Control,0
+Restaurant Y 95,Food Truck,2022-01-05,Conditional Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant X 79,Café,2019-06-23,Conditional Pass,,0
+Restaurant Q 22,Restaurant,2021-07-15,Pass,,0
+Restaurant Y 86,Grocery Store,2023-10-11,Conditional Pass,Inadequate Temperature Control,0
+Restaurant S 23,Food Processing Facility,2023-08-23,Pass,Expired Food,0
+Restaurant Q 22,Food Truck,2018-05-08,Pass,,0
+Restaurant T 92,Café,2019-04-23,Conditional Pass,Inadequate Temperature Control,0
+Restaurant J 37,Café,2019-06-01,Conditional Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant X 11,Café,2022-09-15,Conditional Pass,,0
+Restaurant Y 95,Restaurant,2019-08-12,Closed,,3000
+Restaurant Z 46,Café,2022-06-27,Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant P 41,Food Processing Facility,2023-03-26,Closed,"Improper Handwashing, Improper Handwashing",500
+Restaurant U 4,Grocery Store,2021-12-13,Pass,Inadequate Temperature Control,0
+Restaurant N 33,Café,2018-07-22,Conditional Pass,Cross-Contamination,0
+Restaurant Z 83,Restaurant,2019-11-17,Pass,,0
+Restaurant Y 95,Restaurant,2020-09-15,Pass,,0
+Restaurant Q 22,Food Truck,2019-08-16,Pass,Improper Handwashing,0
+Restaurant N 89,Food Processing Facility,2021-06-16,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant O 23,Food Processing Facility,2018-03-10,Pass,Unclean Food Preparation Area,0
+Restaurant B 21,Grocery Store,2020-03-07,Pass,,0
+Restaurant S 34,Food Processing Facility,2021-01-20,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant O 3,Café,2022-06-28,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant Z 71,Café,2022-04-25,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant C 54,Food Processing Facility,2023-10-19,Pass,Improper Handwashing,0
+Restaurant K 14,Café,2019-02-28,Pass,Unclean Food Preparation Area,0
+Restaurant Q 37,Food Truck,2020-01-08,Conditional Pass,"Cross-Contamination, Improper Handwashing",0
+Restaurant O 81,Food Truck,2019-02-23,Pass,,0
+Restaurant K 41,Café,2022-10-26,Conditional Pass,"Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant O 71,Food Processing Facility,2022-11-26,Pass,Inadequate Temperature Control,0
+Restaurant N 33,Grocery Store,2022-09-09,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant B 21,Restaurant,2018-01-01,Pass,,0
+Restaurant F 17,Food Truck,2019-11-11,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant C 77,Café,2023-10-16,Pass,,0
+Restaurant Q 100,Café,2020-09-19,Pass,"Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant G 20,Food Processing Facility,2022-09-19,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant Q 100,Restaurant,2020-07-13,Conditional Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant R 99,Café,2022-07-10,Pass,Cross-Contamination,0
+Restaurant R 99,Restaurant,2021-05-12,Pass,,0
+Restaurant S 34,Café,2019-12-03,Pass,,0
+Restaurant G 80,Restaurant,2020-04-24,Pass,"Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant G 36,Café,2020-10-08,Pass,,0
+Restaurant V 76,Food Processing Facility,2021-07-02,Pass,"Expired Food, Inadequate Temperature Control, Improper Handwashing",0
+Restaurant X 79,Food Processing Facility,2022-03-11,Pass,Inadequate Temperature Control,0
+Restaurant Z 83,Grocery Store,2020-06-15,Pass,,0
+Restaurant Q 15,Café,2018-07-13,Pass,"Expired Food, Improper Handwashing",0
+Restaurant A 80,Café,2019-11-19,Pass,,0
+Restaurant Z 19,Restaurant,2018-07-18,Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant R 18,Café,2021-12-03,Pass,Inadequate Temperature Control,0
+Restaurant J 45,Restaurant,2018-01-16,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant T 92,Food Truck,2019-06-12,Conditional Pass,,0
+Restaurant V 2,Food Truck,2019-02-21,Conditional Pass,Inadequate Temperature Control,0
+Restaurant J 37,Café,2019-06-20,Pass,,0
+Restaurant J 26,Food Processing Facility,2020-06-01,Pass,"Improper Handwashing, Expired Food, Expired Food",0
+Restaurant O 57,Restaurant,2023-05-27,Pass,Unclean Food Preparation Area,0
+Restaurant X 79,Grocery Store,2023-12-24,Pass,,0
+Restaurant H 37,Food Truck,2021-06-15,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant L 2,Café,2020-04-30,Pass,Expired Food,0
+Restaurant F 40,Food Processing Facility,2019-04-16,Pass,Expired Food,0
+Restaurant V 22,Food Processing Facility,2018-06-11,Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant O 81,Food Processing Facility,2020-11-19,Pass,Cross-Contamination,0
+Restaurant K 41,Restaurant,2023-08-10,Pass,Unclean Food Preparation Area,0
+Restaurant O 3,Café,2022-01-08,Pass,,0
+Restaurant H 37,Grocery Store,2019-12-05,Pass,Cross-Contamination,0
+Restaurant R 18,Grocery Store,2019-01-06,Pass,"Improper Handwashing, Expired Food",0
+Restaurant K 10,Food Processing Facility,2021-07-25,Pass,Inadequate Temperature Control,0
+Restaurant Y 77,Food Processing Facility,2021-01-13,Closed,Unclean Food Preparation Area,1000
+Restaurant N 37,Food Truck,2021-05-17,Pass,"Inadequate Temperature Control, Expired Food, Cross-Contamination",0
+Restaurant R 99,Food Truck,2021-06-30,Conditional Pass,"Cross-Contamination, Expired Food",0
+Restaurant Y 77,Grocery Store,2021-12-12,Pass,Expired Food,0
+Restaurant X 57,Food Processing Facility,2018-03-19,Closed,,2000
+Restaurant N 79,Food Processing Facility,2023-02-13,Conditional Pass,,0
+Restaurant X 57,Grocery Store,2020-08-16,Pass,,0
+Restaurant Y 86,Food Truck,2023-03-26,Pass,Expired Food,0
+Restaurant K 41,Grocery Store,2018-02-08,Pass,,0
+Restaurant O 96,Food Truck,2023-04-02,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant F 17,Food Truck,2023-09-19,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant S 34,Restaurant,2021-09-15,Pass,,0
+Restaurant Z 71,Café,2022-12-26,Conditional Pass,Expired Food,0
+Restaurant K 14,Grocery Store,2023-05-12,Pass,Expired Food,0
+Restaurant Q 15,Food Processing Facility,2018-06-08,Pass,,0
+Restaurant X 57,Restaurant,2020-01-22,Pass,,0
+Restaurant X 61,Café,2018-04-29,Pass,,0
+Restaurant A 89,Café,2023-08-21,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant I 99,Restaurant,2023-10-06,Pass,Cross-Contamination,0
+Restaurant U 18,Restaurant,2019-12-23,Pass,,0
+Restaurant Y 21,Grocery Store,2022-02-01,Pass,Cross-Contamination,0
+Restaurant G 80,Restaurant,2022-04-29,Pass,Improper Handwashing,0
+Restaurant O 23,Food Truck,2018-07-16,Pass,Unclean Food Preparation Area,0
+Restaurant S 71,Food Processing Facility,2021-11-03,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant D 38,Food Processing Facility,2020-05-01,Closed,"Cross-Contamination, Inadequate Temperature Control",2500
+Restaurant Y 86,Food Truck,2020-08-28,Pass,Cross-Contamination,0
+Restaurant R 99,Restaurant,2023-07-10,Pass,Unclean Food Preparation Area,0
+Restaurant T 92,Food Truck,2021-02-13,Pass,,0
+Restaurant C 50,Food Truck,2023-02-21,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant O 63,Food Truck,2021-08-26,Pass,Expired Food,0
+Restaurant O 23,Food Processing Facility,2023-11-03,Conditional Pass,Expired Food,0
+Restaurant O 81,Grocery Store,2022-05-22,Pass,"Unclean Food Preparation Area, Cross-Contamination, Expired Food",0
+Restaurant J 37,Restaurant,2022-04-16,Conditional Pass,,0
+Restaurant O 81,Food Truck,2023-04-10,Closed,"Improper Handwashing, Inadequate Temperature Control",4500
+Restaurant O 63,Café,2020-10-24,Pass,"Unclean Food Preparation Area, Cross-Contamination, Improper Handwashing",0
+Restaurant Z 46,Restaurant,2020-12-05,Pass,"Improper Handwashing, Expired Food, Expired Food",0
+Restaurant Z 19,Restaurant,2019-11-18,Pass,Expired Food,0
+Restaurant Q 20,Café,2018-11-02,Closed,Improper Handwashing,1500
+Restaurant S 34,Restaurant,2021-07-27,Pass,Improper Handwashing,0
+Restaurant O 62,Food Processing Facility,2019-04-20,Pass,Improper Handwashing,0
+Restaurant Q 100,Restaurant,2021-09-11,Pass,,0
+Restaurant R 47,Food Truck,2020-03-10,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant R 99,Café,2022-03-15,Pass,,0
+Restaurant B 7,Restaurant,2023-04-25,Pass,Inadequate Temperature Control,0
+Restaurant J 45,Restaurant,2020-10-20,Conditional Pass,,0
+Restaurant Y 86,Restaurant,2020-08-12,Closed,,3000
+Restaurant O 81,Grocery Store,2021-02-02,Pass,Inadequate Temperature Control,0
+Restaurant O 96,Café,2018-05-25,Pass,,0
+Restaurant P 41,Grocery Store,2022-12-09,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant D 38,Grocery Store,2022-10-06,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant V 22,Food Processing Facility,2022-10-14,Pass,,0
+Restaurant O 62,Food Processing Facility,2021-02-23,Pass,,0
+Restaurant J 37,Grocery Store,2023-10-11,Closed,,4000
+Restaurant D 45,Grocery Store,2021-12-21,Pass,,0
+Restaurant X 61,Food Truck,2018-10-31,Pass,Unclean Food Preparation Area,0
+Restaurant Z 46,Restaurant,2021-10-05,Conditional Pass,,0
+Restaurant J 45,Café,2022-06-20,Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant O 81,Food Truck,2023-08-22,Pass,Unclean Food Preparation Area,0
+Restaurant L 87,Café,2018-05-23,Conditional Pass,"Inadequate Temperature Control, Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant X 100,Café,2018-08-10,Pass,Improper Handwashing,0
+Restaurant T 92,Food Processing Facility,2021-10-06,Pass,Improper Handwashing,0
+Restaurant F 95,Food Processing Facility,2021-12-14,Conditional Pass,"Expired Food, Inadequate Temperature Control, Cross-Contamination",0
+Restaurant R 99,Café,2019-01-06,Pass,,0
+Restaurant K 10,Restaurant,2019-10-17,Pass,Unclean Food Preparation Area,0
+Restaurant E 72,Food Truck,2022-10-16,Pass,Improper Handwashing,0
+Restaurant Y 95,Café,2018-10-28,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant Q 22,Food Truck,2022-05-07,Pass,Unclean Food Preparation Area,0
+Restaurant G 20,Food Processing Facility,2020-03-20,Conditional Pass,Expired Food,0
+Restaurant O 31,Café,2021-01-10,Pass,,0
+Restaurant R 48,Food Processing Facility,2023-11-30,Pass,Cross-Contamination,0
+Restaurant N 31,Food Truck,2018-07-25,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant Q 22,Café,2020-04-09,Conditional Pass,"Cross-Contamination, Expired Food",0
+Restaurant J 64,Food Truck,2022-01-06,Pass,,0
+Restaurant J 26,Grocery Store,2019-03-14,Pass,"Expired Food, Expired Food",0
+Restaurant C 54,Food Processing Facility,2022-10-26,Pass,Improper Handwashing,0
+Restaurant U 80,Café,2022-05-27,Closed,,5000
+Restaurant Y 23,Food Processing Facility,2022-04-08,Pass,Unclean Food Preparation Area,0
+Restaurant N 79,Food Truck,2023-10-09,Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant Q 37,Restaurant,2021-06-16,Pass,"Cross-Contamination, Inadequate Temperature Control, Expired Food",0
+Restaurant Z 83,Grocery Store,2021-05-09,Pass,Inadequate Temperature Control,0
+Restaurant C 77,Food Processing Facility,2022-12-02,Pass,,0
+Restaurant I 99,Food Truck,2018-03-04,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant R 99,Food Processing Facility,2023-03-27,Pass,Improper Handwashing,0
+Restaurant M 77,Café,2021-06-08,Pass,Expired Food,0
+Restaurant A 80,Food Processing Facility,2019-04-03,Pass,Unclean Food Preparation Area,0
+Restaurant X 61,Food Truck,2022-03-13,Pass,,0
+Restaurant F 95,Food Processing Facility,2022-05-05,Conditional Pass,,0
+Restaurant X 11,Grocery Store,2022-09-02,Pass,Expired Food,0
+Restaurant F 41,Grocery Store,2021-03-29,Pass,,0
+Restaurant S 71,Food Truck,2021-11-15,Pass,"Improper Handwashing, Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant L 2,Restaurant,2023-11-08,Pass,,0
+Restaurant J 64,Restaurant,2018-02-05,Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant F 17,Grocery Store,2021-12-07,Pass,Unclean Food Preparation Area,0
+Restaurant O 71,Restaurant,2019-11-24,Pass,,0
+Restaurant Y 12,Grocery Store,2022-09-24,Pass,Cross-Contamination,0
+Restaurant Y 95,Café,2023-12-16,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant Q 100,Food Processing Facility,2019-11-20,Pass,,0
+Restaurant D 38,Restaurant,2023-02-21,Pass,,0
+Restaurant O 31,Café,2021-09-30,Closed,Inadequate Temperature Control,3500
+Restaurant J 67,Café,2020-08-19,Pass,,0
+Restaurant S 71,Restaurant,2019-04-09,Conditional Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant H 37,Food Processing Facility,2023-07-18,Pass,Cross-Contamination,0
+Restaurant Y 21,Grocery Store,2023-06-10,Pass,Unclean Food Preparation Area,0
+Restaurant A 80,Food Processing Facility,2023-10-24,Pass,Improper Handwashing,0
+Restaurant Y 95,Restaurant,2021-11-06,Pass,Inadequate Temperature Control,0
+Restaurant J 37,Grocery Store,2022-12-02,Pass,"Improper Handwashing, Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant O 57,Restaurant,2019-04-17,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant J 37,Grocery Store,2023-02-03,Pass,,0
+Restaurant X 61,Café,2021-06-28,Pass,Improper Handwashing,0
+Restaurant Q 100,Restaurant,2023-01-27,Pass,Expired Food,0
+Restaurant Q 93,Food Processing Facility,2018-08-14,Pass,,0
+Restaurant G 80,Food Processing Facility,2022-01-09,Pass,,0
+Restaurant Z 83,Food Processing Facility,2019-04-18,Conditional Pass,"Cross-Contamination, Improper Handwashing",0
+Restaurant N 64,Restaurant,2023-04-14,Pass,Improper Handwashing,0
+Restaurant J 28,Food Processing Facility,2022-01-20,Pass,"Expired Food, Improper Handwashing, Cross-Contamination",0
+Restaurant Z 83,Restaurant,2021-12-17,Pass,Improper Handwashing,0
+Restaurant J 64,Food Truck,2018-08-10,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant M 75,Grocery Store,2022-03-15,Pass,Improper Handwashing,0
+Restaurant S 23,Grocery Store,2018-09-17,Pass,,0
+Restaurant I 99,Food Truck,2023-06-24,Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant P 41,Restaurant,2020-03-16,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant J 45,Café,2022-08-07,Pass,Unclean Food Preparation Area,0
+Restaurant R 48,Food Truck,2021-05-17,Pass,Improper Handwashing,0
+Restaurant M 75,Grocery Store,2021-03-29,Pass,Cross-Contamination,0
+Restaurant R 18,Grocery Store,2020-07-10,Pass,,0
+Restaurant A 89,Restaurant,2022-03-03,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant P 76,Restaurant,2022-09-30,Pass,,0
+Restaurant Q 100,Grocery Store,2023-06-16,Pass,Expired Food,0
+Restaurant R 47,Food Truck,2023-06-10,Pass,Improper Handwashing,0
+Restaurant U 4,Grocery Store,2022-12-15,Closed,,4000
+Restaurant M 43,Food Processing Facility,2019-09-18,Pass,,0
+Restaurant N 9,Café,2022-09-20,Pass,Inadequate Temperature Control,0
+Restaurant V 2,Restaurant,2022-11-20,Conditional Pass,"Cross-Contamination, Cross-Contamination, Expired Food",0
+Restaurant Q 100,Food Truck,2020-06-25,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant O 63,Grocery Store,2023-09-16,Pass,"Improper Handwashing, Inadequate Temperature Control, Expired Food",0
+Restaurant Q 55,Restaurant,2020-03-14,Pass,Unclean Food Preparation Area,0
+Restaurant G 36,Restaurant,2021-11-18,Pass,Improper Handwashing,0
+Restaurant P 41,Restaurant,2023-08-31,Pass,,0
+Restaurant E 72,Food Processing Facility,2023-02-24,Pass,Expired Food,0
+Restaurant Z 71,Café,2019-03-13,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant X 11,Café,2018-01-29,Conditional Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant N 31,Food Truck,2021-04-07,Closed,Unclean Food Preparation Area,1500
+Restaurant Q 100,Grocery Store,2018-09-21,Pass,,0
+Restaurant F 95,Food Truck,2020-06-30,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant R 18,Café,2023-12-10,Conditional Pass,"Expired Food, Improper Handwashing",0
+Restaurant P 41,Restaurant,2018-01-25,Pass,Improper Handwashing,0
+Restaurant Q 20,Grocery Store,2022-07-17,Pass,Cross-Contamination,0
+Restaurant K 41,Food Processing Facility,2021-04-09,Pass,Inadequate Temperature Control,0
+Restaurant Z 19,Food Truck,2022-10-17,Closed,"Improper Handwashing, Unclean Food Preparation Area",5000
+Restaurant B 69,Café,2019-11-15,Conditional Pass,Expired Food,0
+Restaurant R 60,Restaurant,2018-04-29,Pass,Inadequate Temperature Control,0
+Restaurant M 77,Food Truck,2019-05-13,Pass,"Expired Food, Improper Handwashing",0
+Restaurant L 2,Restaurant,2021-09-01,Pass,Cross-Contamination,0
+Restaurant X 100,Café,2021-05-25,Pass,Cross-Contamination,0
+Restaurant V 2,Café,2020-03-03,Conditional Pass,,0
+Restaurant R 18,Food Truck,2022-02-07,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant R 18,Grocery Store,2021-12-24,Pass,,0
+Restaurant X 1,Food Processing Facility,2019-08-01,Conditional Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant D 45,Grocery Store,2020-03-30,Pass,,0
+Restaurant T 92,Grocery Store,2022-02-20,Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant Y 12,Grocery Store,2021-01-28,Pass,,0
+Restaurant F 17,Food Processing Facility,2022-03-01,Pass,Improper Handwashing,0
+Restaurant J 45,Restaurant,2020-04-26,Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant U 16,Food Processing Facility,2018-01-14,Pass,,0
+Restaurant L 87,Café,2019-11-05,Conditional Pass,,0
+Restaurant J 67,Food Truck,2022-09-24,Pass,Cross-Contamination,0
+Restaurant M 75,Food Truck,2023-10-10,Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant T 92,Café,2018-07-26,Pass,"Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant J 64,Food Truck,2021-06-30,Pass,,0
+Restaurant F 41,Café,2019-02-01,Pass,"Expired Food, Expired Food",0
+Restaurant N 64,Restaurant,2021-05-05,Conditional Pass,Cross-Contamination,0
+Restaurant Y 12,Food Processing Facility,2019-08-10,Conditional Pass,,0
+Restaurant L 4,Restaurant,2019-03-29,Pass,,0
+Restaurant U 16,Grocery Store,2022-09-19,Pass,"Cross-Contamination, Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant N 89,Food Truck,2021-03-29,Conditional Pass,Improper Handwashing,0
+Restaurant X 11,Grocery Store,2021-05-23,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant E 72,Grocery Store,2018-09-11,Pass,"Cross-Contamination, Expired Food",0
+Restaurant O 81,Café,2022-09-26,Conditional Pass,Improper Handwashing,0
+Restaurant N 33,Food Processing Facility,2018-06-14,Conditional Pass,,0
+Restaurant B 21,Food Processing Facility,2019-03-14,Closed,"Unclean Food Preparation Area, Inadequate Temperature Control",1000
+Restaurant X 100,Café,2020-12-16,Pass,Cross-Contamination,0
+Restaurant X 11,Food Processing Facility,2021-12-30,Pass,"Cross-Contamination, Expired Food, Unclean Food Preparation Area",0
+Restaurant S 23,Food Processing Facility,2023-03-26,Pass,,0
+Restaurant L 89,Grocery Store,2019-08-12,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant C 50,Restaurant,2018-08-17,Pass,Expired Food,0
+Restaurant S 71,Café,2021-08-27,Closed,Cross-Contamination,2000
+Restaurant Q 100,Food Truck,2023-04-08,Conditional Pass,Expired Food,0
+Restaurant U 4,Food Processing Facility,2021-04-02,Pass,,0
+Restaurant G 20,Café,2020-02-15,Conditional Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant R 48,Food Processing Facility,2022-06-16,Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant S 71,Food Processing Facility,2022-07-02,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant U 16,Food Processing Facility,2021-08-17,Conditional Pass,"Improper Handwashing, Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant B 69,Grocery Store,2019-10-17,Conditional Pass,,0
+Restaurant H 37,Grocery Store,2023-11-14,Pass,,0
+Restaurant Q 37,Food Truck,2022-09-15,Pass,Unclean Food Preparation Area,0
+Restaurant O 63,Café,2018-02-21,Pass,"Expired Food, Inadequate Temperature Control, Improper Handwashing",0
+Restaurant L 27,Café,2019-04-24,Pass,,0
+Restaurant J 64,Food Processing Facility,2019-08-22,Pass,,0
+Restaurant X 79,Grocery Store,2021-10-25,Closed,Expired Food,4500
+Restaurant R 47,Café,2020-08-31,Pass,"Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant L 87,Food Processing Facility,2019-11-13,Pass,Cross-Contamination,0
+Restaurant Q 100,Restaurant,2022-06-11,Pass,"Unclean Food Preparation Area, Cross-Contamination, Inadequate Temperature Control",0
+Restaurant Y 77,Restaurant,2018-01-18,Pass,Cross-Contamination,0
+Restaurant N 37,Food Processing Facility,2018-01-01,Pass,Improper Handwashing,0
+Restaurant J 37,Food Processing Facility,2019-04-08,Pass,Inadequate Temperature Control,0
+Restaurant O 23,Café,2020-12-15,Pass,,0
+Restaurant X 79,Food Truck,2020-04-11,Pass,"Expired Food, Expired Food",0
+Restaurant G 36,Food Processing Facility,2021-12-29,Pass,Unclean Food Preparation Area,0
+Restaurant C 77,Café,2018-06-06,Pass,,0
+Restaurant E 72,Café,2018-08-09,Pass,,0
+Restaurant I 99,Food Processing Facility,2022-01-23,Pass,Cross-Contamination,0
+Restaurant J 45,Café,2023-05-17,Conditional Pass,Expired Food,0
+Restaurant N 89,Food Truck,2022-04-20,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant N 37,Restaurant,2018-04-01,Pass,Improper Handwashing,0
+Restaurant C 50,Grocery Store,2023-03-13,Pass,,0
+Restaurant J 64,Restaurant,2019-10-08,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant D 38,Restaurant,2021-04-06,Pass,Inadequate Temperature Control,0
+Restaurant B 21,Food Truck,2020-10-18,Conditional Pass,Expired Food,0
+Restaurant N 89,Restaurant,2018-07-10,Pass,Expired Food,0
+Restaurant I 99,Grocery Store,2023-10-25,Conditional Pass,Expired Food,0
+Restaurant F 17,Restaurant,2018-02-01,Pass,Expired Food,0
+Restaurant Y 95,Grocery Store,2018-05-21,Pass,"Expired Food, Expired Food, Expired Food",0
+Restaurant O 3,Grocery Store,2022-02-17,Pass,Cross-Contamination,0
+Restaurant C 50,Café,2018-09-27,Conditional Pass,Cross-Contamination,0
+Restaurant K 14,Grocery Store,2020-11-05,Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant R 48,Food Truck,2022-11-22,Conditional Pass,,0
+Restaurant F 40,Café,2023-03-20,Pass,"Improper Handwashing, Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant Y 86,Food Truck,2022-10-01,Pass,,0
+Restaurant M 77,Restaurant,2022-11-06,Pass,Improper Handwashing,0
+Restaurant N 9,Café,2021-12-15,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant N 89,Food Truck,2021-11-28,Pass,Cross-Contamination,0
+Restaurant Z 19,Food Processing Facility,2018-02-02,Conditional Pass,"Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant O 81,Grocery Store,2023-09-22,Pass,Expired Food,0
+Restaurant Z 46,Café,2023-01-29,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant Q 15,Food Truck,2022-12-23,Closed,Expired Food,5000
+Restaurant Q 20,Food Truck,2020-12-25,Conditional Pass,,0
+Restaurant C 77,Food Truck,2021-10-02,Pass,,0
+Restaurant J 28,Restaurant,2023-10-21,Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant M 77,Food Truck,2022-12-22,Pass,Inadequate Temperature Control,0
+Restaurant Y 21,Restaurant,2021-01-03,Conditional Pass,Cross-Contamination,0
+Restaurant U 4,Food Processing Facility,2018-10-11,Pass,"Inadequate Temperature Control, Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant C 77,Grocery Store,2018-05-03,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant V 2,Café,2020-07-17,Pass,,0
+Restaurant O 62,Café,2018-06-14,Pass,,0
+Restaurant L 89,Food Truck,2020-05-12,Pass,Improper Handwashing,0
+Restaurant U 4,Grocery Store,2018-06-20,Pass,,0
+Restaurant Z 71,Grocery Store,2020-05-03,Pass,Inadequate Temperature Control,0
+Restaurant O 31,Food Truck,2020-04-26,Pass,,0
+Restaurant Q 37,Food Processing Facility,2018-12-01,Closed,Cross-Contamination,5000
+Restaurant D 45,Food Truck,2023-11-17,Pass,"Expired Food, Expired Food",0
+Restaurant Y 95,Food Processing Facility,2019-03-08,Pass,Expired Food,0
+Restaurant Q 55,Café,2021-06-02,Conditional Pass,"Cross-Contamination, Expired Food, Expired Food",0
+Restaurant F 17,Grocery Store,2020-01-17,Pass,Unclean Food Preparation Area,0
+Restaurant A 80,Café,2018-04-21,Pass,Inadequate Temperature Control,0
+Restaurant J 45,Food Truck,2019-10-23,Pass,Expired Food,0
+Restaurant L 87,Food Processing Facility,2019-07-14,Pass,Expired Food,0
+Restaurant Q 22,Restaurant,2021-01-03,Pass,Expired Food,0
+Restaurant N 33,Café,2023-01-07,Pass,,0
+Restaurant N 89,Grocery Store,2018-03-22,Conditional Pass,Improper Handwashing,0
+Restaurant X 79,Café,2020-05-14,Pass,,0
+Restaurant K 41,Grocery Store,2022-02-02,Pass,,0
+Restaurant S 23,Restaurant,2023-03-15,Conditional Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant Y 21,Café,2020-06-14,Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant F 17,Food Processing Facility,2022-12-27,Conditional Pass,Improper Handwashing,0
+Restaurant O 81,Café,2023-10-14,Pass,"Improper Handwashing, Expired Food",0
+Restaurant C 77,Restaurant,2023-03-15,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant L 89,Grocery Store,2021-07-30,Pass,"Inadequate Temperature Control, Inadequate Temperature Control, Cross-Contamination",0
+Restaurant F 95,Café,2020-08-25,Conditional Pass,,0
+Restaurant F 95,Food Processing Facility,2022-06-13,Pass,Improper Handwashing,0
+Restaurant I 99,Food Processing Facility,2018-03-04,Pass,,0
+Restaurant S 17,Food Truck,2019-12-08,Pass,,0
+Restaurant H 37,Food Truck,2021-03-16,Pass,,0
+Restaurant N 9,Food Truck,2022-09-12,Pass,Improper Handwashing,0
+Restaurant T 92,Café,2022-01-09,Pass,Cross-Contamination,0
+Restaurant N 31,Food Processing Facility,2020-07-21,Pass,Inadequate Temperature Control,0
+Restaurant X 61,Food Truck,2021-03-20,Pass,,0
+Restaurant F 40,Food Truck,2022-06-16,Conditional Pass,,0
+Restaurant Z 83,Restaurant,2019-06-09,Pass,,0
+Restaurant Y 95,Grocery Store,2021-09-17,Pass,Improper Handwashing,0
+Restaurant O 31,Grocery Store,2022-07-23,Pass,Inadequate Temperature Control,0
+Restaurant Z 71,Grocery Store,2022-05-29,Pass,,0
+Restaurant V 22,Restaurant,2019-09-14,Pass,,0
+Restaurant R 18,Food Processing Facility,2021-05-24,Pass,Cross-Contamination,0
+Restaurant Q 22,Grocery Store,2020-03-03,Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant R 99,Food Truck,2021-05-13,Pass,"Cross-Contamination, Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant J 92,Grocery Store,2019-10-22,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant O 31,Food Truck,2020-10-10,Pass,"Cross-Contamination, Improper Handwashing",0
+Restaurant K 14,Grocery Store,2018-05-14,Conditional Pass,Cross-Contamination,0
+Restaurant Q 22,Food Truck,2021-07-04,Pass,,0
+Restaurant X 61,Food Processing Facility,2022-11-14,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant O 81,Food Processing Facility,2022-08-20,Conditional Pass,,0
+Restaurant O 57,Food Truck,2021-12-09,Pass,,0
+Restaurant S 34,Café,2020-08-07,Pass,Unclean Food Preparation Area,0
+Restaurant O 81,Food Truck,2021-10-05,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant Q 20,Food Truck,2023-06-28,Pass,Cross-Contamination,0
+Restaurant J 92,Food Truck,2019-07-18,Pass,"Expired Food, Inadequate Temperature Control, Expired Food",0
+Restaurant L 4,Food Processing Facility,2020-08-10,Pass,Cross-Contamination,0
+Restaurant X 57,Grocery Store,2018-10-07,Pass,,0
+Restaurant L 89,Food Processing Facility,2021-03-26,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant J 64,Food Processing Facility,2020-10-05,Pass,,0
+Restaurant M 75,Grocery Store,2018-12-17,Pass,Unclean Food Preparation Area,0
+Restaurant O 57,Food Truck,2019-07-06,Pass,Expired Food,0
+Restaurant G 20,Grocery Store,2019-02-17,Pass,"Improper Handwashing, Cross-Contamination, Cross-Contamination",0
+Restaurant Z 83,Food Truck,2022-06-08,Conditional Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant F 95,Café,2022-07-18,Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant I 99,Restaurant,2021-02-23,Pass,"Expired Food, Cross-Contamination, Cross-Contamination",0
+Restaurant L 2,Restaurant,2021-08-03,Pass,Expired Food,0
+Restaurant D 38,Food Processing Facility,2020-04-15,Pass,,0
+Restaurant Q 90,Grocery Store,2023-02-07,Conditional Pass,Expired Food,0
+Restaurant F 17,Food Processing Facility,2021-11-10,Pass,Expired Food,0
+Restaurant Z 19,Food Processing Facility,2019-08-17,Conditional Pass,Cross-Contamination,0
+Restaurant S 23,Café,2019-07-23,Conditional Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant N 33,Café,2020-07-12,Pass,,0
+Restaurant V 22,Grocery Store,2018-06-11,Pass,"Improper Handwashing, Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant K 10,Food Truck,2023-05-25,Pass,Inadequate Temperature Control,0
+Restaurant Q 37,Food Processing Facility,2023-02-11,Pass,,0
+Restaurant V 76,Grocery Store,2020-12-30,Closed,Cross-Contamination,2500
+Restaurant M 77,Food Truck,2023-03-31,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant L 4,Café,2020-03-22,Conditional Pass,Inadequate Temperature Control,0
+Restaurant O 62,Restaurant,2021-05-15,Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant Z 19,Food Truck,2019-12-11,Conditional Pass,Expired Food,0
+Restaurant M 75,Food Processing Facility,2020-10-21,Pass,,0
+Restaurant O 96,Food Truck,2018-05-11,Pass,Unclean Food Preparation Area,0
+Restaurant K 41,Grocery Store,2023-12-04,Pass,Improper Handwashing,0
+Restaurant N 64,Food Truck,2019-05-30,Pass,Unclean Food Preparation Area,0
+Restaurant O 96,Café,2021-03-15,Pass,Improper Handwashing,0
+Restaurant R 48,Food Truck,2020-11-24,Pass,Unclean Food Preparation Area,0
+Restaurant M 75,Café,2023-03-09,Pass,Improper Handwashing,0
+Restaurant O 62,Food Truck,2020-01-20,Closed,,4500
+Restaurant J 26,Food Truck,2021-07-01,Pass,Inadequate Temperature Control,0
+Restaurant J 45,Food Processing Facility,2018-07-17,Pass,,0
+Restaurant Y 95,Food Processing Facility,2021-10-29,Pass,"Unclean Food Preparation Area, Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant S 71,Food Truck,2023-08-25,Pass,Inadequate Temperature Control,0
+Restaurant X 79,Café,2021-09-04,Pass,Cross-Contamination,0
+Restaurant O 96,Food Truck,2022-02-18,Pass,"Cross-Contamination, Improper Handwashing",0
+Restaurant M 75,Food Truck,2022-07-24,Pass,Inadequate Temperature Control,0
+Restaurant K 10,Grocery Store,2020-06-11,Pass,Expired Food,0
+Restaurant C 77,Grocery Store,2020-01-08,Pass,Unclean Food Preparation Area,0
+Restaurant K 41,Café,2019-10-23,Pass,,0
+Restaurant Y 95,Grocery Store,2023-02-16,Pass,Inadequate Temperature Control,0
+Restaurant M 75,Café,2021-04-23,Pass,,0
+Restaurant P 76,Grocery Store,2021-04-20,Closed,Improper Handwashing,4000
+Restaurant O 23,Grocery Store,2020-05-19,Pass,Expired Food,0
+Restaurant L 89,Food Truck,2019-11-14,Conditional Pass,Inadequate Temperature Control,0
+Restaurant N 31,Grocery Store,2023-11-09,Conditional Pass,Expired Food,0
+Restaurant O 23,Café,2023-07-23,Conditional Pass,Expired Food,0
+Restaurant L 2,Food Processing Facility,2020-06-25,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant L 89,Café,2020-01-03,Pass,Cross-Contamination,0
+Restaurant L 4,Café,2021-04-30,Closed,Unclean Food Preparation Area,500
+Restaurant Q 15,Restaurant,2023-05-16,Pass,Cross-Contamination,0
+Restaurant N 89,Café,2022-10-17,Pass,,0
+Restaurant D 45,Food Processing Facility,2020-08-20,Conditional Pass,Cross-Contamination,0
+Restaurant Y 21,Café,2020-01-01,Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant O 96,Grocery Store,2019-03-29,Pass,,0
+Restaurant F 40,Food Truck,2022-03-06,Conditional Pass,Inadequate Temperature Control,0
+Restaurant A 89,Food Truck,2023-03-09,Pass,"Expired Food, Expired Food",0
+Restaurant O 23,Grocery Store,2022-10-17,Pass,Unclean Food Preparation Area,0
+Restaurant Q 90,Food Truck,2021-03-09,Pass,"Expired Food, Expired Food",0
+Restaurant S 34,Food Truck,2018-10-25,Pass,Cross-Contamination,0
+Restaurant V 2,Food Processing Facility,2022-11-14,Pass,,0
+Restaurant C 77,Food Processing Facility,2019-06-02,Pass,Unclean Food Preparation Area,0
+Restaurant B 7,Restaurant,2021-02-28,Pass,Expired Food,0
+Restaurant Y 86,Café,2019-12-30,Pass,,0
+Restaurant O 71,Food Processing Facility,2019-12-21,Conditional Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant K 41,Grocery Store,2018-10-05,Pass,"Cross-Contamination, Expired Food",0
+Restaurant J 64,Food Truck,2021-03-20,Conditional Pass,,0
+Restaurant O 71,Grocery Store,2021-07-29,Pass,,0
+Restaurant J 64,Café,2023-04-16,Conditional Pass,"Expired Food, Expired Food",0
+Restaurant L 27,Café,2021-05-13,Conditional Pass,Improper Handwashing,0
+Restaurant O 31,Restaurant,2019-12-17,Pass,,0
+Restaurant N 89,Grocery Store,2018-02-14,Pass,,0
+Restaurant M 43,Café,2019-07-14,Closed,,2000
+Restaurant F 40,Food Truck,2018-03-08,Closed,,500
+Restaurant P 76,Café,2018-04-25,Closed,,1000
+Restaurant Y 21,Food Processing Facility,2018-08-28,Pass,Expired Food,0
+Restaurant S 34,Food Processing Facility,2019-12-02,Pass,,0
+Restaurant B 7,Restaurant,2021-08-17,Conditional Pass,Expired Food,0
+Restaurant F 95,Food Processing Facility,2022-12-27,Pass,Expired Food,0
+Restaurant J 64,Food Processing Facility,2020-12-19,Pass,Improper Handwashing,0
+Restaurant N 89,Food Truck,2019-06-23,Pass,Improper Handwashing,0
+Restaurant P 41,Restaurant,2020-09-23,Pass,Cross-Contamination,0
+Restaurant Q 22,Food Processing Facility,2020-01-29,Pass,Improper Handwashing,0
+Restaurant Q 100,Café,2019-09-06,Pass,Unclean Food Preparation Area,0
+Restaurant K 41,Food Processing Facility,2020-02-26,Pass,,0
+Restaurant D 45,Food Truck,2020-11-16,Pass,"Inadequate Temperature Control, Improper Handwashing, Cross-Contamination",0
+Restaurant N 37,Restaurant,2018-10-23,Conditional Pass,,0
+Restaurant C 77,Café,2023-12-06,Pass,,0
+Restaurant K 41,Food Truck,2023-07-22,Pass,,0
+Restaurant O 31,Food Processing Facility,2021-09-25,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant L 4,Grocery Store,2018-01-24,Pass,,0
+Restaurant X 1,Food Truck,2021-05-23,Closed,,500
+Restaurant Y 23,Food Truck,2021-04-25,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant Z 46,Grocery Store,2022-03-21,Closed,,3500
+Restaurant Q 37,Café,2018-01-19,Pass,Inadequate Temperature Control,0
+Restaurant L 27,Restaurant,2018-03-06,Conditional Pass,"Expired Food, Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant V 76,Food Truck,2021-09-10,Pass,,0
+Restaurant D 38,Grocery Store,2021-11-18,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant X 100,Café,2021-10-22,Pass,Unclean Food Preparation Area,0
+Restaurant P 41,Grocery Store,2019-03-27,Pass,,0
+Restaurant B 7,Food Processing Facility,2022-08-16,Pass,,0
+Restaurant V 2,Grocery Store,2020-04-11,Conditional Pass,,0
+Restaurant O 81,Café,2018-06-18,Closed,"Cross-Contamination, Improper Handwashing",4500
+Restaurant R 60,Grocery Store,2023-04-20,Conditional Pass,"Inadequate Temperature Control, Inadequate Temperature Control, Cross-Contamination",0
+Restaurant R 47,Restaurant,2022-02-02,Pass,Inadequate Temperature Control,0
+Restaurant F 17,Restaurant,2018-04-06,Pass,Inadequate Temperature Control,0
+Restaurant S 34,Café,2020-08-26,Pass,Improper Handwashing,0
+Restaurant G 80,Food Processing Facility,2022-03-17,Pass,,0
+Restaurant F 41,Food Processing Facility,2018-09-09,Conditional Pass,Cross-Contamination,0
+Restaurant K 41,Grocery Store,2021-07-15,Conditional Pass,"Cross-Contamination, Cross-Contamination, Expired Food",0
+Restaurant N 79,Food Truck,2021-03-30,Closed,Unclean Food Preparation Area,4500
+Restaurant L 2,Restaurant,2018-11-15,Pass,"Improper Handwashing, Unclean Food Preparation Area, Expired Food",0
+Restaurant K 41,Food Truck,2023-04-19,Closed,Cross-Contamination,2000
+Restaurant V 22,Food Processing Facility,2019-05-21,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant U 80,Café,2019-04-05,Pass,,0
+Restaurant X 100,Restaurant,2018-01-04,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant R 60,Café,2020-10-27,Pass,Expired Food,0
+Restaurant A 89,Grocery Store,2020-03-29,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant M 43,Grocery Store,2021-02-20,Pass,"Inadequate Temperature Control, Cross-Contamination",0
+Restaurant G 80,Restaurant,2021-02-26,Conditional Pass,,0
+Restaurant N 33,Café,2023-12-10,Pass,Expired Food,0
+Restaurant H 37,Restaurant,2020-08-27,Pass,,0
+Restaurant N 37,Food Truck,2020-08-28,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant Z 83,Grocery Store,2018-12-21,Pass,,0
+Restaurant S 34,Food Processing Facility,2023-07-06,Pass,Inadequate Temperature Control,0
+Restaurant O 23,Food Truck,2018-01-12,Pass,,0
+Restaurant B 21,Food Truck,2020-09-10,Conditional Pass,"Improper Handwashing, Expired Food",0
+Restaurant R 18,Restaurant,2021-12-16,Pass,,0
+Restaurant C 77,Restaurant,2022-03-03,Pass,,0
+Restaurant D 38,Food Truck,2019-12-12,Pass,,0
+Restaurant P 76,Food Truck,2021-03-06,Conditional Pass,,0
+Restaurant M 43,Food Truck,2020-02-02,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant O 63,Food Truck,2020-04-09,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant Y 95,Restaurant,2023-05-01,Conditional Pass,"Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant I 99,Restaurant,2022-11-13,Conditional Pass,,0
+Restaurant O 3,Food Truck,2023-05-23,Pass,"Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant L 89,Food Processing Facility,2019-10-18,Pass,,0
+Restaurant Q 22,Grocery Store,2021-08-29,Pass,"Inadequate Temperature Control, Inadequate Temperature Control, Cross-Contamination",0
+Restaurant S 17,Grocery Store,2018-06-24,Pass,Inadequate Temperature Control,0
+Restaurant K 41,Food Processing Facility,2020-08-31,Conditional Pass,"Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant X 11,Café,2020-11-03,Conditional Pass,Expired Food,0
+Restaurant J 67,Café,2023-04-03,Pass,,0
+Restaurant J 26,Grocery Store,2022-12-11,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant A 80,Grocery Store,2023-11-28,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant K 41,Café,2020-07-02,Pass,"Expired Food, Inadequate Temperature Control, Improper Handwashing",0
+Restaurant O 71,Café,2020-08-29,Pass,"Expired Food, Expired Food",0
+Restaurant X 79,Food Processing Facility,2022-07-31,Pass,Inadequate Temperature Control,0
+Restaurant N 9,Café,2021-09-11,Pass,Improper Handwashing,0
+Restaurant Q 55,Restaurant,2022-08-25,Pass,Cross-Contamination,0
+Restaurant Y 95,Grocery Store,2019-08-27,Pass,"Cross-Contamination, Improper Handwashing",0
+Restaurant O 63,Food Truck,2019-07-01,Pass,Unclean Food Preparation Area,0
+Restaurant P 76,Grocery Store,2019-03-30,Conditional Pass,Expired Food,0
+Restaurant B 7,Food Processing Facility,2018-05-02,Pass,"Cross-Contamination, Improper Handwashing",0
+Restaurant F 17,Food Processing Facility,2022-08-02,Pass,Cross-Contamination,0
+Restaurant S 17,Grocery Store,2019-09-05,Conditional Pass,,0
+Restaurant Q 90,Grocery Store,2019-12-18,Pass,,0
+Restaurant U 16,Café,2020-01-30,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant R 47,Restaurant,2020-08-10,Conditional Pass,,0
+Restaurant J 37,Food Processing Facility,2018-04-23,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant Z 83,Restaurant,2021-05-31,Pass,Expired Food,0
+Restaurant J 92,Café,2021-06-27,Pass,Inadequate Temperature Control,0
+Restaurant Q 22,Grocery Store,2023-01-10,Closed,,4500
+Restaurant X 100,Café,2021-12-19,Pass,Inadequate Temperature Control,0
+Restaurant N 64,Grocery Store,2022-09-23,Conditional Pass,Improper Handwashing,0
+Restaurant O 57,Café,2020-04-21,Conditional Pass,Improper Handwashing,0
+Restaurant M 77,Grocery Store,2019-01-11,Conditional Pass,,0
+Restaurant G 20,Café,2019-10-27,Pass,"Inadequate Temperature Control, Inadequate Temperature Control, Improper Handwashing",0
+Restaurant Z 71,Food Processing Facility,2019-05-21,Pass,,0
+Restaurant Y 95,Food Processing Facility,2021-11-20,Pass,Inadequate Temperature Control,0
+Restaurant V 2,Restaurant,2019-12-19,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant B 21,Restaurant,2022-02-24,Pass,,0
+Restaurant B 21,Food Truck,2018-10-18,Conditional Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant C 50,Restaurant,2019-12-08,Pass,Expired Food,0
+Restaurant K 41,Food Truck,2018-07-01,Pass,Improper Handwashing,0
+Restaurant Y 77,Café,2018-10-10,Pass,"Expired Food, Cross-Contamination, Inadequate Temperature Control",0
+Restaurant T 92,Food Processing Facility,2023-05-20,Pass,,0
+Restaurant U 80,Food Processing Facility,2019-04-12,Conditional Pass,Improper Handwashing,0
+Restaurant J 37,Restaurant,2019-03-14,Pass,,0
+Restaurant U 4,Grocery Store,2023-01-13,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant O 71,Grocery Store,2018-02-20,Closed,,2500
+Restaurant L 27,Restaurant,2021-09-18,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant J 37,Restaurant,2023-04-26,Pass,Unclean Food Preparation Area,0
+Restaurant D 45,Grocery Store,2021-12-13,Conditional Pass,Cross-Contamination,0
+Restaurant T 92,Restaurant,2023-12-28,Conditional Pass,,0
+Restaurant J 92,Food Truck,2023-12-01,Conditional Pass,,0
+Restaurant Y 77,Restaurant,2023-11-28,Pass,Expired Food,0
+Restaurant F 41,Grocery Store,2021-06-12,Pass,,0
+Restaurant X 1,Food Processing Facility,2018-01-31,Pass,Inadequate Temperature Control,0
+Restaurant X 79,Grocery Store,2022-08-10,Conditional Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant Q 100,Food Processing Facility,2021-11-29,Pass,,0
+Restaurant R 48,Restaurant,2019-01-05,Pass,Unclean Food Preparation Area,0
+Restaurant J 26,Food Processing Facility,2018-04-22,Pass,Inadequate Temperature Control,0
+Restaurant X 61,Food Truck,2020-05-29,Conditional Pass,"Unclean Food Preparation Area, Expired Food, Improper Handwashing",0
+Restaurant G 20,Restaurant,2023-11-16,Pass,Expired Food,0
+Restaurant X 1,Grocery Store,2023-11-10,Pass,Cross-Contamination,0
+Restaurant B 7,Food Processing Facility,2021-07-10,Pass,"Expired Food, Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant X 79,Restaurant,2018-08-30,Conditional Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area",0
+Restaurant P 76,Food Truck,2021-07-31,Pass,Unclean Food Preparation Area,0
+Restaurant A 80,Café,2019-10-16,Closed,"Improper Handwashing, Cross-Contamination",3000
+Restaurant O 81,Food Processing Facility,2018-10-04,Pass,Expired Food,0
+Restaurant N 33,Grocery Store,2021-07-23,Pass,,0
+Restaurant D 45,Food Processing Facility,2018-11-20,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant X 11,Restaurant,2021-11-10,Closed,Improper Handwashing,1500
+Restaurant M 77,Food Processing Facility,2022-10-06,Pass,,0
+Restaurant S 23,Food Truck,2019-08-26,Conditional Pass,"Cross-Contamination, Expired Food",0
+Restaurant Q 37,Food Truck,2019-01-13,Pass,Expired Food,0
+Restaurant M 43,Food Processing Facility,2022-12-22,Pass,Cross-Contamination,0
+Restaurant F 17,Café,2020-05-07,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant X 100,Café,2018-03-26,Pass,Cross-Contamination,0
+Restaurant L 2,Food Processing Facility,2022-06-12,Conditional Pass,Improper Handwashing,0
+Restaurant O 81,Restaurant,2023-08-03,Pass,,0
+Restaurant M 77,Café,2021-10-29,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant Q 37,Food Processing Facility,2023-09-06,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant G 20,Restaurant,2021-07-02,Pass,"Improper Handwashing, Expired Food, Cross-Contamination",0
+Restaurant J 26,Food Processing Facility,2020-01-30,Pass,Improper Handwashing,0
+Restaurant R 18,Restaurant,2019-04-03,Pass,Cross-Contamination,0
+Restaurant L 89,Restaurant,2019-05-27,Pass,Expired Food,0
+Restaurant C 54,Café,2023-08-07,Pass,Inadequate Temperature Control,0
+Restaurant D 38,Restaurant,2023-07-29,Pass,Cross-Contamination,0
+Restaurant D 38,Restaurant,2022-08-25,Pass,Inadequate Temperature Control,0
+Restaurant N 89,Food Truck,2019-01-07,Closed,,1000
+Restaurant N 33,Food Processing Facility,2023-01-13,Conditional Pass,Improper Handwashing,0
+Restaurant L 89,Food Truck,2022-07-18,Conditional Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant S 23,Grocery Store,2023-01-01,Pass,,0
+Restaurant S 23,Café,2020-08-26,Pass,Unclean Food Preparation Area,0
+Restaurant B 7,Food Truck,2023-10-17,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant Q 93,Food Processing Facility,2022-03-09,Pass,Unclean Food Preparation Area,0
+Restaurant X 100,Food Processing Facility,2018-12-17,Closed,Inadequate Temperature Control,5000
+Restaurant C 54,Food Processing Facility,2020-10-18,Conditional Pass,,0
+Restaurant N 33,Café,2022-12-08,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant A 80,Food Truck,2018-07-28,Pass,,0
+Restaurant T 92,Restaurant,2020-04-23,Pass,Expired Food,0
+Restaurant N 79,Café,2018-05-10,Closed,"Inadequate Temperature Control, Cross-Contamination",1500
+Restaurant Q 20,Food Processing Facility,2022-04-27,Pass,Unclean Food Preparation Area,0
+Restaurant F 41,Food Processing Facility,2019-06-14,Closed,Cross-Contamination,1500
+Restaurant X 61,Grocery Store,2018-12-19,Pass,,0
+Restaurant P 76,Food Truck,2021-04-07,Pass,Cross-Contamination,0
+Restaurant C 50,Food Truck,2018-11-06,Conditional Pass,,0
+Restaurant N 89,Food Truck,2020-05-11,Pass,"Expired Food, Unclean Food Preparation Area, Expired Food",0
+Restaurant Z 83,Café,2020-05-15,Closed,,2000
+Restaurant G 20,Food Processing Facility,2020-09-23,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant R 47,Food Processing Facility,2019-06-13,Conditional Pass,,0
+Restaurant P 76,Café,2023-09-19,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant R 18,Grocery Store,2019-05-24,Closed,,4500
+Restaurant O 31,Grocery Store,2022-06-11,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant L 89,Café,2020-03-09,Pass,Improper Handwashing,0
+Restaurant P 76,Food Processing Facility,2019-07-04,Conditional Pass,Cross-Contamination,0
+Restaurant Y 86,Food Processing Facility,2020-06-18,Pass,Improper Handwashing,0
+Restaurant D 45,Grocery Store,2022-03-28,Pass,,0
+Restaurant G 20,Café,2021-03-03,Closed,"Cross-Contamination, Expired Food",2000
+Restaurant G 20,Food Processing Facility,2020-01-03,Closed,Improper Handwashing,500
+Restaurant X 57,Grocery Store,2023-03-19,Pass,Expired Food,0
+Restaurant C 50,Grocery Store,2022-04-11,Pass,Improper Handwashing,0
+Restaurant Y 95,Restaurant,2022-10-08,Pass,,0
+Restaurant S 17,Grocery Store,2018-12-25,Pass,Inadequate Temperature Control,0
+Restaurant U 4,Food Truck,2019-10-19,Closed,,500
+Restaurant N 33,Grocery Store,2019-08-22,Pass,,0
+Restaurant G 36,Restaurant,2023-12-03,Conditional Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant N 79,Grocery Store,2019-05-01,Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant J 37,Food Truck,2022-07-28,Pass,Expired Food,0
+Restaurant F 95,Food Truck,2022-09-28,Conditional Pass,,0
+Restaurant R 48,Food Processing Facility,2021-05-24,Conditional Pass,,0
+Restaurant J 28,Food Truck,2022-12-21,Conditional Pass,,0
+Restaurant A 89,Food Processing Facility,2018-01-25,Conditional Pass,,0
+Restaurant L 87,Food Truck,2019-04-27,Pass,Cross-Contamination,0
+Restaurant U 80,Grocery Store,2020-11-01,Pass,Improper Handwashing,0
+Restaurant X 1,Food Truck,2023-09-04,Pass,Inadequate Temperature Control,0
+Restaurant N 64,Food Truck,2019-05-27,Pass,Unclean Food Preparation Area,0
+Restaurant O 3,Food Processing Facility,2023-10-07,Pass,Cross-Contamination,0
+Restaurant R 99,Café,2021-10-12,Pass,,0
+Restaurant Q 22,Grocery Store,2021-05-09,Pass,Expired Food,0
+Restaurant L 4,Food Truck,2020-02-12,Conditional Pass,"Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant F 17,Grocery Store,2020-04-25,Pass,Improper Handwashing,0
+Restaurant R 18,Grocery Store,2023-04-17,Conditional Pass,"Expired Food, Improper Handwashing",0
+Restaurant Q 55,Grocery Store,2022-02-18,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant X 11,Food Truck,2023-08-05,Pass,,0
+Restaurant V 2,Café,2023-12-26,Pass,Expired Food,0
+Restaurant X 79,Restaurant,2020-01-21,Conditional Pass,,0
+Restaurant M 43,Café,2018-04-05,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant S 34,Grocery Store,2018-01-04,Pass,,0
+Restaurant L 2,Café,2023-12-09,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant Y 77,Food Processing Facility,2020-03-27,Pass,,0
+Restaurant C 54,Café,2022-04-15,Closed,"Expired Food, Cross-Contamination, Expired Food",4500
+Restaurant N 9,Restaurant,2023-03-14,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant M 43,Grocery Store,2023-02-07,Pass,Unclean Food Preparation Area,0
+Restaurant H 37,Grocery Store,2023-03-10,Conditional Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant F 40,Restaurant,2021-02-22,Pass,Improper Handwashing,0
+Restaurant A 80,Café,2023-03-20,Closed,Inadequate Temperature Control,2500
+Restaurant X 100,Food Truck,2019-11-10,Pass,Cross-Contamination,0
+Restaurant Q 55,Food Processing Facility,2018-12-10,Pass,Cross-Contamination,0
+Restaurant R 60,Grocery Store,2022-09-10,Pass,Cross-Contamination,0
+Restaurant F 17,Café,2019-01-05,Pass,Improper Handwashing,0
+Restaurant Q 55,Food Truck,2022-02-26,Pass,,0
+Restaurant J 45,Café,2018-09-16,Pass,,0
+Restaurant Y 23,Food Truck,2022-09-14,Closed,Inadequate Temperature Control,4000
+Restaurant Z 19,Food Processing Facility,2022-12-06,Pass,,0
+Restaurant K 10,Restaurant,2023-10-19,Conditional Pass,Expired Food,0
+Restaurant L 87,Restaurant,2021-02-05,Pass,,0
+Restaurant O 62,Food Processing Facility,2019-05-23,Pass,Cross-Contamination,0
+Restaurant L 27,Food Processing Facility,2020-04-22,Pass,,0
+Restaurant M 77,Food Processing Facility,2021-02-04,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant Q 90,Restaurant,2022-06-16,Pass,"Improper Handwashing, Cross-Contamination, Cross-Contamination",0
+Restaurant U 16,Restaurant,2019-10-05,Pass,"Inadequate Temperature Control, Unclean Food Preparation Area, Expired Food",0
+Restaurant K 14,Food Processing Facility,2019-08-15,Pass,Cross-Contamination,0
+Restaurant R 47,Café,2019-07-14,Pass,Unclean Food Preparation Area,0
+Restaurant R 60,Food Processing Facility,2022-10-13,Conditional Pass,,0
+Restaurant N 89,Food Truck,2021-04-16,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant J 92,Grocery Store,2018-08-23,Pass,,0
+Restaurant U 16,Food Truck,2022-01-02,Pass,Inadequate Temperature Control,0
+Restaurant R 60,Grocery Store,2020-03-18,Pass,,0
+Restaurant O 31,Food Processing Facility,2022-06-08,Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant B 7,Grocery Store,2022-02-27,Pass,Improper Handwashing,0
+Restaurant F 95,Restaurant,2020-12-12,Conditional Pass,,0
+Restaurant E 72,Food Processing Facility,2019-10-27,Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant N 33,Café,2018-11-27,Pass,Improper Handwashing,0
+Restaurant Q 90,Grocery Store,2020-04-11,Pass,Expired Food,0
+Restaurant X 57,Café,2018-03-07,Pass,,0
+Restaurant O 31,Restaurant,2023-07-08,Pass,"Improper Handwashing, Inadequate Temperature Control",0
+Restaurant Q 93,Café,2021-11-10,Pass,,0
+Restaurant V 22,Grocery Store,2018-03-13,Pass,Inadequate Temperature Control,0
+Restaurant N 89,Café,2022-08-29,Pass,Inadequate Temperature Control,0
+Restaurant C 50,Café,2018-07-19,Conditional Pass,Improper Handwashing,0
+Restaurant I 99,Restaurant,2018-04-06,Pass,,0
+Restaurant M 75,Food Truck,2018-08-05,Pass,Improper Handwashing,0
+Restaurant Q 22,Food Truck,2022-04-15,Conditional Pass,Improper Handwashing,0
+Restaurant X 57,Grocery Store,2021-11-23,Conditional Pass,,0
+Restaurant X 100,Food Truck,2021-08-14,Closed,Cross-Contamination,2000
+Restaurant M 77,Food Truck,2022-09-07,Pass,Cross-Contamination,0
+Restaurant O 63,Food Processing Facility,2023-03-30,Pass,Expired Food,0
+Restaurant M 43,Grocery Store,2020-01-27,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant O 81,Food Truck,2021-01-27,Pass,Inadequate Temperature Control,0
+Restaurant G 36,Grocery Store,2021-10-29,Conditional Pass,,0
+Restaurant Z 46,Food Truck,2021-10-23,Closed,Cross-Contamination,4000
+Restaurant K 14,Grocery Store,2021-12-01,Pass,Inadequate Temperature Control,0
+Restaurant U 4,Grocery Store,2022-01-27,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant U 16,Food Truck,2019-10-06,Conditional Pass,,0
+Restaurant B 21,Food Truck,2020-03-14,Conditional Pass,"Improper Handwashing, Cross-Contamination, Inadequate Temperature Control",0
+Restaurant D 45,Restaurant,2018-04-15,Pass,"Cross-Contamination, Expired Food",0
+Restaurant X 61,Café,2018-01-28,Pass,Inadequate Temperature Control,0
+Restaurant J 64,Restaurant,2020-08-05,Conditional Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant F 95,Grocery Store,2023-11-30,Pass,Inadequate Temperature Control,0
+Restaurant R 99,Café,2023-11-13,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant X 61,Restaurant,2021-02-15,Pass,"Cross-Contamination, Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant X 1,Food Processing Facility,2022-05-11,Conditional Pass,"Inadequate Temperature Control, Improper Handwashing, Cross-Contamination",0
+Restaurant X 57,Restaurant,2021-09-16,Closed,,3000
+Restaurant F 95,Grocery Store,2022-05-07,Closed,,3000
+Restaurant J 45,Restaurant,2020-09-17,Closed,,3500
+Restaurant Y 95,Restaurant,2018-05-22,Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant K 10,Restaurant,2019-03-24,Pass,Improper Handwashing,0
+Restaurant H 37,Grocery Store,2023-02-02,Conditional Pass,,0
+Restaurant J 45,Food Truck,2020-08-06,Closed,Expired Food,5000
+Restaurant B 69,Grocery Store,2019-11-11,Pass,,0
+Restaurant Z 19,Food Processing Facility,2023-04-28,Conditional Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant N 31,Grocery Store,2018-08-29,Closed,,1500
+Restaurant X 100,Grocery Store,2018-04-29,Conditional Pass,"Inadequate Temperature Control, Improper Handwashing, Expired Food",0
+Restaurant Z 71,Food Truck,2021-11-21,Pass,Improper Handwashing,0
+Restaurant F 40,Food Processing Facility,2020-07-08,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant M 43,Grocery Store,2021-06-12,Pass,,0
+Restaurant X 57,Food Processing Facility,2020-05-16,Conditional Pass,Improper Handwashing,0
+Restaurant D 38,Café,2019-04-22,Closed,Inadequate Temperature Control,3000
+Restaurant Z 19,Café,2022-01-13,Pass,Inadequate Temperature Control,0
+Restaurant Z 19,Food Processing Facility,2023-10-12,Pass,"Expired Food, Unclean Food Preparation Area",0
+Restaurant R 60,Food Processing Facility,2021-09-17,Pass,Inadequate Temperature Control,0
+Restaurant R 48,Grocery Store,2021-06-08,Pass,Expired Food,0
+Restaurant C 77,Grocery Store,2023-05-01,Pass,,0
+Restaurant P 41,Restaurant,2022-10-11,Pass,"Inadequate Temperature Control, Cross-Contamination, Improper Handwashing",0
+Restaurant U 4,Café,2021-03-26,Pass,Inadequate Temperature Control,0
+Restaurant F 95,Food Processing Facility,2022-10-26,Pass,Expired Food,0
+Restaurant H 37,Café,2021-03-18,Pass,,0
+Restaurant J 64,Food Processing Facility,2021-07-14,Closed,Unclean Food Preparation Area,4000
+Restaurant Q 20,Café,2018-10-29,Pass,,0
+Restaurant G 36,Café,2018-01-12,Conditional Pass,"Improper Handwashing, Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant R 18,Food Truck,2023-04-30,Pass,Unclean Food Preparation Area,0
+Restaurant X 61,Grocery Store,2019-09-10,Pass,Inadequate Temperature Control,0
+Restaurant V 2,Food Processing Facility,2021-06-17,Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant V 2,Food Truck,2019-08-03,Pass,Unclean Food Preparation Area,0
+Restaurant Z 46,Grocery Store,2022-06-25,Pass,Expired Food,0
+Restaurant L 87,Food Truck,2019-06-03,Conditional Pass,Expired Food,0
+Restaurant B 21,Café,2020-06-26,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant Q 15,Restaurant,2023-08-09,Pass,"Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant O 31,Café,2018-05-09,Pass,"Cross-Contamination, Expired Food",0
+Restaurant Q 20,Restaurant,2022-11-16,Pass,Improper Handwashing,0
+Restaurant Y 23,Food Processing Facility,2018-03-02,Pass,,0
+Restaurant X 57,Grocery Store,2023-08-21,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant O 31,Food Truck,2020-03-04,Pass,,0
+Restaurant C 77,Restaurant,2022-10-19,Closed,,500
+Restaurant Y 21,Grocery Store,2020-06-24,Closed,,500
+Restaurant Y 21,Café,2020-08-12,Pass,,0
+Restaurant I 99,Food Processing Facility,2018-04-08,Pass,,0
+Restaurant R 18,Food Truck,2020-08-28,Pass,Inadequate Temperature Control,0
+Restaurant Z 83,Food Truck,2022-07-08,Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant G 80,Restaurant,2019-09-18,Pass,,0
+Restaurant N 9,Food Processing Facility,2020-09-21,Pass,,0
+Restaurant M 75,Restaurant,2020-03-10,Pass,Cross-Contamination,0
+Restaurant S 71,Grocery Store,2020-06-07,Pass,,0
+Restaurant C 50,Café,2022-09-09,Pass,Inadequate Temperature Control,0
+Restaurant J 26,Grocery Store,2023-06-08,Conditional Pass,,0
+Restaurant Q 100,Grocery Store,2018-05-09,Pass,Cross-Contamination,0
+Restaurant Y 23,Restaurant,2022-10-13,Conditional Pass,Cross-Contamination,0
+Restaurant U 80,Café,2023-05-04,Pass,Expired Food,0
+Restaurant Q 93,Grocery Store,2021-08-30,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant G 36,Restaurant,2020-04-15,Pass,"Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant Z 46,Grocery Store,2018-10-27,Pass,Expired Food,0
+Restaurant R 18,Café,2019-06-24,Pass,"Expired Food, Cross-Contamination",0
+Restaurant J 37,Café,2023-11-02,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant V 76,Grocery Store,2023-07-09,Pass,Cross-Contamination,0
+Restaurant L 89,Café,2021-10-31,Pass,Cross-Contamination,0
+Restaurant U 18,Restaurant,2020-11-26,Pass,,0
+Restaurant O 3,Food Truck,2018-03-18,Closed,"Unclean Food Preparation Area, Improper Handwashing, Unclean Food Preparation Area",2000
+Restaurant N 79,Café,2022-09-06,Conditional Pass,"Improper Handwashing, Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant Q 100,Food Truck,2020-01-03,Pass,Inadequate Temperature Control,0
+Restaurant J 64,Food Truck,2019-01-24,Pass,,0
+Restaurant R 48,Food Truck,2021-01-23,Conditional Pass,Expired Food,0
+Restaurant Y 77,Grocery Store,2023-08-03,Pass,Unclean Food Preparation Area,0
+Restaurant O 62,Restaurant,2022-03-12,Conditional Pass,Cross-Contamination,0
+Restaurant U 80,Café,2020-05-07,Pass,,0
+Restaurant F 17,Food Truck,2021-10-16,Conditional Pass,Expired Food,0
+Restaurant Z 83,Grocery Store,2022-09-05,Pass,Improper Handwashing,0
+Restaurant F 17,Food Truck,2022-06-24,Pass,,0
+Restaurant O 31,Grocery Store,2018-05-16,Closed,Inadequate Temperature Control,2500
+Restaurant J 28,Café,2018-11-30,Conditional Pass,,0
+Restaurant K 41,Food Truck,2020-07-22,Pass,,0
+Restaurant N 89,Food Processing Facility,2023-01-17,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant N 89,Food Truck,2018-08-16,Closed,Cross-Contamination,3000
+Restaurant O 81,Food Truck,2019-01-04,Pass,,0
+Restaurant X 61,Grocery Store,2023-12-08,Pass,,0
+Restaurant I 99,Food Processing Facility,2018-06-22,Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant X 61,Food Processing Facility,2020-05-19,Pass,,0
+Restaurant A 89,Café,2022-04-20,Pass,,0
+Restaurant F 17,Grocery Store,2021-05-16,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant O 81,Café,2022-11-16,Pass,,0
+Restaurant G 80,Food Processing Facility,2019-03-30,Pass,Cross-Contamination,0
+Restaurant O 3,Restaurant,2023-04-04,Pass,,0
+Restaurant O 71,Food Truck,2018-01-20,Pass,,0
+Restaurant X 79,Food Truck,2018-01-31,Pass,"Expired Food, Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant Y 12,Restaurant,2023-06-02,Conditional Pass,"Improper Handwashing, Inadequate Temperature Control, Unclean Food Preparation Area",0
+Restaurant K 41,Café,2023-11-12,Pass,Unclean Food Preparation Area,0
+Restaurant K 10,Restaurant,2020-08-08,Pass,,0
+Restaurant N 31,Restaurant,2018-03-01,Pass,"Improper Handwashing, Improper Handwashing",0
+Restaurant L 4,Grocery Store,2022-02-07,Pass,"Expired Food, Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant X 79,Food Truck,2018-01-18,Closed,Unclean Food Preparation Area,4000
+Restaurant Z 83,Grocery Store,2018-07-16,Closed,"Improper Handwashing, Improper Handwashing, Improper Handwashing",4000
+Restaurant N 9,Grocery Store,2018-06-08,Pass,Expired Food,0
+Restaurant J 37,Café,2021-10-03,Pass,,0
+Restaurant R 60,Grocery Store,2018-08-11,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant D 38,Food Processing Facility,2018-03-03,Pass,Inadequate Temperature Control,0
+Restaurant Z 46,Grocery Store,2023-12-28,Pass,Cross-Contamination,0
+Restaurant Z 71,Food Truck,2019-08-07,Closed,,1000
+Restaurant K 10,Restaurant,2020-01-05,Pass,Inadequate Temperature Control,0
+Restaurant J 92,Food Truck,2022-10-11,Pass,"Unclean Food Preparation Area, Expired Food",0
+Restaurant L 27,Restaurant,2018-02-01,Pass,Unclean Food Preparation Area,0
+Restaurant J 92,Café,2020-05-07,Pass,"Inadequate Temperature Control, Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant O 3,Grocery Store,2020-10-02,Pass,"Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant X 61,Food Truck,2022-03-02,Conditional Pass,,0
+Restaurant Z 83,Food Truck,2023-09-09,Pass,Cross-Contamination,0
+Restaurant I 99,Restaurant,2020-04-07,Conditional Pass,,0
+Restaurant A 80,Food Processing Facility,2018-10-08,Conditional Pass,Expired Food,0
+Restaurant X 79,Food Processing Facility,2021-04-23,Pass,"Improper Handwashing, Expired Food, Cross-Contamination",0
+Restaurant C 77,Food Truck,2018-03-09,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant Q 93,Restaurant,2019-04-18,Pass,Cross-Contamination,0
+Restaurant S 34,Café,2019-06-10,Pass,,0
+Restaurant A 80,Café,2021-06-21,Closed,,2000
+Restaurant H 37,Café,2019-03-16,Pass,Inadequate Temperature Control,0
+Restaurant K 41,Restaurant,2018-10-15,Pass,"Improper Handwashing, Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant C 50,Restaurant,2022-02-04,Pass,"Improper Handwashing, Inadequate Temperature Control, Improper Handwashing",0
+Restaurant B 21,Food Processing Facility,2023-08-17,Pass,"Improper Handwashing, Expired Food",0
+Restaurant B 21,Grocery Store,2019-05-13,Pass,,0
+Restaurant X 61,Restaurant,2020-07-28,Pass,Improper Handwashing,0
+Restaurant F 41,Café,2023-02-19,Conditional Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant J 92,Food Processing Facility,2020-04-26,Pass,"Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant X 57,Food Processing Facility,2018-02-17,Conditional Pass,Expired Food,0
+Restaurant Y 77,Food Processing Facility,2022-12-16,Pass,Inadequate Temperature Control,0
+Restaurant O 71,Restaurant,2019-12-22,Pass,,0
+Restaurant L 87,Restaurant,2021-12-17,Conditional Pass,,0
+Restaurant J 64,Food Processing Facility,2020-01-14,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant K 10,Restaurant,2022-04-13,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant L 87,Food Truck,2022-09-29,Pass,Improper Handwashing,0
+Restaurant C 50,Food Processing Facility,2019-02-09,Conditional Pass,Cross-Contamination,0
+Restaurant C 77,Restaurant,2020-04-07,Pass,"Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant R 60,Food Processing Facility,2020-07-07,Pass,Expired Food,0
+Restaurant X 57,Food Truck,2021-01-22,Pass,Expired Food,0
+Restaurant X 1,Food Processing Facility,2023-04-10,Pass,Expired Food,0
+Restaurant F 17,Café,2018-04-25,Conditional Pass,Inadequate Temperature Control,0
+Restaurant H 37,Food Truck,2023-06-17,Closed,"Unclean Food Preparation Area, Improper Handwashing",2000
+Restaurant R 47,Grocery Store,2020-04-23,Pass,Expired Food,0
+Restaurant F 17,Food Truck,2023-09-07,Pass,"Cross-Contamination, Expired Food",0
+Restaurant B 7,Restaurant,2021-08-11,Pass,,0
+Restaurant K 14,Restaurant,2021-02-24,Conditional Pass,,0
+Restaurant Q 15,Food Processing Facility,2021-03-29,Pass,,0
+Restaurant B 7,Food Truck,2018-08-15,Pass,Cross-Contamination,0
+Restaurant E 72,Food Processing Facility,2019-09-11,Conditional Pass,Improper Handwashing,0
+Restaurant P 41,Café,2018-02-10,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant C 50,Food Truck,2023-04-09,Pass,Improper Handwashing,0
+Restaurant X 100,Café,2018-08-06,Conditional Pass,,0
+Restaurant N 37,Grocery Store,2022-06-14,Pass,,0
+Restaurant O 57,Grocery Store,2020-07-29,Pass,"Unclean Food Preparation Area, Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant X 57,Food Truck,2018-11-21,Pass,"Cross-Contamination, Cross-Contamination, Unclean Food Preparation Area",0
+Restaurant Y 21,Grocery Store,2021-12-18,Pass,Unclean Food Preparation Area,0
+Restaurant Y 95,Restaurant,2018-11-17,Conditional Pass,"Expired Food, Improper Handwashing, Unclean Food Preparation Area",0
+Restaurant L 4,Food Truck,2018-01-26,Pass,,0
+Restaurant O 62,Restaurant,2021-07-23,Pass,"Expired Food, Improper Handwashing",0
+Restaurant V 2,Food Truck,2019-04-04,Conditional Pass,Expired Food,0
+Restaurant L 27,Food Truck,2022-10-19,Conditional Pass,"Improper Handwashing, Expired Food",0
+Restaurant X 57,Food Truck,2019-07-08,Pass,,0
+Restaurant O 63,Grocery Store,2020-12-02,Pass,,0
+Restaurant Z 46,Food Truck,2022-01-14,Pass,,0
+Restaurant G 20,Restaurant,2020-10-28,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant B 21,Food Processing Facility,2020-11-10,Pass,Expired Food,0
+Restaurant Q 55,Restaurant,2022-12-04,Pass,,0
+Restaurant M 75,Food Processing Facility,2018-11-03,Pass,Inadequate Temperature Control,0
+Restaurant Q 100,Restaurant,2018-01-20,Pass,"Unclean Food Preparation Area, Improper Handwashing",0
+Restaurant M 77,Food Truck,2021-11-03,Conditional Pass,Expired Food,0
+Restaurant N 31,Food Truck,2019-12-03,Pass,,0
+Restaurant R 18,Grocery Store,2022-10-14,Pass,Expired Food,0
+Restaurant M 43,Restaurant,2019-02-12,Pass,"Improper Handwashing, Cross-Contamination",0
+Restaurant F 95,Restaurant,2021-06-25,Conditional Pass,,0
+Restaurant X 11,Food Processing Facility,2020-11-06,Conditional Pass,Expired Food,0
+Restaurant F 95,Restaurant,2021-03-19,Pass,Inadequate Temperature Control,0
+Restaurant O 71,Grocery Store,2019-06-27,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant F 17,Food Processing Facility,2023-11-03,Conditional Pass,Cross-Contamination,0
+Restaurant J 45,Grocery Store,2023-03-28,Closed,"Unclean Food Preparation Area, Expired Food",2000
+Restaurant J 45,Food Processing Facility,2023-08-30,Pass,,0
+Restaurant Z 83,Grocery Store,2020-06-24,Pass,,0
+Restaurant Q 100,Food Truck,2021-02-25,Pass,,0
+Restaurant Z 83,Restaurant,2018-02-04,Pass,,0
+Restaurant Y 23,Grocery Store,2023-10-25,Pass,Inadequate Temperature Control,0
+Restaurant V 76,Food Truck,2019-05-10,Pass,Expired Food,0
+Restaurant Z 83,Restaurant,2019-08-21,Closed,"Inadequate Temperature Control, Inadequate Temperature Control",1000
+Restaurant N 9,Café,2019-10-27,Pass,,0
+Restaurant M 75,Grocery Store,2019-12-31,Closed,Improper Handwashing,1500
+Restaurant R 60,Café,2019-04-27,Pass,"Cross-Contamination, Cross-Contamination",0
+Restaurant J 37,Food Truck,2018-08-30,Closed,"Expired Food, Unclean Food Preparation Area",500
+Restaurant N 64,Food Truck,2022-01-10,Pass,,0
+Restaurant M 77,Restaurant,2019-08-31,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant N 37,Food Processing Facility,2023-02-08,Pass,,0
+Restaurant U 4,Food Truck,2018-12-21,Closed,Inadequate Temperature Control,4500
+Restaurant Q 37,Café,2020-01-16,Pass,Expired Food,0
+Restaurant J 28,Café,2019-10-24,Pass,Unclean Food Preparation Area,0
+Restaurant M 43,Café,2019-02-08,Closed,"Cross-Contamination, Expired Food",1000
+Restaurant Z 46,Restaurant,2023-11-29,Closed,,2000
+Restaurant V 22,Grocery Store,2022-02-15,Pass,"Inadequate Temperature Control, Improper Handwashing",0
+Restaurant Q 20,Food Processing Facility,2018-08-07,Pass,"Expired Food, Inadequate Temperature Control",0
+Restaurant Y 95,Food Processing Facility,2018-04-17,Pass,"Expired Food, Improper Handwashing",0
+Restaurant R 99,Food Truck,2020-08-08,Pass,Cross-Contamination,0
+Restaurant Y 86,Grocery Store,2022-01-18,Pass,Cross-Contamination,0
+Restaurant H 37,Food Truck,2020-08-17,Conditional Pass,Cross-Contamination,0
+Restaurant Q 90,Food Processing Facility,2022-01-28,Pass,Inadequate Temperature Control,0
+Restaurant N 31,Food Truck,2020-02-17,Pass,,0
+Restaurant J 26,Grocery Store,2021-03-08,Conditional Pass,Inadequate Temperature Control,0
+Restaurant O 96,Grocery Store,2019-05-13,Conditional Pass,Expired Food,0
+Restaurant K 10,Restaurant,2022-02-21,Pass,"Expired Food, Expired Food, Improper Handwashing",0
+Restaurant O 96,Food Truck,2021-01-13,Pass,Improper Handwashing,0
+Restaurant K 41,Food Processing Facility,2022-06-09,Pass,Expired Food,0
+Restaurant O 63,Food Processing Facility,2021-02-19,Pass,Improper Handwashing,0
+Restaurant C 77,Food Processing Facility,2022-01-25,Conditional Pass,Inadequate Temperature Control,0
+Restaurant E 72,Food Truck,2022-12-26,Pass,Cross-Contamination,0
+Restaurant U 18,Food Truck,2018-08-19,Closed,,4500
+Restaurant J 92,Grocery Store,2021-12-16,Pass,,0
+Restaurant F 41,Food Truck,2020-09-24,Closed,Improper Handwashing,4500
+Restaurant N 64,Café,2021-03-15,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant R 47,Restaurant,2018-12-16,Conditional Pass,"Improper Handwashing, Expired Food, Cross-Contamination",0
+Restaurant L 4,Restaurant,2019-05-14,Pass,,0
+Restaurant Y 86,Café,2019-02-24,Pass,Inadequate Temperature Control,0
+Restaurant C 77,Food Processing Facility,2018-07-14,Pass,,0
+Restaurant J 67,Café,2022-09-26,Pass,"Unclean Food Preparation Area, Cross-Contamination",0
+Restaurant Z 46,Grocery Store,2020-12-16,Pass,Cross-Contamination,0
+Restaurant O 71,Restaurant,2020-09-05,Pass,Expired Food,0
+Restaurant V 2,Restaurant,2018-09-19,Pass,"Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant X 61,Food Truck,2018-12-27,Closed,Expired Food,1500
+Restaurant A 80,Food Processing Facility,2020-11-14,Pass,"Expired Food, Expired Food",0
+Restaurant R 48,Restaurant,2019-02-15,Conditional Pass,,0
+Restaurant O 96,Grocery Store,2020-03-15,Pass,"Unclean Food Preparation Area, Inadequate Temperature Control",0
+Restaurant X 100,Restaurant,2021-03-12,Conditional Pass,Improper Handwashing,0
+Restaurant Y 23,Grocery Store,2023-07-20,Closed,Expired Food,3000
+Restaurant D 38,Food Processing Facility,2019-06-16,Pass,Improper Handwashing,0
+Restaurant M 43,Restaurant,2020-12-22,Pass,,0
+Restaurant Q 93,Food Processing Facility,2022-04-10,Pass,,0
+Restaurant U 18,Food Truck,2019-04-30,Pass,Expired Food,0
+Restaurant N 9,Grocery Store,2021-08-11,Pass,"Improper Handwashing, Expired Food",0
+Restaurant L 27,Café,2022-11-13,Conditional Pass,,0
+Restaurant P 41,Food Truck,2018-05-24,Pass,"Inadequate Temperature Control, Inadequate Temperature Control, Inadequate Temperature Control",0
+Restaurant M 77,Food Truck,2018-06-24,Pass,,0
+Restaurant O 31,Restaurant,2019-04-05,Pass,,0
+Restaurant J 26,Café,2020-01-23,Pass,,0
+Restaurant F 41,Food Processing Facility,2023-08-13,Conditional Pass,Inadequate Temperature Control,0
+Restaurant Z 19,Food Processing Facility,2021-07-30,Pass,Cross-Contamination,0
+Restaurant L 27,Grocery Store,2020-09-24,Pass,"Inadequate Temperature Control, Expired Food",0
+Restaurant S 23,Grocery Store,2023-07-13,Conditional Pass,Inadequate Temperature Control,0
+Restaurant B 7,Food Processing Facility,2022-12-08,Pass,"Improper Handwashing, Cross-Contamination, Expired Food",0
+Restaurant Q 100,Restaurant,2021-09-25,Pass,,0
+Restaurant N 79,Grocery Store,2018-10-16,Conditional Pass,Unclean Food Preparation Area,0
+Restaurant N 37,Grocery Store,2018-11-06,Pass,,0
+Restaurant N 64,Grocery Store,2021-09-30,Conditional Pass,"Cross-Contamination, Inadequate Temperature Control",0
+Restaurant S 71,Grocery Store,2019-11-25,Closed,Expired Food,3500
+Restaurant K 41,Restaurant,2023-11-02,Pass,Cross-Contamination,0
