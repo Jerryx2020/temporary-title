@@ -19,7 +19,7 @@ package <- show_package("b6b4f3fb-2e2c-47e7-931d-b87d22806948")
 # Get all available resources in this package
 resources <- list_package_resources("b6b4f3fb-2e2c-47e7-931d-b87d22806948")
 
-# Identify datastore resources (CSV/GeoJSON) and filter to CSV for non-geospatial data
+# Identify datastore resources (CSV format for non-geospatial data)
 datastore_resources <- filter(resources, tolower(format) == 'csv')
 
 # Load the first datastore resource (DineSafe data)

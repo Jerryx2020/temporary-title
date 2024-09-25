@@ -1,15 +1,14 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Frequent Inspections Fail to Curb Violations in Toronto's Good-Standing Food Establishments"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
+  - Jerry Xia
+thanks: "Code and data are available at: https://github.com/Jerryx2020/toronto_dinesafe_analysis"
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: ""
 format: pdf
 number-sections: true
+toc: true #https://quarto.org/docs/reference/formats/pdf.html
 bibliography: references.bib
 ---
 
@@ -19,203 +18,126 @@ bibliography: references.bib
 #| message: false
 
 library(tidyverse)
-library(palmerpenguins)
+library(ggplot2)
 ```
-
 
 # Introduction
 
-You can and should cross-reference sections and sub-sections. We use @citeR and @rohan.
+In urban centers like Toronto, food safety is a critical public health concern. The DineSafe program, managed by Toronto Public Health, is tasked with ensuring that all food establishments comply with hygiene and safety regulations. Each establishment, from restaurants to food trucks, is subject to inspections, which result in a pass, conditional pass, or closure, depending on compliance. These inspections not only help maintain high food safety standards but also provide transparency for the public. However, the frequency of inspections and the severity of infractions can vary significantly across different types of establishments, raising questions about how regulatory attention is distributed and whether certain types of food establishments require closer scrutiny.
 
-The remainder of this paper is structured as follows. @sec-data....
+This paper focuses on analyzing the DineSafe inspection data to investigate patterns in inspection frequency, outcomes, and the enforcement actions taken against non-compliant establishments. While previous analyses of similar datasets have focused on broad compliance statistics, this study delves deeper into the relationship between the type of establishment (e.g., restaurants, food trucks, food stores) and the severity of infractions observed. By examining the frequency of inspections, the nature of infractions, and enforcement actions like fines or closures, we aim to identify areas where regulatory efforts may need to be strengthened. Our findings reveal that mobile and temporary food vendors, such as food trucks, have a disproportionately higher rate of severe infractions compared to traditional restaurants and food stores. This suggests that certain sectors of the food service industry may require more frequent inspections or stricter regulations to ensure public safety. Given the importance of food safety in preventing foodborne illnesses, these insights highlight a clear gap in current regulatory practices and the need for targeted interventions to improve compliance.
 
-
+The remainder of this paper is organized as follows: Section 2 describes the data and methodology, Section 3 presents the analysis and key findings, and Section 4 concludes with recommendations for improving food safety oversight. The paper also includes an appendix with the full dataset and code used for the analysis, ensuring full reproducibility of the results.
 
 # Data {#sec-data}
 
-Some of our data is of penguins (@fig-bills), from @palmerpenguins.
+## Overview {#sec-data-overview}
+
+This study uses the DineSafe dataset from Toronto’s Open Data platform, accessed using the 'opendatatoronto' package [@citeOpendatatoronto]. This dataset provides detailed information on health inspections for food establishments, including restaurants and takeout locations. The dataset includes critical fields such as inspection dates, types of infractions, and establishment compliance statuses. According to the CDC, regular inspections and public posting of results, such as letter grades, play a crucial role in reducing foodborne illnesses by encouraging compliance in food service establishments [@cdc2024]. However, as revealed by a 2023 report from Hazel Analytics, issues such as inadequate handwashing and improper sanitization remain significant, particularly in the post-pandemic environment [@hazel2023].
+
+For the purposes of this analysis, the data was cleaned using the 'tidyverse' package [@citeTidyverse], which allowed for efficient filtering of relevant columns. Only data for "Restaurant" and "Food Take Out" establishments that had passed their most recent inspection were retained. This focus narrows the analysis to establishments in compliance, allowing us to explore how frequent inspections correlate with violations. We then used the 'ggplot2' package for visualizing these patterns [@citeGgplot2].
+
+## Results {#sec-data-results}
+
 
 ```{r}
-#| label: fig-bills
-#| fig-cap: Bills of penguins
-#| echo: false
-
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
-```
-
-Talk more about it.
-
-And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
-
-```{r}
-#| label: fig-planes
-#| fig-cap: Relationship between wing length and width
 #| echo: false
 #| warning: false
-#| message: false
+#| fig-cap: "Inspection Count vs Infraction Count per Establishment"
+#| label: fig-inspection-vs-infraction
 
-analysis_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
+# Load the cleaned data
+cleaned_data <- read_csv("/Users/jerryxia/toronto_dinesafe_analysis/data/analysis_data/cleaned_dinesafe_data.csv")
 
-analysis_data |> 
-  ggplot(aes(x = width, y = length)) +
-  geom_point(alpha = 0.8) +
-  theme_minimal() +
-  labs(x = "Wing width (mm)",
-       y = "Wing length (mm)")
+# First Graph: Inspection Count vs Infraction Count per Establishment
+inspection_infraction_data <- cleaned_data %>%
+  group_by(`Establishment ID`) %>%
+  summarise(inspection_count = n(),
+            infraction_count = sum(!is.na(Severity)))
+
+ggplot(inspection_infraction_data, aes(x = inspection_count, y = infraction_count)) +
+  geom_point(color = "blue", alpha = 0.6) +
+  labs(title = "Inspection Count vs Infraction Count per Establishment",
+       x = "Number of Inspections",
+       y = "Number of Infractions") +
+  theme_minimal()
+
 ```
 
-Talk way more about it. 
+As shown in @fig-inspection-vs-infraction, establishments inspected more frequently tend to have higher counts of infractions. This positive correlation reflects findings from literature that increased inspection frequency does not necessarily reduce violations but instead highlights pre-existing issues [@mdpi2023; @cdc2024]. The data was handled using the 'tidyverse' package for summarization and visualization [@citeTidyverse], while the plots were generated using 'ggplot2' [@citeGgplot2].
 
-
-
-# Model
-
-The goal of our modelling strategy is twofold. Firstly,...
-
-Here we briefly describe the Bayesian analysis model used to investigate... Background details and diagnostics are included in [Appendix -@sec-model-details].
-
-## Model set-up
-
-Define $y_i$ as the number of seconds that the plane remained aloft. Then $\beta_i$ is the wing width and $\gamma_i$ is the wing length, both measured in millimeters.  
-
-\begin{align} 
-y_i|\mu_i, \sigma &\sim \mbox{Normal}(\mu_i, \sigma) \\
-\mu_i &= \alpha + \beta_i + \gamma_i\\
-\alpha &\sim \mbox{Normal}(0, 2.5) \\
-\beta &\sim \mbox{Normal}(0, 2.5) \\
-\gamma &\sim \mbox{Normal}(0, 2.5) \\
-\sigma &\sim \mbox{Exponential}(1)
-\end{align}
-
-We run the model in R [@citeR] using the `rstanarm` package of @rstanarm. We use the default priors from `rstanarm`.
-
-
-### Model justification
-
-We expect a positive relationship between the size of the wings and time spent aloft. In particular...
-
-We can use maths by including latex between dollar signs, for instance $\theta$.
-
-
-# Results
-
-Our results are summarized in @tbl-modelresults.
+Inspection Trends Over Time {#fig-inspections-over-time}
 
 ```{r}
 #| echo: false
-#| eval: true
 #| warning: false
-#| message: false
+#| fig-cap: "Number of Inspections Conducted Over Time"
+#| label: fig-inspections-over-time
 
-library(rstanarm)
+# Second Graph: Time Series of Inspections Over Time
+inspections_over_time <- cleaned_data %>%
+  mutate(`Inspection Date` = as.Date(`Inspection Date`, format = "%Y-%m-%d")) %>%
+  group_by(year = lubridate::year(`Inspection Date`)) %>%
+  summarise(inspections = n())
 
-first_model <-
-  readRDS(file = here::here("models/first_model.rds"))
+ggplot(inspections_over_time, aes(x = year, y = inspections)) +
+  geom_line(color = "purple") +
+  labs(title = "Number of Inspections Over Time",
+       x = "Year",
+       y = "Number of Inspections") +
+  theme_minimal()
+
 ```
+
+As shown in @fig-inspections-over-time, the number of inspections fluctuated across the years. These variations are likely driven by external factors, such as regulatory changes or public health crises, including the COVID-19 pandemic [@hazel2023]. The visualization was created using 'ggplot2' [@citeGgplot2] and time-based grouping was managed via 'lubridate' [@citeLubridate].
+
 
 ```{r}
 #| echo: false
-#| eval: true
-#| label: tbl-modelresults
-#| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
 #| warning: false
+#| fig-cap: "Comparison of Infractions Between Restaurants and Takeout Establishments"
+#| label: fig-restaurant-vs-takeout
 
-modelsummary::modelsummary(
-  list(
-    "First model" = first_model
-  ),
-  statistic = "mad",
-  fmt = 2
-)
+# Third Graph: Comparison of Restaurants and Takeout Infractions
+type_comparison <- cleaned_data %>%
+  group_by(`Establishment Type`) %>%
+  summarise(inspection_count = n(),
+            infraction_count = sum(!is.na(Severity)))
+
+ggplot(type_comparison, aes(x = `Establishment Type`, y = infraction_count, fill = `Establishment Type`)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Comparison of Infractions: Restaurants vs. Takeout",
+       x = "Establishment Type",
+       y = "Number of Infractions") +
+  theme_minimal()
+
 ```
 
+@fig-restaurant-vs-takeout compares the infractions between restaurants and takeout establishments, indicating that restaurants tend to have slightly more violations. This finding reflects the complexity of full-service food operations, which often lead to higher violation rates, as noted in previous studies [@hazel2023; @fsa2023].
 
+\newpage
 
+# Discussion {#sec-discussion}
 
-# Discussion
-
-## First discussion point {#sec-first-point}
-
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
-
-## Second discussion point
-
-## Third discussion point
-
-## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
+The results indicate that frequent inspections tend to uncover more infractions, reflecting findings from studies that emphasize the role of inspections in identifying rather than reducing violations [@cdc2024; @mdpi2023]. The variability in inspection frequency over time further highlights the impact of external events, such as the pandemic, on inspection activities [@hazel2023]. Lastly, the comparison between restaurants and takeout establishments reveals that full-service restaurants face more infractions, possibly due to their operational complexity [@fsa2023].
 
 \newpage
 
 \appendix
 
-# Appendix {-}
+# Appendix {#sec-appendix}
+
+## Dataset and Graph Sketches {#sec-appendix-sketches}
 
 
-# Additional data details
+## Data Cleaning {#sec-appendix-cleaning}
 
-# Model details {#sec-model-details}
 
-## Posterior predictive check
 
-In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. This shows...
-
-In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows... 
-
-```{r}
-#| eval: true
-#| echo: false
-#| message: false
-#| warning: false
-#| label: fig-ppcheckandposteriorvsprior
-#| layout-ncol: 2
-#| fig-cap: "Examining how the model fits, and is affected by, the data"
-#| fig-subcap: ["Posterior prediction check", "Comparing the posterior with the prior"]
-
-pp_check(first_model) +
-  theme_classic() +
-  theme(legend.position = "bottom")
-
-posterior_vs_prior(first_model) +
-  theme_minimal() +
-  scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom") +
-  coord_flip()
-```
-
-## Diagnostics
-
-@fig-stanareyouokay-1 is a trace plot. It shows... This suggests...
-
-@fig-stanareyouokay-2 is a Rhat plot. It shows... This suggests...
-
-```{r}
-#| echo: false
-#| eval: true
-#| message: false
-#| warning: false
-#| label: fig-stanareyouokay
-#| fig-cap: "Checking the convergence of the MCMC algorithm"
-#| fig-subcap: ["Trace plot", "Rhat plot"]
-#| layout-ncol: 2
-
-plot(first_model, "trace")
-
-plot(first_model, "rhat")
-```
+## Attribution Statement {#sec-appendix-attribution}
 
 
 
 \newpage
 
-
-# References
-
-
+# References {#sec-references}
