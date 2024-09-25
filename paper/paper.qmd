@@ -2,7 +2,7 @@
 title: "Frequent Inspections Fail to Curb Violations in Toronto's Good-Standing Food Establishments"
 author: 
   - Jerry Xia
-thanks: "Code and data are available at: https://github.com/Jerryx2020/toronto_dinesafe_analysis"
+thanks: "Code and data are available at: <https://github.com/Jerryx2020/toronto_dinesafe_analysis>"
 date: today
 date-format: long
 abstract: ""
@@ -33,9 +33,9 @@ The remainder of this paper is organized as follows: Section 2 describes the dat
 
 ## Overview {#sec-data-overview}
 
-This study uses the DineSafe dataset from Toronto’s Open Data platform, accessed using the 'opendatatoronto' package [@citeOpendatatoronto]. This dataset provides detailed information on health inspections for food establishments, including restaurants and takeout locations. The dataset includes critical fields such as inspection dates, types of infractions, and establishment compliance statuses. According to the CDC, regular inspections and public posting of results, such as letter grades, play a crucial role in reducing foodborne illnesses by encouraging compliance in food service establishments [@cdc2024]. However, as revealed by a 2023 report from Hazel Analytics, issues such as inadequate handwashing and improper sanitization remain significant, particularly in the post-pandemic environment [@hazel2023].
+This study uses the DineSafe dataset from Toronto’s Open Data platform, accessed using the `opendatatoronto` package [@citeOpendatatoronto]. This dataset provides detailed information on health inspections for food establishments, including restaurants and takeout locations. The dataset includes critical fields such as inspection dates, types of infractions, and establishment compliance statuses. According to the CDC, regular inspections and public posting of results, such as letter grades, play a crucial role in reducing foodborne illnesses by encouraging compliance in food service establishments [@cdc2024]. However, as revealed by a 2023 report from Hazel Analytics, issues such as inadequate handwashing and improper sanitization remain significant, particularly in the post-pandemic environment [@hazel2023].
 
-For the purposes of this analysis, the data was cleaned using the 'tidyverse' package [@citeTidyverse], which allowed for efficient filtering of relevant columns. Only data for "Restaurant" and "Food Take Out" establishments that had passed their most recent inspection were retained. This focus narrows the analysis to establishments in compliance, allowing us to explore how frequent inspections correlate with violations. We then used the 'ggplot2' package for visualizing these patterns [@citeGgplot2].
+For the purposes of this analysis, the data was cleaned using the `tidyverse` package [@citeTidyverse], which allowed for efficient filtering of relevant columns. Only data for "Restaurant" and "Food Take Out" establishments that had passed their most recent inspection were retained. This focus narrows the analysis to establishments in compliance, allowing us to explore how frequent inspections correlate with violations. We then used the `ggplot2` package for visualizing these patterns [@citeGgplot2].
 
 ## Results {#sec-data-results}
 
@@ -64,9 +64,8 @@ ggplot(inspection_infraction_data, aes(x = inspection_count, y = infraction_coun
 
 ```
 
-As shown in @fig-inspection-vs-infraction, establishments inspected more frequently tend to have higher counts of infractions. This positive correlation reflects findings from literature that increased inspection frequency does not necessarily reduce violations but instead highlights pre-existing issues [@mdpi2023; @cdc2024]. The data was handled using the 'tidyverse' package for summarization and visualization [@citeTidyverse], while the plots were generated using 'ggplot2' [@citeGgplot2].
+As shown in @fig-inspection-vs-infraction, establishments inspected more frequently tend to have higher counts of infractions. This positive correlation reflects findings from literature that increased inspection frequency does not necessarily reduce violations but instead highlights pre-existing issues [@mdpi2023; @cdc2024]. The data was handled using the `tidyverse` package for summarization and visualization [@citeTidyverse], while the plots were generated using `ggplot2` [@citeGgplot2].
 
-Inspection Trends Over Time {#fig-inspections-over-time}
 
 ```{r}
 #| echo: false
@@ -89,7 +88,7 @@ ggplot(inspections_over_time, aes(x = year, y = inspections)) +
 
 ```
 
-As shown in @fig-inspections-over-time, the number of inspections fluctuated across the years. These variations are likely driven by external factors, such as regulatory changes or public health crises, including the COVID-19 pandemic [@hazel2023]. The visualization was created using 'ggplot2' [@citeGgplot2] and time-based grouping was managed via 'lubridate' [@citeLubridate].
+As shown in @fig-inspections-over-time, the number of inspections fluctuated across the years. These variations are likely driven by external factors, such as regulatory changes or public health crises, including the COVID-19 pandemic [@hazel2023]. The visualization was created using `ggplot2` [@citeGgplot2] and time-based grouping was managed via `lubridate` [@citeLubridate].
 
 
 ```{r}
