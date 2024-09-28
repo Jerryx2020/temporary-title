@@ -24,7 +24,7 @@ missing_values <- data %>%
     missing_inspection_date = sum(is.na(`Inspection Date`))
   )
 
-print(missing_values)  # Check if there are missing values in critical columns
+print(missing_values)  # check if there are missing values in critical columns
 
 # 2. Test for invalid severity values
 # Include "No Infraction" as a valid severity level, as well as other valid levels.
@@ -39,7 +39,7 @@ print(invalid_severity_values)  # Any rows where Severity is not a valid categor
 complete_cases_check <- data %>%
   filter(is.na(`Establishment ID`) | is.na(`Establishment Type`) | is.na(Severity) | is.na(`Inspection Date`))
 
-print(complete_cases_check)  # Output rows where any of the key fields are missing
+print(complete_cases_check)  # output rows where any of the key fields are missing
 
 # Test Results Summary
 print("Sanity checks completed for DineSafe data.")
