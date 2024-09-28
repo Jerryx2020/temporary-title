@@ -9,6 +9,8 @@
 
 #### Workspace setup ####
 # Load required libraries
+# install.packages("opendatatoronto")
+# install.packages("tidyverse")
 library(opendatatoronto)
 library(tidyverse)        
 

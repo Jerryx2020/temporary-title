@@ -8,6 +8,7 @@
 # Any other information needed? None.
 
 #### Workspace setup ####
+# install.packages("tidyverse")
 library(tidyverse)
 
 # Load raw data and exclude the problematic "Min. Inspections Per Year" column (8th column): contains char where expected is a double

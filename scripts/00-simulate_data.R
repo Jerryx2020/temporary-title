@@ -8,6 +8,7 @@
 # Any other information needed? None.
 
 #### Workspace setup ####
+# install.packages("tidyverse")
 library(tidyverse)
 
 #### Simulate data ####

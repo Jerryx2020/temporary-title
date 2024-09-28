@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Data}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Overview}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Results}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Discussion}{7}{section.3}%
+\contentsline {section}{\numberline {A}Appendix}{9}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Dataset and Graph Sketches}{9}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Data Cleaning}{9}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Attribution Statement}{9}{subsection.A.3}%
+\contentsline {section}{References}{10}{section*.5}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
