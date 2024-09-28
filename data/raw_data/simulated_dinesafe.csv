@@ -1,1001 +1,1001 @@
-establishment_id,establishment_name,establishment_type,inspection_frequency,severity,establishment_status
-ID_1,Establishment_1,Food Take Out,5,C - Crucial,Closed
-ID_1,Establishment_1,Restaurant,4,M - Minor,Pass
-ID_1,Establishment_1,Restaurant,2,S - Significant,Conditional Pass
-ID_1,Establishment_1,Restaurant,5,M - Minor,Pass
-ID_1,Establishment_1,Restaurant,3,S - Significant,Conditional Pass
-ID_2,Establishment_2,Food Take Out,1,C - Crucial,Closed
-ID_2,Establishment_2,Restaurant,2,M - Minor,Pass
-ID_2,Establishment_2,Food Take Out,4,M - Minor,Conditional Pass
-ID_2,Establishment_2,Food Take Out,4,S - Significant,Pass
-ID_2,Establishment_2,Restaurant,2,S - Significant,Closed
-ID_3,Establishment_3,Food Take Out,1,C - Crucial,Conditional Pass
-ID_3,Establishment_3,Restaurant,2,S - Significant,Closed
-ID_3,Establishment_3,Food Take Out,3,C - Crucial,Conditional Pass
-ID_3,Establishment_3,Restaurant,3,S - Significant,Conditional Pass
-ID_3,Establishment_3,Restaurant,1,S - Significant,Closed
-ID_4,Establishment_4,Restaurant,3,S - Significant,Pass
-ID_4,Establishment_4,Food Take Out,3,S - Significant,Conditional Pass
-ID_4,Establishment_4,Food Take Out,1,S - Significant,Pass
-ID_4,Establishment_4,Food Take Out,2,C - Crucial,Closed
-ID_4,Establishment_4,Food Take Out,1,M - Minor,Conditional Pass
-ID_5,Establishment_5,Restaurant,2,M - Minor,Closed
-ID_5,Establishment_5,Food Take Out,3,S - Significant,Pass
-ID_5,Establishment_5,Food Take Out,1,M - Minor,Pass
-ID_5,Establishment_5,Restaurant,2,S - Significant,Closed
-ID_5,Establishment_5,Food Take Out,2,M - Minor,Pass
-ID_6,Establishment_6,Food Take Out,1,C - Crucial,Pass
-ID_6,Establishment_6,Restaurant,4,M - Minor,Closed
-ID_6,Establishment_6,Food Take Out,1,S - Significant,Pass
-ID_6,Establishment_6,Restaurant,1,S - Significant,Pass
-ID_6,Establishment_6,Restaurant,5,S - Significant,Conditional Pass
-ID_7,Establishment_7,Food Take Out,1,M - Minor,Conditional Pass
-ID_7,Establishment_7,Food Take Out,2,C - Crucial,Conditional Pass
-ID_7,Establishment_7,Food Take Out,1,M - Minor,Closed
-ID_7,Establishment_7,Food Take Out,1,M - Minor,Closed
-ID_7,Establishment_7,Restaurant,3,M - Minor,Pass
-ID_8,Establishment_8,Food Take Out,5,C - Crucial,Pass
-ID_8,Establishment_8,Restaurant,4,C - Crucial,Conditional Pass
-ID_8,Establishment_8,Food Take Out,2,M - Minor,Pass
-ID_8,Establishment_8,Food Take Out,4,S - Significant,Pass
-ID_8,Establishment_8,Food Take Out,2,C - Crucial,Pass
-ID_9,Establishment_9,Food Take Out,5,M - Minor,Pass
-ID_9,Establishment_9,Food Take Out,1,S - Significant,Pass
-ID_9,Establishment_9,Restaurant,1,S - Significant,Pass
-ID_9,Establishment_9,Restaurant,3,M - Minor,Pass
-ID_9,Establishment_9,Restaurant,5,S - Significant,Closed
-ID_10,Establishment_10,Restaurant,2,M - Minor,Closed
-ID_10,Establishment_10,Restaurant,4,S - Significant,Pass
-ID_10,Establishment_10,Restaurant,3,C - Crucial,Conditional Pass
-ID_10,Establishment_10,Restaurant,4,S - Significant,Closed
-ID_10,Establishment_10,Food Take Out,2,C - Crucial,Conditional Pass
-ID_11,Establishment_11,Restaurant,2,S - Significant,Conditional Pass
-ID_11,Establishment_11,Food Take Out,2,M - Minor,Pass
-ID_11,Establishment_11,Restaurant,4,C - Crucial,Pass
-ID_11,Establishment_11,Restaurant,5,C - Crucial,Conditional Pass
-ID_11,Establishment_11,Restaurant,5,C - Crucial,Closed
-ID_12,Establishment_12,Food Take Out,5,C - Crucial,Conditional Pass
-ID_12,Establishment_12,Food Take Out,2,S - Significant,Conditional Pass
-ID_12,Establishment_12,Restaurant,4,C - Crucial,Conditional Pass
-ID_12,Establishment_12,Food Take Out,2,S - Significant,Pass
-ID_12,Establishment_12,Restaurant,4,C - Crucial,Conditional Pass
-ID_13,Establishment_13,Restaurant,1,C - Crucial,Conditional Pass
-ID_13,Establishment_13,Food Take Out,3,M - Minor,Pass
-ID_13,Establishment_13,Food Take Out,5,S - Significant,Closed
-ID_13,Establishment_13,Restaurant,5,C - Crucial,Pass
-ID_13,Establishment_13,Food Take Out,4,S - Significant,Pass
-ID_14,Establishment_14,Restaurant,3,S - Significant,Pass
-ID_14,Establishment_14,Restaurant,3,S - Significant,Conditional Pass
-ID_14,Establishment_14,Food Take Out,1,S - Significant,Closed
-ID_14,Establishment_14,Food Take Out,4,C - Crucial,Conditional Pass
-ID_14,Establishment_14,Food Take Out,2,C - Crucial,Conditional Pass
-ID_15,Establishment_15,Restaurant,2,C - Crucial,Closed
-ID_15,Establishment_15,Restaurant,3,M - Minor,Pass
-ID_15,Establishment_15,Food Take Out,2,M - Minor,Closed
-ID_15,Establishment_15,Restaurant,1,M - Minor,Closed
-ID_15,Establishment_15,Restaurant,3,C - Crucial,Pass
-ID_16,Establishment_16,Food Take Out,5,M - Minor,Closed
-ID_16,Establishment_16,Restaurant,2,M - Minor,Pass
-ID_16,Establishment_16,Food Take Out,4,M - Minor,Conditional Pass
-ID_16,Establishment_16,Food Take Out,2,C - Crucial,Conditional Pass
-ID_16,Establishment_16,Restaurant,5,S - Significant,Closed
-ID_17,Establishment_17,Restaurant,4,S - Significant,Conditional Pass
-ID_17,Establishment_17,Restaurant,1,S - Significant,Conditional Pass
-ID_17,Establishment_17,Restaurant,3,M - Minor,Pass
-ID_17,Establishment_17,Food Take Out,5,M - Minor,Closed
-ID_17,Establishment_17,Food Take Out,1,S - Significant,Conditional Pass
-ID_18,Establishment_18,Restaurant,3,S - Significant,Closed
-ID_18,Establishment_18,Food Take Out,3,C - Crucial,Pass
-ID_18,Establishment_18,Restaurant,4,M - Minor,Conditional Pass
-ID_18,Establishment_18,Food Take Out,5,S - Significant,Pass
-ID_18,Establishment_18,Food Take Out,1,S - Significant,Pass
-ID_19,Establishment_19,Restaurant,4,S - Significant,Pass
-ID_19,Establishment_19,Restaurant,4,S - Significant,Closed
-ID_19,Establishment_19,Food Take Out,5,S - Significant,Pass
-ID_19,Establishment_19,Food Take Out,5,C - Crucial,Conditional Pass
-ID_19,Establishment_19,Food Take Out,2,M - Minor,Closed
-ID_20,Establishment_20,Restaurant,3,S - Significant,Closed
-ID_20,Establishment_20,Restaurant,4,S - Significant,Closed
-ID_20,Establishment_20,Food Take Out,2,C - Crucial,Conditional Pass
-ID_20,Establishment_20,Food Take Out,1,S - Significant,Closed
-ID_20,Establishment_20,Restaurant,2,S - Significant,Pass
-ID_21,Establishment_21,Food Take Out,2,M - Minor,Pass
-ID_21,Establishment_21,Restaurant,4,M - Minor,Conditional Pass
-ID_21,Establishment_21,Food Take Out,3,M - Minor,Closed
-ID_21,Establishment_21,Restaurant,1,C - Crucial,Pass
-ID_21,Establishment_21,Restaurant,1,M - Minor,Conditional Pass
-ID_22,Establishment_22,Food Take Out,1,C - Crucial,Conditional Pass
-ID_22,Establishment_22,Food Take Out,4,M - Minor,Pass
-ID_22,Establishment_22,Restaurant,4,C - Crucial,Conditional Pass
-ID_22,Establishment_22,Restaurant,5,C - Crucial,Pass
-ID_22,Establishment_22,Food Take Out,4,M - Minor,Closed
-ID_23,Establishment_23,Restaurant,1,C - Crucial,Conditional Pass
-ID_23,Establishment_23,Food Take Out,4,C - Crucial,Closed
-ID_23,Establishment_23,Food Take Out,1,S - Significant,Conditional Pass
-ID_23,Establishment_23,Restaurant,2,S - Significant,Closed
-ID_23,Establishment_23,Restaurant,5,S - Significant,Conditional Pass
-ID_24,Establishment_24,Restaurant,1,C - Crucial,Closed
-ID_24,Establishment_24,Restaurant,4,S - Significant,Closed
-ID_24,Establishment_24,Restaurant,1,S - Significant,Conditional Pass
-ID_24,Establishment_24,Food Take Out,1,C - Crucial,Closed
-ID_24,Establishment_24,Food Take Out,3,C - Crucial,Pass
-ID_25,Establishment_25,Restaurant,3,M - Minor,Closed
-ID_25,Establishment_25,Food Take Out,5,S - Significant,Closed
-ID_25,Establishment_25,Food Take Out,5,M - Minor,Closed
-ID_25,Establishment_25,Restaurant,1,M - Minor,Pass
-ID_25,Establishment_25,Food Take Out,2,M - Minor,Conditional Pass
-ID_26,Establishment_26,Restaurant,5,C - Crucial,Closed
-ID_26,Establishment_26,Restaurant,5,C - Crucial,Conditional Pass
-ID_26,Establishment_26,Food Take Out,5,C - Crucial,Conditional Pass
-ID_26,Establishment_26,Restaurant,3,S - Significant,Conditional Pass
-ID_26,Establishment_26,Restaurant,3,M - Minor,Pass
-ID_27,Establishment_27,Restaurant,4,C - Crucial,Closed
-ID_27,Establishment_27,Restaurant,3,M - Minor,Closed
-ID_27,Establishment_27,Food Take Out,5,M - Minor,Closed
-ID_27,Establishment_27,Food Take Out,2,M - Minor,Pass
-ID_27,Establishment_27,Food Take Out,5,C - Crucial,Closed
-ID_28,Establishment_28,Restaurant,1,S - Significant,Closed
-ID_28,Establishment_28,Restaurant,1,M - Minor,Pass
-ID_28,Establishment_28,Food Take Out,5,M - Minor,Closed
-ID_28,Establishment_28,Restaurant,2,S - Significant,Pass
-ID_28,Establishment_28,Restaurant,3,C - Crucial,Pass
-ID_29,Establishment_29,Food Take Out,3,M - Minor,Conditional Pass
-ID_29,Establishment_29,Restaurant,4,S - Significant,Pass
-ID_29,Establishment_29,Restaurant,3,S - Significant,Closed
-ID_29,Establishment_29,Restaurant,1,M - Minor,Conditional Pass
-ID_29,Establishment_29,Restaurant,4,C - Crucial,Pass
-ID_30,Establishment_30,Food Take Out,5,M - Minor,Closed
-ID_30,Establishment_30,Food Take Out,1,M - Minor,Pass
-ID_30,Establishment_30,Restaurant,5,S - Significant,Conditional Pass
-ID_30,Establishment_30,Restaurant,1,C - Crucial,Pass
-ID_30,Establishment_30,Food Take Out,2,C - Crucial,Conditional Pass
-ID_31,Establishment_31,Food Take Out,3,S - Significant,Pass
-ID_31,Establishment_31,Food Take Out,4,C - Crucial,Conditional Pass
-ID_31,Establishment_31,Restaurant,5,M - Minor,Closed
-ID_31,Establishment_31,Restaurant,1,C - Crucial,Pass
-ID_31,Establishment_31,Restaurant,5,M - Minor,Pass
-ID_32,Establishment_32,Food Take Out,1,M - Minor,Closed
-ID_32,Establishment_32,Food Take Out,2,S - Significant,Closed
-ID_32,Establishment_32,Restaurant,3,S - Significant,Conditional Pass
-ID_32,Establishment_32,Food Take Out,5,C - Crucial,Pass
-ID_32,Establishment_32,Restaurant,3,C - Crucial,Conditional Pass
-ID_33,Establishment_33,Food Take Out,2,C - Crucial,Closed
-ID_33,Establishment_33,Food Take Out,1,M - Minor,Conditional Pass
-ID_33,Establishment_33,Restaurant,4,M - Minor,Conditional Pass
-ID_33,Establishment_33,Restaurant,4,M - Minor,Closed
-ID_33,Establishment_33,Restaurant,5,C - Crucial,Closed
-ID_34,Establishment_34,Food Take Out,2,M - Minor,Closed
-ID_34,Establishment_34,Restaurant,3,C - Crucial,Pass
-ID_34,Establishment_34,Food Take Out,4,M - Minor,Conditional Pass
-ID_34,Establishment_34,Restaurant,1,M - Minor,Pass
-ID_34,Establishment_34,Restaurant,4,M - Minor,Conditional Pass
-ID_35,Establishment_35,Restaurant,3,M - Minor,Closed
-ID_35,Establishment_35,Restaurant,3,C - Crucial,Conditional Pass
-ID_35,Establishment_35,Restaurant,2,S - Significant,Conditional Pass
-ID_35,Establishment_35,Food Take Out,1,M - Minor,Conditional Pass
-ID_35,Establishment_35,Food Take Out,4,S - Significant,Conditional Pass
-ID_36,Establishment_36,Restaurant,2,S - Significant,Closed
-ID_36,Establishment_36,Restaurant,5,S - Significant,Closed
-ID_36,Establishment_36,Food Take Out,1,M - Minor,Conditional Pass
-ID_36,Establishment_36,Food Take Out,1,S - Significant,Pass
-ID_36,Establishment_36,Food Take Out,1,C - Crucial,Conditional Pass
-ID_37,Establishment_37,Restaurant,3,M - Minor,Conditional Pass
-ID_37,Establishment_37,Restaurant,4,S - Significant,Closed
-ID_37,Establishment_37,Restaurant,2,S - Significant,Pass
-ID_37,Establishment_37,Food Take Out,1,M - Minor,Pass
-ID_37,Establishment_37,Restaurant,5,S - Significant,Pass
-ID_38,Establishment_38,Food Take Out,1,C - Crucial,Closed
-ID_38,Establishment_38,Food Take Out,4,S - Significant,Closed
-ID_38,Establishment_38,Restaurant,5,S - Significant,Conditional Pass
-ID_38,Establishment_38,Restaurant,3,C - Crucial,Conditional Pass
-ID_38,Establishment_38,Restaurant,4,C - Crucial,Conditional Pass
-ID_39,Establishment_39,Food Take Out,4,M - Minor,Conditional Pass
-ID_39,Establishment_39,Restaurant,5,S - Significant,Closed
-ID_39,Establishment_39,Food Take Out,4,S - Significant,Closed
-ID_39,Establishment_39,Restaurant,3,M - Minor,Closed
-ID_39,Establishment_39,Restaurant,3,M - Minor,Closed
-ID_40,Establishment_40,Restaurant,1,M - Minor,Closed
-ID_40,Establishment_40,Food Take Out,5,C - Crucial,Conditional Pass
-ID_40,Establishment_40,Food Take Out,5,C - Crucial,Pass
-ID_40,Establishment_40,Food Take Out,1,S - Significant,Pass
-ID_40,Establishment_40,Food Take Out,3,S - Significant,Pass
-ID_41,Establishment_41,Food Take Out,1,S - Significant,Closed
-ID_41,Establishment_41,Food Take Out,4,C - Crucial,Pass
-ID_41,Establishment_41,Restaurant,1,M - Minor,Conditional Pass
-ID_41,Establishment_41,Restaurant,2,C - Crucial,Conditional Pass
-ID_41,Establishment_41,Food Take Out,2,C - Crucial,Conditional Pass
-ID_42,Establishment_42,Restaurant,3,S - Significant,Conditional Pass
-ID_42,Establishment_42,Food Take Out,3,M - Minor,Conditional Pass
-ID_42,Establishment_42,Food Take Out,5,M - Minor,Pass
-ID_42,Establishment_42,Restaurant,4,S - Significant,Conditional Pass
-ID_42,Establishment_42,Restaurant,5,C - Crucial,Closed
-ID_43,Establishment_43,Restaurant,2,S - Significant,Pass
-ID_43,Establishment_43,Restaurant,3,M - Minor,Conditional Pass
-ID_43,Establishment_43,Food Take Out,1,S - Significant,Pass
-ID_43,Establishment_43,Food Take Out,3,C - Crucial,Conditional Pass
-ID_43,Establishment_43,Restaurant,1,S - Significant,Closed
-ID_44,Establishment_44,Food Take Out,3,C - Crucial,Pass
-ID_44,Establishment_44,Restaurant,5,S - Significant,Pass
-ID_44,Establishment_44,Food Take Out,4,S - Significant,Conditional Pass
-ID_44,Establishment_44,Restaurant,1,M - Minor,Pass
-ID_44,Establishment_44,Restaurant,5,S - Significant,Conditional Pass
-ID_45,Establishment_45,Food Take Out,1,M - Minor,Pass
-ID_45,Establishment_45,Restaurant,5,S - Significant,Conditional Pass
-ID_45,Establishment_45,Restaurant,3,C - Crucial,Pass
-ID_45,Establishment_45,Food Take Out,5,C - Crucial,Closed
-ID_45,Establishment_45,Food Take Out,3,C - Crucial,Conditional Pass
-ID_46,Establishment_46,Food Take Out,4,S - Significant,Conditional Pass
-ID_46,Establishment_46,Food Take Out,4,C - Crucial,Conditional Pass
-ID_46,Establishment_46,Restaurant,4,M - Minor,Conditional Pass
-ID_46,Establishment_46,Restaurant,1,M - Minor,Closed
-ID_46,Establishment_46,Food Take Out,4,M - Minor,Conditional Pass
-ID_47,Establishment_47,Restaurant,1,M - Minor,Closed
-ID_47,Establishment_47,Restaurant,1,C - Crucial,Conditional Pass
-ID_47,Establishment_47,Restaurant,1,C - Crucial,Closed
-ID_47,Establishment_47,Restaurant,4,C - Crucial,Pass
-ID_47,Establishment_47,Food Take Out,3,C - Crucial,Conditional Pass
-ID_48,Establishment_48,Food Take Out,4,M - Minor,Conditional Pass
-ID_48,Establishment_48,Food Take Out,4,S - Significant,Pass
-ID_48,Establishment_48,Restaurant,2,S - Significant,Closed
-ID_48,Establishment_48,Food Take Out,3,C - Crucial,Pass
-ID_48,Establishment_48,Restaurant,2,C - Crucial,Pass
-ID_49,Establishment_49,Food Take Out,4,M - Minor,Conditional Pass
-ID_49,Establishment_49,Restaurant,1,C - Crucial,Closed
-ID_49,Establishment_49,Restaurant,2,C - Crucial,Conditional Pass
-ID_49,Establishment_49,Food Take Out,4,C - Crucial,Closed
-ID_49,Establishment_49,Food Take Out,5,C - Crucial,Conditional Pass
-ID_50,Establishment_50,Food Take Out,3,C - Crucial,Pass
-ID_50,Establishment_50,Restaurant,2,S - Significant,Pass
-ID_50,Establishment_50,Food Take Out,2,M - Minor,Conditional Pass
-ID_50,Establishment_50,Restaurant,5,C - Crucial,Closed
-ID_50,Establishment_50,Food Take Out,3,C - Crucial,Closed
-ID_51,Establishment_51,Restaurant,4,C - Crucial,Conditional Pass
-ID_51,Establishment_51,Food Take Out,3,S - Significant,Pass
-ID_51,Establishment_51,Restaurant,3,C - Crucial,Conditional Pass
-ID_51,Establishment_51,Food Take Out,4,M - Minor,Conditional Pass
-ID_51,Establishment_51,Restaurant,4,S - Significant,Conditional Pass
-ID_52,Establishment_52,Restaurant,2,S - Significant,Closed
-ID_52,Establishment_52,Restaurant,1,M - Minor,Closed
-ID_52,Establishment_52,Food Take Out,2,C - Crucial,Conditional Pass
-ID_52,Establishment_52,Food Take Out,5,C - Crucial,Conditional Pass
-ID_52,Establishment_52,Restaurant,2,M - Minor,Closed
-ID_53,Establishment_53,Restaurant,5,C - Crucial,Pass
-ID_53,Establishment_53,Food Take Out,3,M - Minor,Conditional Pass
-ID_53,Establishment_53,Restaurant,4,S - Significant,Closed
-ID_53,Establishment_53,Restaurant,1,C - Crucial,Pass
-ID_53,Establishment_53,Food Take Out,5,M - Minor,Conditional Pass
-ID_54,Establishment_54,Restaurant,3,S - Significant,Conditional Pass
-ID_54,Establishment_54,Food Take Out,5,M - Minor,Pass
-ID_54,Establishment_54,Food Take Out,4,M - Minor,Closed
-ID_54,Establishment_54,Food Take Out,3,S - Significant,Pass
-ID_54,Establishment_54,Food Take Out,5,S - Significant,Pass
-ID_55,Establishment_55,Restaurant,1,M - Minor,Pass
-ID_55,Establishment_55,Restaurant,2,S - Significant,Closed
-ID_55,Establishment_55,Restaurant,4,M - Minor,Closed
-ID_55,Establishment_55,Food Take Out,1,S - Significant,Closed
-ID_55,Establishment_55,Food Take Out,3,C - Crucial,Conditional Pass
-ID_56,Establishment_56,Restaurant,5,M - Minor,Pass
-ID_56,Establishment_56,Restaurant,2,S - Significant,Conditional Pass
-ID_56,Establishment_56,Food Take Out,5,C - Crucial,Closed
-ID_56,Establishment_56,Restaurant,1,S - Significant,Closed
-ID_56,Establishment_56,Food Take Out,1,S - Significant,Pass
-ID_57,Establishment_57,Restaurant,2,S - Significant,Conditional Pass
-ID_57,Establishment_57,Restaurant,1,S - Significant,Conditional Pass
-ID_57,Establishment_57,Food Take Out,5,S - Significant,Pass
-ID_57,Establishment_57,Food Take Out,5,M - Minor,Conditional Pass
-ID_57,Establishment_57,Restaurant,4,M - Minor,Conditional Pass
-ID_58,Establishment_58,Food Take Out,2,C - Crucial,Closed
-ID_58,Establishment_58,Restaurant,5,C - Crucial,Closed
-ID_58,Establishment_58,Food Take Out,1,C - Crucial,Closed
-ID_58,Establishment_58,Food Take Out,1,C - Crucial,Closed
-ID_58,Establishment_58,Restaurant,1,M - Minor,Conditional Pass
-ID_59,Establishment_59,Food Take Out,1,S - Significant,Closed
-ID_59,Establishment_59,Food Take Out,2,M - Minor,Closed
-ID_59,Establishment_59,Restaurant,4,C - Crucial,Conditional Pass
-ID_59,Establishment_59,Food Take Out,4,S - Significant,Conditional Pass
-ID_59,Establishment_59,Restaurant,5,M - Minor,Pass
-ID_60,Establishment_60,Restaurant,1,M - Minor,Pass
-ID_60,Establishment_60,Restaurant,1,S - Significant,Closed
-ID_60,Establishment_60,Food Take Out,1,S - Significant,Conditional Pass
-ID_60,Establishment_60,Restaurant,5,C - Crucial,Pass
-ID_60,Establishment_60,Restaurant,3,C - Crucial,Closed
-ID_61,Establishment_61,Food Take Out,3,C - Crucial,Closed
-ID_61,Establishment_61,Food Take Out,5,C - Crucial,Pass
-ID_61,Establishment_61,Restaurant,5,S - Significant,Pass
-ID_61,Establishment_61,Food Take Out,2,M - Minor,Pass
-ID_61,Establishment_61,Food Take Out,5,S - Significant,Conditional Pass
-ID_62,Establishment_62,Restaurant,2,S - Significant,Pass
-ID_62,Establishment_62,Food Take Out,3,C - Crucial,Conditional Pass
-ID_62,Establishment_62,Restaurant,2,S - Significant,Pass
-ID_62,Establishment_62,Food Take Out,3,M - Minor,Conditional Pass
-ID_62,Establishment_62,Restaurant,5,C - Crucial,Pass
-ID_63,Establishment_63,Restaurant,3,M - Minor,Conditional Pass
-ID_63,Establishment_63,Restaurant,1,S - Significant,Pass
-ID_63,Establishment_63,Restaurant,5,C - Crucial,Conditional Pass
-ID_63,Establishment_63,Restaurant,4,M - Minor,Pass
-ID_63,Establishment_63,Restaurant,4,M - Minor,Pass
-ID_64,Establishment_64,Restaurant,4,S - Significant,Closed
-ID_64,Establishment_64,Food Take Out,1,C - Crucial,Closed
-ID_64,Establishment_64,Food Take Out,1,M - Minor,Closed
-ID_64,Establishment_64,Food Take Out,4,M - Minor,Conditional Pass
-ID_64,Establishment_64,Food Take Out,3,M - Minor,Pass
-ID_65,Establishment_65,Restaurant,1,S - Significant,Pass
-ID_65,Establishment_65,Food Take Out,4,S - Significant,Conditional Pass
-ID_65,Establishment_65,Restaurant,2,S - Significant,Conditional Pass
-ID_65,Establishment_65,Restaurant,3,S - Significant,Closed
-ID_65,Establishment_65,Restaurant,1,M - Minor,Conditional Pass
-ID_66,Establishment_66,Food Take Out,1,C - Crucial,Closed
-ID_66,Establishment_66,Food Take Out,1,M - Minor,Conditional Pass
-ID_66,Establishment_66,Food Take Out,1,C - Crucial,Closed
-ID_66,Establishment_66,Restaurant,4,S - Significant,Pass
-ID_66,Establishment_66,Restaurant,2,S - Significant,Conditional Pass
-ID_67,Establishment_67,Food Take Out,1,M - Minor,Closed
-ID_67,Establishment_67,Restaurant,2,M - Minor,Closed
-ID_67,Establishment_67,Food Take Out,1,M - Minor,Pass
-ID_67,Establishment_67,Restaurant,5,C - Crucial,Closed
-ID_67,Establishment_67,Food Take Out,2,M - Minor,Pass
-ID_68,Establishment_68,Food Take Out,5,C - Crucial,Pass
-ID_68,Establishment_68,Restaurant,4,C - Crucial,Closed
-ID_68,Establishment_68,Restaurant,3,S - Significant,Conditional Pass
-ID_68,Establishment_68,Restaurant,5,S - Significant,Pass
-ID_68,Establishment_68,Food Take Out,1,C - Crucial,Conditional Pass
-ID_69,Establishment_69,Restaurant,2,S - Significant,Closed
-ID_69,Establishment_69,Restaurant,2,S - Significant,Pass
-ID_69,Establishment_69,Restaurant,1,S - Significant,Conditional Pass
-ID_69,Establishment_69,Food Take Out,2,M - Minor,Conditional Pass
-ID_69,Establishment_69,Restaurant,1,C - Crucial,Closed
-ID_70,Establishment_70,Restaurant,4,S - Significant,Pass
-ID_70,Establishment_70,Food Take Out,5,M - Minor,Closed
-ID_70,Establishment_70,Restaurant,3,S - Significant,Conditional Pass
-ID_70,Establishment_70,Food Take Out,4,S - Significant,Pass
-ID_70,Establishment_70,Restaurant,5,C - Crucial,Closed
-ID_71,Establishment_71,Food Take Out,2,C - Crucial,Pass
-ID_71,Establishment_71,Food Take Out,2,C - Crucial,Pass
-ID_71,Establishment_71,Restaurant,1,S - Significant,Closed
-ID_71,Establishment_71,Restaurant,3,S - Significant,Pass
-ID_71,Establishment_71,Restaurant,2,S - Significant,Closed
-ID_72,Establishment_72,Restaurant,2,S - Significant,Pass
-ID_72,Establishment_72,Restaurant,3,M - Minor,Closed
-ID_72,Establishment_72,Food Take Out,2,C - Crucial,Closed
-ID_72,Establishment_72,Food Take Out,5,C - Crucial,Closed
-ID_72,Establishment_72,Food Take Out,2,M - Minor,Conditional Pass
-ID_73,Establishment_73,Food Take Out,5,C - Crucial,Conditional Pass
-ID_73,Establishment_73,Food Take Out,4,M - Minor,Pass
-ID_73,Establishment_73,Restaurant,4,S - Significant,Closed
-ID_73,Establishment_73,Food Take Out,2,S - Significant,Closed
-ID_73,Establishment_73,Food Take Out,1,C - Crucial,Closed
-ID_74,Establishment_74,Restaurant,2,S - Significant,Pass
-ID_74,Establishment_74,Food Take Out,1,C - Crucial,Conditional Pass
-ID_74,Establishment_74,Restaurant,5,S - Significant,Closed
-ID_74,Establishment_74,Food Take Out,5,M - Minor,Conditional Pass
-ID_74,Establishment_74,Restaurant,1,S - Significant,Pass
-ID_75,Establishment_75,Food Take Out,3,S - Significant,Pass
-ID_75,Establishment_75,Restaurant,5,C - Crucial,Conditional Pass
-ID_75,Establishment_75,Restaurant,4,C - Crucial,Conditional Pass
-ID_75,Establishment_75,Food Take Out,5,M - Minor,Conditional Pass
-ID_75,Establishment_75,Restaurant,4,C - Crucial,Pass
-ID_76,Establishment_76,Restaurant,5,M - Minor,Closed
-ID_76,Establishment_76,Food Take Out,2,C - Crucial,Closed
-ID_76,Establishment_76,Food Take Out,4,C - Crucial,Pass
-ID_76,Establishment_76,Restaurant,1,C - Crucial,Conditional Pass
-ID_76,Establishment_76,Food Take Out,5,S - Significant,Pass
-ID_77,Establishment_77,Food Take Out,5,S - Significant,Closed
-ID_77,Establishment_77,Restaurant,3,M - Minor,Pass
-ID_77,Establishment_77,Food Take Out,5,S - Significant,Pass
-ID_77,Establishment_77,Restaurant,1,S - Significant,Closed
-ID_77,Establishment_77,Food Take Out,3,S - Significant,Conditional Pass
-ID_78,Establishment_78,Food Take Out,1,C - Crucial,Closed
-ID_78,Establishment_78,Food Take Out,4,S - Significant,Closed
-ID_78,Establishment_78,Food Take Out,5,M - Minor,Pass
-ID_78,Establishment_78,Food Take Out,4,M - Minor,Closed
-ID_78,Establishment_78,Food Take Out,2,M - Minor,Pass
-ID_79,Establishment_79,Food Take Out,5,C - Crucial,Pass
-ID_79,Establishment_79,Restaurant,3,C - Crucial,Closed
-ID_79,Establishment_79,Restaurant,5,M - Minor,Conditional Pass
-ID_79,Establishment_79,Restaurant,4,M - Minor,Pass
-ID_79,Establishment_79,Restaurant,5,M - Minor,Conditional Pass
-ID_80,Establishment_80,Food Take Out,2,C - Crucial,Closed
-ID_80,Establishment_80,Restaurant,3,C - Crucial,Conditional Pass
-ID_80,Establishment_80,Food Take Out,1,M - Minor,Pass
-ID_80,Establishment_80,Restaurant,2,M - Minor,Closed
-ID_80,Establishment_80,Food Take Out,4,S - Significant,Closed
-ID_81,Establishment_81,Restaurant,3,C - Crucial,Conditional Pass
-ID_81,Establishment_81,Food Take Out,4,S - Significant,Pass
-ID_81,Establishment_81,Food Take Out,1,S - Significant,Conditional Pass
-ID_81,Establishment_81,Restaurant,1,M - Minor,Closed
-ID_81,Establishment_81,Food Take Out,2,S - Significant,Pass
-ID_82,Establishment_82,Restaurant,1,C - Crucial,Pass
-ID_82,Establishment_82,Restaurant,5,C - Crucial,Conditional Pass
-ID_82,Establishment_82,Food Take Out,1,M - Minor,Pass
-ID_82,Establishment_82,Restaurant,2,S - Significant,Pass
-ID_82,Establishment_82,Food Take Out,1,M - Minor,Conditional Pass
-ID_83,Establishment_83,Restaurant,3,S - Significant,Closed
-ID_83,Establishment_83,Food Take Out,3,C - Crucial,Conditional Pass
-ID_83,Establishment_83,Food Take Out,5,S - Significant,Closed
-ID_83,Establishment_83,Food Take Out,5,C - Crucial,Conditional Pass
-ID_83,Establishment_83,Food Take Out,3,C - Crucial,Conditional Pass
-ID_84,Establishment_84,Food Take Out,3,C - Crucial,Pass
-ID_84,Establishment_84,Food Take Out,1,C - Crucial,Closed
-ID_84,Establishment_84,Restaurant,1,M - Minor,Pass
-ID_84,Establishment_84,Restaurant,1,S - Significant,Pass
-ID_84,Establishment_84,Food Take Out,1,S - Significant,Conditional Pass
-ID_85,Establishment_85,Restaurant,4,C - Crucial,Pass
-ID_85,Establishment_85,Restaurant,4,S - Significant,Pass
-ID_85,Establishment_85,Food Take Out,4,M - Minor,Conditional Pass
-ID_85,Establishment_85,Restaurant,3,M - Minor,Conditional Pass
-ID_85,Establishment_85,Food Take Out,1,C - Crucial,Pass
-ID_86,Establishment_86,Restaurant,1,M - Minor,Closed
-ID_86,Establishment_86,Restaurant,1,S - Significant,Pass
-ID_86,Establishment_86,Food Take Out,4,C - Crucial,Conditional Pass
-ID_86,Establishment_86,Restaurant,3,C - Crucial,Pass
-ID_86,Establishment_86,Restaurant,1,C - Crucial,Closed
-ID_87,Establishment_87,Food Take Out,1,S - Significant,Conditional Pass
-ID_87,Establishment_87,Restaurant,1,C - Crucial,Closed
-ID_87,Establishment_87,Food Take Out,5,C - Crucial,Conditional Pass
-ID_87,Establishment_87,Food Take Out,4,M - Minor,Conditional Pass
-ID_87,Establishment_87,Restaurant,2,M - Minor,Conditional Pass
-ID_88,Establishment_88,Food Take Out,2,S - Significant,Pass
-ID_88,Establishment_88,Food Take Out,2,M - Minor,Closed
-ID_88,Establishment_88,Food Take Out,2,M - Minor,Conditional Pass
-ID_88,Establishment_88,Restaurant,3,C - Crucial,Closed
-ID_88,Establishment_88,Restaurant,1,M - Minor,Closed
-ID_89,Establishment_89,Food Take Out,3,C - Crucial,Closed
-ID_89,Establishment_89,Food Take Out,1,C - Crucial,Closed
-ID_89,Establishment_89,Food Take Out,5,S - Significant,Closed
-ID_89,Establishment_89,Restaurant,3,M - Minor,Pass
-ID_89,Establishment_89,Restaurant,3,C - Crucial,Closed
-ID_90,Establishment_90,Restaurant,5,S - Significant,Pass
-ID_90,Establishment_90,Restaurant,4,M - Minor,Conditional Pass
-ID_90,Establishment_90,Food Take Out,3,S - Significant,Conditional Pass
-ID_90,Establishment_90,Restaurant,4,C - Crucial,Closed
-ID_90,Establishment_90,Food Take Out,1,C - Crucial,Conditional Pass
-ID_91,Establishment_91,Restaurant,5,S - Significant,Conditional Pass
-ID_91,Establishment_91,Restaurant,3,C - Crucial,Closed
-ID_91,Establishment_91,Food Take Out,2,M - Minor,Pass
-ID_91,Establishment_91,Food Take Out,2,M - Minor,Closed
-ID_91,Establishment_91,Restaurant,3,C - Crucial,Closed
-ID_92,Establishment_92,Food Take Out,5,M - Minor,Closed
-ID_92,Establishment_92,Restaurant,3,S - Significant,Closed
-ID_92,Establishment_92,Restaurant,2,S - Significant,Conditional Pass
-ID_92,Establishment_92,Food Take Out,2,C - Crucial,Closed
-ID_92,Establishment_92,Restaurant,1,M - Minor,Pass
-ID_93,Establishment_93,Food Take Out,1,S - Significant,Closed
-ID_93,Establishment_93,Restaurant,1,M - Minor,Pass
-ID_93,Establishment_93,Food Take Out,2,S - Significant,Conditional Pass
-ID_93,Establishment_93,Restaurant,1,C - Crucial,Closed
-ID_93,Establishment_93,Food Take Out,3,C - Crucial,Pass
-ID_94,Establishment_94,Food Take Out,3,S - Significant,Pass
-ID_94,Establishment_94,Food Take Out,4,C - Crucial,Pass
-ID_94,Establishment_94,Food Take Out,4,C - Crucial,Closed
-ID_94,Establishment_94,Restaurant,2,M - Minor,Pass
-ID_94,Establishment_94,Restaurant,1,C - Crucial,Conditional Pass
-ID_95,Establishment_95,Food Take Out,1,C - Crucial,Closed
-ID_95,Establishment_95,Restaurant,1,S - Significant,Closed
-ID_95,Establishment_95,Restaurant,5,M - Minor,Pass
-ID_95,Establishment_95,Restaurant,3,M - Minor,Pass
-ID_95,Establishment_95,Restaurant,5,S - Significant,Conditional Pass
-ID_96,Establishment_96,Food Take Out,2,C - Crucial,Conditional Pass
-ID_96,Establishment_96,Food Take Out,4,S - Significant,Closed
-ID_96,Establishment_96,Food Take Out,5,S - Significant,Pass
-ID_96,Establishment_96,Restaurant,1,S - Significant,Conditional Pass
-ID_96,Establishment_96,Restaurant,4,S - Significant,Conditional Pass
-ID_97,Establishment_97,Restaurant,4,S - Significant,Closed
-ID_97,Establishment_97,Food Take Out,5,S - Significant,Closed
-ID_97,Establishment_97,Food Take Out,3,S - Significant,Pass
-ID_97,Establishment_97,Food Take Out,2,M - Minor,Pass
-ID_97,Establishment_97,Food Take Out,2,S - Significant,Closed
-ID_98,Establishment_98,Food Take Out,1,S - Significant,Closed
-ID_98,Establishment_98,Food Take Out,5,S - Significant,Pass
-ID_98,Establishment_98,Restaurant,2,S - Significant,Closed
-ID_98,Establishment_98,Food Take Out,2,M - Minor,Conditional Pass
-ID_98,Establishment_98,Food Take Out,3,S - Significant,Pass
-ID_99,Establishment_99,Restaurant,2,C - Crucial,Pass
-ID_99,Establishment_99,Food Take Out,1,C - Crucial,Closed
-ID_99,Establishment_99,Food Take Out,4,C - Crucial,Closed
-ID_99,Establishment_99,Restaurant,2,S - Significant,Conditional Pass
-ID_99,Establishment_99,Restaurant,1,C - Crucial,Closed
-ID_100,Establishment_100,Food Take Out,1,M - Minor,Pass
-ID_100,Establishment_100,Food Take Out,3,S - Significant,Pass
-ID_100,Establishment_100,Restaurant,2,C - Crucial,Conditional Pass
-ID_100,Establishment_100,Restaurant,5,S - Significant,Conditional Pass
-ID_100,Establishment_100,Restaurant,1,S - Significant,Pass
-ID_101,Establishment_101,Food Take Out,5,S - Significant,Conditional Pass
-ID_101,Establishment_101,Food Take Out,5,M - Minor,Conditional Pass
-ID_101,Establishment_101,Restaurant,5,C - Crucial,Pass
-ID_101,Establishment_101,Food Take Out,5,C - Crucial,Closed
-ID_101,Establishment_101,Restaurant,1,S - Significant,Pass
-ID_102,Establishment_102,Restaurant,3,C - Crucial,Closed
-ID_102,Establishment_102,Restaurant,2,S - Significant,Closed
-ID_102,Establishment_102,Food Take Out,1,M - Minor,Conditional Pass
-ID_102,Establishment_102,Restaurant,1,C - Crucial,Closed
-ID_102,Establishment_102,Restaurant,5,S - Significant,Conditional Pass
-ID_103,Establishment_103,Restaurant,4,S - Significant,Conditional Pass
-ID_103,Establishment_103,Food Take Out,2,S - Significant,Closed
-ID_103,Establishment_103,Restaurant,4,S - Significant,Conditional Pass
-ID_103,Establishment_103,Food Take Out,2,C - Crucial,Conditional Pass
-ID_103,Establishment_103,Food Take Out,5,C - Crucial,Conditional Pass
-ID_104,Establishment_104,Restaurant,2,S - Significant,Pass
-ID_104,Establishment_104,Restaurant,4,M - Minor,Pass
-ID_104,Establishment_104,Food Take Out,4,C - Crucial,Pass
-ID_104,Establishment_104,Food Take Out,4,C - Crucial,Closed
-ID_104,Establishment_104,Food Take Out,5,S - Significant,Pass
-ID_105,Establishment_105,Food Take Out,4,M - Minor,Closed
-ID_105,Establishment_105,Food Take Out,5,C - Crucial,Closed
-ID_105,Establishment_105,Food Take Out,1,C - Crucial,Conditional Pass
-ID_105,Establishment_105,Restaurant,3,C - Crucial,Pass
-ID_105,Establishment_105,Restaurant,4,M - Minor,Conditional Pass
-ID_106,Establishment_106,Restaurant,2,M - Minor,Closed
-ID_106,Establishment_106,Restaurant,2,M - Minor,Conditional Pass
-ID_106,Establishment_106,Restaurant,3,C - Crucial,Closed
-ID_106,Establishment_106,Food Take Out,3,C - Crucial,Closed
-ID_106,Establishment_106,Food Take Out,1,S - Significant,Pass
-ID_107,Establishment_107,Food Take Out,3,S - Significant,Conditional Pass
-ID_107,Establishment_107,Food Take Out,3,C - Crucial,Conditional Pass
-ID_107,Establishment_107,Food Take Out,4,S - Significant,Closed
-ID_107,Establishment_107,Food Take Out,2,C - Crucial,Conditional Pass
-ID_107,Establishment_107,Food Take Out,4,C - Crucial,Pass
-ID_108,Establishment_108,Restaurant,1,M - Minor,Conditional Pass
-ID_108,Establishment_108,Restaurant,3,M - Minor,Conditional Pass
-ID_108,Establishment_108,Restaurant,1,C - Crucial,Closed
-ID_108,Establishment_108,Restaurant,3,S - Significant,Conditional Pass
-ID_108,Establishment_108,Food Take Out,4,S - Significant,Pass
-ID_109,Establishment_109,Food Take Out,4,S - Significant,Closed
-ID_109,Establishment_109,Restaurant,3,C - Crucial,Closed
-ID_109,Establishment_109,Food Take Out,3,C - Crucial,Closed
-ID_109,Establishment_109,Food Take Out,4,M - Minor,Closed
-ID_109,Establishment_109,Food Take Out,1,C - Crucial,Pass
-ID_110,Establishment_110,Food Take Out,1,S - Significant,Closed
-ID_110,Establishment_110,Food Take Out,1,C - Crucial,Pass
-ID_110,Establishment_110,Restaurant,2,C - Crucial,Closed
-ID_110,Establishment_110,Restaurant,5,M - Minor,Conditional Pass
-ID_110,Establishment_110,Restaurant,1,M - Minor,Pass
-ID_111,Establishment_111,Restaurant,2,S - Significant,Closed
-ID_111,Establishment_111,Restaurant,3,C - Crucial,Pass
-ID_111,Establishment_111,Food Take Out,3,C - Crucial,Closed
-ID_111,Establishment_111,Food Take Out,3,C - Crucial,Pass
-ID_111,Establishment_111,Food Take Out,3,M - Minor,Closed
-ID_112,Establishment_112,Food Take Out,2,C - Crucial,Conditional Pass
-ID_112,Establishment_112,Food Take Out,3,M - Minor,Closed
-ID_112,Establishment_112,Restaurant,2,S - Significant,Pass
-ID_112,Establishment_112,Food Take Out,1,M - Minor,Pass
-ID_112,Establishment_112,Restaurant,5,C - Crucial,Conditional Pass
-ID_113,Establishment_113,Restaurant,2,M - Minor,Pass
-ID_113,Establishment_113,Food Take Out,3,C - Crucial,Pass
-ID_113,Establishment_113,Food Take Out,1,S - Significant,Closed
-ID_113,Establishment_113,Restaurant,1,M - Minor,Conditional Pass
-ID_113,Establishment_113,Restaurant,2,M - Minor,Pass
-ID_114,Establishment_114,Restaurant,3,S - Significant,Conditional Pass
-ID_114,Establishment_114,Restaurant,2,M - Minor,Pass
-ID_114,Establishment_114,Restaurant,4,C - Crucial,Closed
-ID_114,Establishment_114,Restaurant,2,C - Crucial,Conditional Pass
-ID_114,Establishment_114,Food Take Out,4,M - Minor,Closed
-ID_115,Establishment_115,Food Take Out,1,S - Significant,Conditional Pass
-ID_115,Establishment_115,Food Take Out,3,M - Minor,Conditional Pass
-ID_115,Establishment_115,Food Take Out,5,S - Significant,Closed
-ID_115,Establishment_115,Food Take Out,1,C - Crucial,Conditional Pass
-ID_115,Establishment_115,Restaurant,4,C - Crucial,Closed
-ID_116,Establishment_116,Restaurant,3,C - Crucial,Pass
-ID_116,Establishment_116,Food Take Out,5,M - Minor,Conditional Pass
-ID_116,Establishment_116,Restaurant,3,S - Significant,Conditional Pass
-ID_116,Establishment_116,Restaurant,3,M - Minor,Closed
-ID_116,Establishment_116,Food Take Out,2,C - Crucial,Conditional Pass
-ID_117,Establishment_117,Food Take Out,2,S - Significant,Closed
-ID_117,Establishment_117,Food Take Out,4,S - Significant,Pass
-ID_117,Establishment_117,Food Take Out,1,C - Crucial,Pass
-ID_117,Establishment_117,Restaurant,2,M - Minor,Closed
-ID_117,Establishment_117,Restaurant,4,C - Crucial,Pass
-ID_118,Establishment_118,Food Take Out,5,C - Crucial,Closed
-ID_118,Establishment_118,Restaurant,2,S - Significant,Closed
-ID_118,Establishment_118,Restaurant,5,M - Minor,Conditional Pass
-ID_118,Establishment_118,Restaurant,1,M - Minor,Pass
-ID_118,Establishment_118,Food Take Out,5,M - Minor,Closed
-ID_119,Establishment_119,Food Take Out,5,C - Crucial,Conditional Pass
-ID_119,Establishment_119,Restaurant,4,C - Crucial,Closed
-ID_119,Establishment_119,Food Take Out,4,S - Significant,Pass
-ID_119,Establishment_119,Food Take Out,5,S - Significant,Conditional Pass
-ID_119,Establishment_119,Restaurant,4,C - Crucial,Pass
-ID_120,Establishment_120,Food Take Out,4,S - Significant,Pass
-ID_120,Establishment_120,Restaurant,5,M - Minor,Pass
-ID_120,Establishment_120,Food Take Out,5,S - Significant,Conditional Pass
-ID_120,Establishment_120,Restaurant,2,S - Significant,Pass
-ID_120,Establishment_120,Restaurant,3,M - Minor,Pass
-ID_121,Establishment_121,Restaurant,5,C - Crucial,Closed
-ID_121,Establishment_121,Food Take Out,4,S - Significant,Closed
-ID_121,Establishment_121,Food Take Out,5,C - Crucial,Conditional Pass
-ID_121,Establishment_121,Restaurant,3,C - Crucial,Conditional Pass
-ID_121,Establishment_121,Restaurant,2,M - Minor,Pass
-ID_122,Establishment_122,Restaurant,3,C - Crucial,Conditional Pass
-ID_122,Establishment_122,Food Take Out,5,M - Minor,Conditional Pass
-ID_122,Establishment_122,Restaurant,4,S - Significant,Conditional Pass
-ID_122,Establishment_122,Restaurant,1,M - Minor,Conditional Pass
-ID_122,Establishment_122,Restaurant,2,S - Significant,Closed
-ID_123,Establishment_123,Food Take Out,3,S - Significant,Pass
-ID_123,Establishment_123,Food Take Out,4,S - Significant,Pass
-ID_123,Establishment_123,Restaurant,1,M - Minor,Conditional Pass
-ID_123,Establishment_123,Restaurant,1,M - Minor,Pass
-ID_123,Establishment_123,Food Take Out,1,M - Minor,Closed
-ID_124,Establishment_124,Food Take Out,5,S - Significant,Pass
-ID_124,Establishment_124,Restaurant,3,C - Crucial,Closed
-ID_124,Establishment_124,Food Take Out,3,M - Minor,Conditional Pass
-ID_124,Establishment_124,Restaurant,2,M - Minor,Closed
-ID_124,Establishment_124,Food Take Out,4,C - Crucial,Closed
-ID_125,Establishment_125,Restaurant,2,S - Significant,Closed
-ID_125,Establishment_125,Restaurant,3,C - Crucial,Closed
-ID_125,Establishment_125,Restaurant,2,M - Minor,Conditional Pass
-ID_125,Establishment_125,Restaurant,3,S - Significant,Conditional Pass
-ID_125,Establishment_125,Food Take Out,4,C - Crucial,Closed
-ID_126,Establishment_126,Food Take Out,1,C - Crucial,Closed
-ID_126,Establishment_126,Restaurant,4,C - Crucial,Conditional Pass
-ID_126,Establishment_126,Restaurant,4,S - Significant,Pass
-ID_126,Establishment_126,Food Take Out,5,C - Crucial,Closed
-ID_126,Establishment_126,Food Take Out,2,C - Crucial,Conditional Pass
-ID_127,Establishment_127,Food Take Out,1,C - Crucial,Conditional Pass
-ID_127,Establishment_127,Restaurant,5,M - Minor,Conditional Pass
-ID_127,Establishment_127,Restaurant,2,M - Minor,Conditional Pass
-ID_127,Establishment_127,Food Take Out,2,M - Minor,Pass
-ID_127,Establishment_127,Restaurant,3,M - Minor,Conditional Pass
-ID_128,Establishment_128,Food Take Out,1,S - Significant,Pass
-ID_128,Establishment_128,Restaurant,4,S - Significant,Conditional Pass
-ID_128,Establishment_128,Food Take Out,1,C - Crucial,Pass
-ID_128,Establishment_128,Restaurant,5,C - Crucial,Closed
-ID_128,Establishment_128,Restaurant,4,C - Crucial,Closed
-ID_129,Establishment_129,Restaurant,4,S - Significant,Conditional Pass
-ID_129,Establishment_129,Restaurant,1,C - Crucial,Pass
-ID_129,Establishment_129,Food Take Out,3,M - Minor,Conditional Pass
-ID_129,Establishment_129,Restaurant,3,C - Crucial,Closed
-ID_129,Establishment_129,Food Take Out,3,S - Significant,Conditional Pass
-ID_130,Establishment_130,Food Take Out,5,C - Crucial,Pass
-ID_130,Establishment_130,Restaurant,2,S - Significant,Closed
-ID_130,Establishment_130,Food Take Out,2,C - Crucial,Pass
-ID_130,Establishment_130,Food Take Out,3,C - Crucial,Closed
-ID_130,Establishment_130,Restaurant,2,S - Significant,Closed
-ID_131,Establishment_131,Food Take Out,3,S - Significant,Pass
-ID_131,Establishment_131,Restaurant,3,C - Crucial,Pass
-ID_131,Establishment_131,Restaurant,2,M - Minor,Conditional Pass
-ID_131,Establishment_131,Restaurant,5,M - Minor,Pass
-ID_131,Establishment_131,Restaurant,4,C - Crucial,Pass
-ID_132,Establishment_132,Restaurant,4,C - Crucial,Conditional Pass
-ID_132,Establishment_132,Restaurant,3,M - Minor,Pass
-ID_132,Establishment_132,Food Take Out,4,M - Minor,Conditional Pass
-ID_132,Establishment_132,Restaurant,5,C - Crucial,Conditional Pass
-ID_132,Establishment_132,Restaurant,4,S - Significant,Conditional Pass
-ID_133,Establishment_133,Restaurant,4,S - Significant,Closed
-ID_133,Establishment_133,Restaurant,4,M - Minor,Closed
-ID_133,Establishment_133,Food Take Out,4,S - Significant,Conditional Pass
-ID_133,Establishment_133,Food Take Out,2,S - Significant,Conditional Pass
-ID_133,Establishment_133,Food Take Out,2,M - Minor,Pass
-ID_134,Establishment_134,Food Take Out,5,S - Significant,Conditional Pass
-ID_134,Establishment_134,Restaurant,1,S - Significant,Pass
-ID_134,Establishment_134,Food Take Out,1,S - Significant,Closed
-ID_134,Establishment_134,Food Take Out,5,C - Crucial,Pass
-ID_134,Establishment_134,Food Take Out,3,C - Crucial,Conditional Pass
-ID_135,Establishment_135,Food Take Out,3,M - Minor,Closed
-ID_135,Establishment_135,Food Take Out,3,M - Minor,Closed
-ID_135,Establishment_135,Restaurant,3,S - Significant,Pass
-ID_135,Establishment_135,Food Take Out,1,S - Significant,Pass
-ID_135,Establishment_135,Food Take Out,4,S - Significant,Conditional Pass
-ID_136,Establishment_136,Food Take Out,4,C - Crucial,Conditional Pass
-ID_136,Establishment_136,Food Take Out,2,M - Minor,Conditional Pass
-ID_136,Establishment_136,Restaurant,5,C - Crucial,Conditional Pass
-ID_136,Establishment_136,Food Take Out,1,C - Crucial,Conditional Pass
-ID_136,Establishment_136,Food Take Out,4,M - Minor,Closed
-ID_137,Establishment_137,Food Take Out,4,M - Minor,Closed
-ID_137,Establishment_137,Restaurant,1,M - Minor,Conditional Pass
-ID_137,Establishment_137,Restaurant,4,S - Significant,Pass
-ID_137,Establishment_137,Food Take Out,5,C - Crucial,Conditional Pass
-ID_137,Establishment_137,Food Take Out,5,C - Crucial,Closed
-ID_138,Establishment_138,Restaurant,3,C - Crucial,Pass
-ID_138,Establishment_138,Food Take Out,5,C - Crucial,Closed
-ID_138,Establishment_138,Restaurant,1,C - Crucial,Pass
-ID_138,Establishment_138,Food Take Out,4,S - Significant,Closed
-ID_138,Establishment_138,Food Take Out,5,C - Crucial,Pass
-ID_139,Establishment_139,Restaurant,2,C - Crucial,Pass
-ID_139,Establishment_139,Restaurant,2,M - Minor,Pass
-ID_139,Establishment_139,Food Take Out,4,M - Minor,Conditional Pass
-ID_139,Establishment_139,Restaurant,1,C - Crucial,Closed
-ID_139,Establishment_139,Restaurant,5,S - Significant,Conditional Pass
-ID_140,Establishment_140,Food Take Out,5,C - Crucial,Conditional Pass
-ID_140,Establishment_140,Restaurant,4,S - Significant,Closed
-ID_140,Establishment_140,Food Take Out,3,M - Minor,Closed
-ID_140,Establishment_140,Food Take Out,2,S - Significant,Pass
-ID_140,Establishment_140,Restaurant,4,C - Crucial,Pass
-ID_141,Establishment_141,Restaurant,5,S - Significant,Pass
-ID_141,Establishment_141,Restaurant,4,M - Minor,Pass
-ID_141,Establishment_141,Restaurant,4,S - Significant,Conditional Pass
-ID_141,Establishment_141,Food Take Out,2,M - Minor,Conditional Pass
-ID_141,Establishment_141,Restaurant,1,M - Minor,Pass
-ID_142,Establishment_142,Restaurant,5,M - Minor,Conditional Pass
-ID_142,Establishment_142,Food Take Out,4,S - Significant,Pass
-ID_142,Establishment_142,Food Take Out,4,C - Crucial,Conditional Pass
-ID_142,Establishment_142,Food Take Out,3,S - Significant,Conditional Pass
-ID_142,Establishment_142,Restaurant,3,C - Crucial,Closed
-ID_143,Establishment_143,Restaurant,4,C - Crucial,Closed
-ID_143,Establishment_143,Food Take Out,3,S - Significant,Closed
-ID_143,Establishment_143,Food Take Out,3,C - Crucial,Conditional Pass
-ID_143,Establishment_143,Food Take Out,4,M - Minor,Conditional Pass
-ID_143,Establishment_143,Restaurant,5,S - Significant,Conditional Pass
-ID_144,Establishment_144,Food Take Out,1,M - Minor,Conditional Pass
-ID_144,Establishment_144,Food Take Out,3,C - Crucial,Closed
-ID_144,Establishment_144,Restaurant,5,M - Minor,Conditional Pass
-ID_144,Establishment_144,Food Take Out,5,S - Significant,Pass
-ID_144,Establishment_144,Food Take Out,3,C - Crucial,Closed
-ID_145,Establishment_145,Food Take Out,2,M - Minor,Pass
-ID_145,Establishment_145,Restaurant,4,S - Significant,Closed
-ID_145,Establishment_145,Food Take Out,3,C - Crucial,Pass
-ID_145,Establishment_145,Restaurant,5,S - Significant,Closed
-ID_145,Establishment_145,Restaurant,1,S - Significant,Conditional Pass
-ID_146,Establishment_146,Food Take Out,4,M - Minor,Closed
-ID_146,Establishment_146,Food Take Out,1,S - Significant,Closed
-ID_146,Establishment_146,Restaurant,4,C - Crucial,Pass
-ID_146,Establishment_146,Restaurant,1,C - Crucial,Pass
-ID_146,Establishment_146,Restaurant,3,M - Minor,Closed
-ID_147,Establishment_147,Restaurant,1,S - Significant,Conditional Pass
-ID_147,Establishment_147,Restaurant,2,M - Minor,Pass
-ID_147,Establishment_147,Restaurant,3,M - Minor,Conditional Pass
-ID_147,Establishment_147,Restaurant,3,M - Minor,Conditional Pass
-ID_147,Establishment_147,Food Take Out,2,M - Minor,Conditional Pass
-ID_148,Establishment_148,Restaurant,2,M - Minor,Pass
-ID_148,Establishment_148,Restaurant,2,M - Minor,Pass
-ID_148,Establishment_148,Restaurant,1,M - Minor,Closed
-ID_148,Establishment_148,Food Take Out,3,S - Significant,Conditional Pass
-ID_148,Establishment_148,Restaurant,2,S - Significant,Pass
-ID_149,Establishment_149,Restaurant,2,C - Crucial,Closed
-ID_149,Establishment_149,Restaurant,3,S - Significant,Closed
-ID_149,Establishment_149,Restaurant,1,S - Significant,Closed
-ID_149,Establishment_149,Food Take Out,5,C - Crucial,Pass
-ID_149,Establishment_149,Restaurant,2,M - Minor,Closed
-ID_150,Establishment_150,Food Take Out,3,S - Significant,Closed
-ID_150,Establishment_150,Restaurant,4,M - Minor,Conditional Pass
-ID_150,Establishment_150,Food Take Out,2,M - Minor,Closed
-ID_150,Establishment_150,Restaurant,2,S - Significant,Pass
-ID_150,Establishment_150,Restaurant,1,M - Minor,Conditional Pass
-ID_151,Establishment_151,Food Take Out,5,S - Significant,Conditional Pass
-ID_151,Establishment_151,Food Take Out,5,M - Minor,Pass
-ID_151,Establishment_151,Restaurant,3,M - Minor,Pass
-ID_151,Establishment_151,Restaurant,3,C - Crucial,Conditional Pass
-ID_151,Establishment_151,Food Take Out,1,S - Significant,Pass
-ID_152,Establishment_152,Food Take Out,2,C - Crucial,Pass
-ID_152,Establishment_152,Food Take Out,2,M - Minor,Conditional Pass
-ID_152,Establishment_152,Food Take Out,4,S - Significant,Pass
-ID_152,Establishment_152,Restaurant,5,M - Minor,Closed
-ID_152,Establishment_152,Food Take Out,5,S - Significant,Conditional Pass
-ID_153,Establishment_153,Food Take Out,5,S - Significant,Closed
-ID_153,Establishment_153,Food Take Out,2,M - Minor,Conditional Pass
-ID_153,Establishment_153,Food Take Out,2,M - Minor,Closed
-ID_153,Establishment_153,Restaurant,2,S - Significant,Closed
-ID_153,Establishment_153,Restaurant,3,M - Minor,Pass
-ID_154,Establishment_154,Restaurant,3,M - Minor,Closed
-ID_154,Establishment_154,Restaurant,1,S - Significant,Closed
-ID_154,Establishment_154,Food Take Out,3,M - Minor,Closed
-ID_154,Establishment_154,Restaurant,1,S - Significant,Conditional Pass
-ID_154,Establishment_154,Restaurant,5,S - Significant,Pass
-ID_155,Establishment_155,Restaurant,5,C - Crucial,Conditional Pass
-ID_155,Establishment_155,Food Take Out,3,C - Crucial,Conditional Pass
-ID_155,Establishment_155,Restaurant,5,M - Minor,Pass
-ID_155,Establishment_155,Food Take Out,1,S - Significant,Conditional Pass
-ID_155,Establishment_155,Food Take Out,3,S - Significant,Pass
-ID_156,Establishment_156,Restaurant,3,C - Crucial,Conditional Pass
-ID_156,Establishment_156,Food Take Out,3,C - Crucial,Pass
-ID_156,Establishment_156,Restaurant,3,M - Minor,Pass
-ID_156,Establishment_156,Restaurant,5,C - Crucial,Pass
-ID_156,Establishment_156,Restaurant,1,C - Crucial,Conditional Pass
-ID_157,Establishment_157,Restaurant,4,M - Minor,Closed
-ID_157,Establishment_157,Food Take Out,1,C - Crucial,Closed
-ID_157,Establishment_157,Food Take Out,5,M - Minor,Pass
-ID_157,Establishment_157,Restaurant,4,S - Significant,Conditional Pass
-ID_157,Establishment_157,Food Take Out,4,S - Significant,Pass
-ID_158,Establishment_158,Restaurant,1,S - Significant,Conditional Pass
-ID_158,Establishment_158,Food Take Out,3,M - Minor,Conditional Pass
-ID_158,Establishment_158,Food Take Out,4,S - Significant,Pass
-ID_158,Establishment_158,Food Take Out,3,C - Crucial,Pass
-ID_158,Establishment_158,Restaurant,1,C - Crucial,Conditional Pass
-ID_159,Establishment_159,Food Take Out,4,C - Crucial,Conditional Pass
-ID_159,Establishment_159,Restaurant,1,M - Minor,Pass
-ID_159,Establishment_159,Food Take Out,4,C - Crucial,Conditional Pass
-ID_159,Establishment_159,Restaurant,1,C - Crucial,Pass
-ID_159,Establishment_159,Restaurant,1,S - Significant,Pass
-ID_160,Establishment_160,Food Take Out,2,M - Minor,Pass
-ID_160,Establishment_160,Restaurant,5,C - Crucial,Conditional Pass
-ID_160,Establishment_160,Food Take Out,2,M - Minor,Pass
-ID_160,Establishment_160,Restaurant,3,S - Significant,Closed
-ID_160,Establishment_160,Restaurant,4,M - Minor,Pass
-ID_161,Establishment_161,Food Take Out,5,C - Crucial,Pass
-ID_161,Establishment_161,Food Take Out,4,S - Significant,Conditional Pass
-ID_161,Establishment_161,Restaurant,4,M - Minor,Pass
-ID_161,Establishment_161,Food Take Out,3,M - Minor,Closed
-ID_161,Establishment_161,Restaurant,1,C - Crucial,Closed
-ID_162,Establishment_162,Restaurant,3,S - Significant,Closed
-ID_162,Establishment_162,Restaurant,2,C - Crucial,Closed
-ID_162,Establishment_162,Food Take Out,4,C - Crucial,Closed
-ID_162,Establishment_162,Food Take Out,5,M - Minor,Conditional Pass
-ID_162,Establishment_162,Restaurant,5,S - Significant,Pass
-ID_163,Establishment_163,Restaurant,5,S - Significant,Closed
-ID_163,Establishment_163,Food Take Out,3,M - Minor,Closed
-ID_163,Establishment_163,Food Take Out,3,S - Significant,Pass
-ID_163,Establishment_163,Restaurant,4,C - Crucial,Conditional Pass
-ID_163,Establishment_163,Food Take Out,2,C - Crucial,Conditional Pass
-ID_164,Establishment_164,Restaurant,2,M - Minor,Conditional Pass
-ID_164,Establishment_164,Restaurant,2,M - Minor,Closed
-ID_164,Establishment_164,Food Take Out,2,C - Crucial,Conditional Pass
-ID_164,Establishment_164,Restaurant,2,C - Crucial,Conditional Pass
-ID_164,Establishment_164,Restaurant,4,M - Minor,Pass
-ID_165,Establishment_165,Food Take Out,2,S - Significant,Closed
-ID_165,Establishment_165,Food Take Out,1,S - Significant,Conditional Pass
-ID_165,Establishment_165,Food Take Out,4,C - Crucial,Closed
-ID_165,Establishment_165,Restaurant,4,C - Crucial,Closed
-ID_165,Establishment_165,Food Take Out,3,S - Significant,Conditional Pass
-ID_166,Establishment_166,Food Take Out,4,M - Minor,Closed
-ID_166,Establishment_166,Food Take Out,2,S - Significant,Closed
-ID_166,Establishment_166,Food Take Out,4,S - Significant,Closed
-ID_166,Establishment_166,Food Take Out,1,M - Minor,Conditional Pass
-ID_166,Establishment_166,Food Take Out,3,M - Minor,Conditional Pass
-ID_167,Establishment_167,Food Take Out,5,C - Crucial,Conditional Pass
-ID_167,Establishment_167,Food Take Out,1,S - Significant,Closed
-ID_167,Establishment_167,Restaurant,4,S - Significant,Conditional Pass
-ID_167,Establishment_167,Food Take Out,4,S - Significant,Conditional Pass
-ID_167,Establishment_167,Restaurant,2,C - Crucial,Conditional Pass
-ID_168,Establishment_168,Food Take Out,1,M - Minor,Closed
-ID_168,Establishment_168,Restaurant,3,C - Crucial,Conditional Pass
-ID_168,Establishment_168,Food Take Out,1,M - Minor,Pass
-ID_168,Establishment_168,Food Take Out,2,C - Crucial,Closed
-ID_168,Establishment_168,Restaurant,2,M - Minor,Closed
-ID_169,Establishment_169,Food Take Out,4,M - Minor,Pass
-ID_169,Establishment_169,Food Take Out,2,C - Crucial,Conditional Pass
-ID_169,Establishment_169,Restaurant,3,M - Minor,Pass
-ID_169,Establishment_169,Restaurant,2,M - Minor,Conditional Pass
-ID_169,Establishment_169,Food Take Out,3,M - Minor,Closed
-ID_170,Establishment_170,Restaurant,3,S - Significant,Pass
-ID_170,Establishment_170,Food Take Out,3,C - Crucial,Closed
-ID_170,Establishment_170,Food Take Out,5,M - Minor,Pass
-ID_170,Establishment_170,Food Take Out,5,C - Crucial,Conditional Pass
-ID_170,Establishment_170,Restaurant,5,C - Crucial,Pass
-ID_171,Establishment_171,Restaurant,5,C - Crucial,Pass
-ID_171,Establishment_171,Restaurant,4,M - Minor,Closed
-ID_171,Establishment_171,Restaurant,5,S - Significant,Conditional Pass
-ID_171,Establishment_171,Food Take Out,4,C - Crucial,Conditional Pass
-ID_171,Establishment_171,Food Take Out,4,S - Significant,Conditional Pass
-ID_172,Establishment_172,Food Take Out,1,C - Crucial,Closed
-ID_172,Establishment_172,Food Take Out,3,C - Crucial,Pass
-ID_172,Establishment_172,Food Take Out,4,C - Crucial,Closed
-ID_172,Establishment_172,Food Take Out,1,M - Minor,Conditional Pass
-ID_172,Establishment_172,Food Take Out,2,M - Minor,Conditional Pass
-ID_173,Establishment_173,Food Take Out,1,C - Crucial,Pass
-ID_173,Establishment_173,Food Take Out,3,C - Crucial,Pass
-ID_173,Establishment_173,Food Take Out,2,S - Significant,Conditional Pass
-ID_173,Establishment_173,Restaurant,2,S - Significant,Conditional Pass
-ID_173,Establishment_173,Restaurant,2,C - Crucial,Conditional Pass
-ID_174,Establishment_174,Food Take Out,5,S - Significant,Closed
-ID_174,Establishment_174,Restaurant,3,S - Significant,Conditional Pass
-ID_174,Establishment_174,Food Take Out,1,S - Significant,Closed
-ID_174,Establishment_174,Restaurant,4,S - Significant,Conditional Pass
-ID_174,Establishment_174,Food Take Out,4,M - Minor,Pass
-ID_175,Establishment_175,Restaurant,1,S - Significant,Conditional Pass
-ID_175,Establishment_175,Food Take Out,3,C - Crucial,Pass
-ID_175,Establishment_175,Food Take Out,3,M - Minor,Closed
-ID_175,Establishment_175,Restaurant,4,M - Minor,Pass
-ID_175,Establishment_175,Food Take Out,5,S - Significant,Closed
-ID_176,Establishment_176,Restaurant,2,S - Significant,Pass
-ID_176,Establishment_176,Food Take Out,3,M - Minor,Pass
-ID_176,Establishment_176,Food Take Out,2,M - Minor,Closed
-ID_176,Establishment_176,Food Take Out,2,M - Minor,Conditional Pass
-ID_176,Establishment_176,Food Take Out,2,M - Minor,Pass
-ID_177,Establishment_177,Restaurant,3,M - Minor,Closed
-ID_177,Establishment_177,Restaurant,3,M - Minor,Pass
-ID_177,Establishment_177,Food Take Out,3,M - Minor,Conditional Pass
-ID_177,Establishment_177,Restaurant,3,M - Minor,Conditional Pass
-ID_177,Establishment_177,Food Take Out,5,S - Significant,Conditional Pass
-ID_178,Establishment_178,Food Take Out,5,M - Minor,Pass
-ID_178,Establishment_178,Restaurant,3,C - Crucial,Conditional Pass
-ID_178,Establishment_178,Restaurant,2,M - Minor,Closed
-ID_178,Establishment_178,Food Take Out,2,C - Crucial,Closed
-ID_178,Establishment_178,Restaurant,1,S - Significant,Closed
-ID_179,Establishment_179,Food Take Out,4,S - Significant,Closed
-ID_179,Establishment_179,Restaurant,4,M - Minor,Conditional Pass
-ID_179,Establishment_179,Food Take Out,3,M - Minor,Closed
-ID_179,Establishment_179,Restaurant,1,S - Significant,Closed
-ID_179,Establishment_179,Food Take Out,3,M - Minor,Closed
-ID_180,Establishment_180,Restaurant,5,S - Significant,Closed
-ID_180,Establishment_180,Food Take Out,3,C - Crucial,Pass
-ID_180,Establishment_180,Restaurant,5,M - Minor,Conditional Pass
-ID_180,Establishment_180,Food Take Out,3,C - Crucial,Closed
-ID_180,Establishment_180,Restaurant,3,M - Minor,Closed
-ID_181,Establishment_181,Restaurant,3,S - Significant,Closed
-ID_181,Establishment_181,Restaurant,5,S - Significant,Conditional Pass
-ID_181,Establishment_181,Restaurant,4,M - Minor,Conditional Pass
-ID_181,Establishment_181,Restaurant,5,S - Significant,Conditional Pass
-ID_181,Establishment_181,Food Take Out,2,M - Minor,Closed
-ID_182,Establishment_182,Restaurant,3,S - Significant,Pass
-ID_182,Establishment_182,Restaurant,2,M - Minor,Conditional Pass
-ID_182,Establishment_182,Restaurant,2,S - Significant,Conditional Pass
-ID_182,Establishment_182,Food Take Out,1,M - Minor,Conditional Pass
-ID_182,Establishment_182,Food Take Out,5,C - Crucial,Conditional Pass
-ID_183,Establishment_183,Food Take Out,4,M - Minor,Pass
-ID_183,Establishment_183,Restaurant,3,C - Crucial,Pass
-ID_183,Establishment_183,Food Take Out,4,M - Minor,Pass
-ID_183,Establishment_183,Restaurant,1,C - Crucial,Conditional Pass
-ID_183,Establishment_183,Food Take Out,4,M - Minor,Conditional Pass
-ID_184,Establishment_184,Restaurant,3,M - Minor,Conditional Pass
-ID_184,Establishment_184,Food Take Out,4,S - Significant,Conditional Pass
-ID_184,Establishment_184,Restaurant,2,S - Significant,Closed
-ID_184,Establishment_184,Food Take Out,3,S - Significant,Pass
-ID_184,Establishment_184,Restaurant,3,C - Crucial,Closed
-ID_185,Establishment_185,Restaurant,1,M - Minor,Conditional Pass
-ID_185,Establishment_185,Restaurant,1,C - Crucial,Pass
-ID_185,Establishment_185,Restaurant,2,M - Minor,Pass
-ID_185,Establishment_185,Food Take Out,2,S - Significant,Closed
-ID_185,Establishment_185,Restaurant,4,C - Crucial,Conditional Pass
-ID_186,Establishment_186,Food Take Out,1,S - Significant,Conditional Pass
-ID_186,Establishment_186,Food Take Out,2,S - Significant,Pass
-ID_186,Establishment_186,Restaurant,4,C - Crucial,Pass
-ID_186,Establishment_186,Food Take Out,4,C - Crucial,Pass
-ID_186,Establishment_186,Food Take Out,2,C - Crucial,Closed
-ID_187,Establishment_187,Restaurant,2,S - Significant,Pass
-ID_187,Establishment_187,Food Take Out,2,M - Minor,Pass
-ID_187,Establishment_187,Food Take Out,1,M - Minor,Pass
-ID_187,Establishment_187,Food Take Out,1,C - Crucial,Closed
-ID_187,Establishment_187,Restaurant,3,S - Significant,Conditional Pass
-ID_188,Establishment_188,Food Take Out,1,S - Significant,Conditional Pass
-ID_188,Establishment_188,Food Take Out,1,M - Minor,Conditional Pass
-ID_188,Establishment_188,Restaurant,3,S - Significant,Closed
-ID_188,Establishment_188,Restaurant,2,C - Crucial,Pass
-ID_188,Establishment_188,Restaurant,1,C - Crucial,Pass
-ID_189,Establishment_189,Restaurant,4,S - Significant,Conditional Pass
-ID_189,Establishment_189,Food Take Out,3,S - Significant,Closed
-ID_189,Establishment_189,Food Take Out,4,M - Minor,Conditional Pass
-ID_189,Establishment_189,Food Take Out,5,C - Crucial,Closed
-ID_189,Establishment_189,Restaurant,3,S - Significant,Conditional Pass
-ID_190,Establishment_190,Restaurant,5,C - Crucial,Pass
-ID_190,Establishment_190,Food Take Out,1,M - Minor,Conditional Pass
-ID_190,Establishment_190,Food Take Out,1,C - Crucial,Conditional Pass
-ID_190,Establishment_190,Restaurant,3,S - Significant,Closed
-ID_190,Establishment_190,Restaurant,5,M - Minor,Conditional Pass
-ID_191,Establishment_191,Food Take Out,1,S - Significant,Conditional Pass
-ID_191,Establishment_191,Restaurant,5,S - Significant,Conditional Pass
-ID_191,Establishment_191,Restaurant,2,M - Minor,Pass
-ID_191,Establishment_191,Food Take Out,5,C - Crucial,Closed
-ID_191,Establishment_191,Food Take Out,5,M - Minor,Pass
-ID_192,Establishment_192,Food Take Out,2,M - Minor,Pass
-ID_192,Establishment_192,Restaurant,5,C - Crucial,Pass
-ID_192,Establishment_192,Restaurant,2,M - Minor,Conditional Pass
-ID_192,Establishment_192,Restaurant,3,C - Crucial,Conditional Pass
-ID_192,Establishment_192,Food Take Out,3,M - Minor,Conditional Pass
-ID_193,Establishment_193,Restaurant,4,S - Significant,Conditional Pass
-ID_193,Establishment_193,Restaurant,5,M - Minor,Pass
-ID_193,Establishment_193,Restaurant,3,M - Minor,Conditional Pass
-ID_193,Establishment_193,Food Take Out,1,S - Significant,Closed
-ID_193,Establishment_193,Food Take Out,2,S - Significant,Conditional Pass
-ID_194,Establishment_194,Restaurant,5,M - Minor,Conditional Pass
-ID_194,Establishment_194,Restaurant,2,C - Crucial,Conditional Pass
-ID_194,Establishment_194,Food Take Out,4,M - Minor,Closed
-ID_194,Establishment_194,Food Take Out,4,S - Significant,Conditional Pass
-ID_194,Establishment_194,Food Take Out,5,S - Significant,Pass
-ID_195,Establishment_195,Restaurant,1,C - Crucial,Closed
-ID_195,Establishment_195,Restaurant,4,S - Significant,Pass
-ID_195,Establishment_195,Food Take Out,1,M - Minor,Pass
-ID_195,Establishment_195,Food Take Out,1,S - Significant,Closed
-ID_195,Establishment_195,Food Take Out,4,M - Minor,Pass
-ID_196,Establishment_196,Restaurant,3,M - Minor,Conditional Pass
-ID_196,Establishment_196,Restaurant,2,C - Crucial,Closed
-ID_196,Establishment_196,Restaurant,5,M - Minor,Conditional Pass
-ID_196,Establishment_196,Food Take Out,4,M - Minor,Conditional Pass
-ID_196,Establishment_196,Restaurant,3,S - Significant,Conditional Pass
-ID_197,Establishment_197,Food Take Out,1,M - Minor,Pass
-ID_197,Establishment_197,Restaurant,5,S - Significant,Conditional Pass
-ID_197,Establishment_197,Food Take Out,3,M - Minor,Conditional Pass
-ID_197,Establishment_197,Food Take Out,3,C - Crucial,Pass
-ID_197,Establishment_197,Food Take Out,2,M - Minor,Pass
-ID_198,Establishment_198,Food Take Out,3,S - Significant,Closed
-ID_198,Establishment_198,Restaurant,4,S - Significant,Conditional Pass
-ID_198,Establishment_198,Restaurant,4,M - Minor,Closed
-ID_198,Establishment_198,Restaurant,2,M - Minor,Closed
-ID_198,Establishment_198,Restaurant,2,M - Minor,Conditional Pass
-ID_199,Establishment_199,Restaurant,2,C - Crucial,Conditional Pass
-ID_199,Establishment_199,Food Take Out,1,C - Crucial,Closed
-ID_199,Establishment_199,Restaurant,2,M - Minor,Closed
-ID_199,Establishment_199,Food Take Out,4,C - Crucial,Closed
-ID_199,Establishment_199,Food Take Out,4,C - Crucial,Pass
-ID_200,Establishment_200,Food Take Out,3,M - Minor,Closed
-ID_200,Establishment_200,Food Take Out,2,M - Minor,Closed
-ID_200,Establishment_200,Restaurant,3,C - Crucial,Conditional Pass
-ID_200,Establishment_200,Food Take Out,1,M - Minor,Closed
-ID_200,Establishment_200,Food Take Out,4,M - Minor,Closed
+establishment_id,establishment_type,inspection_frequency,severity
+ID_1,Food Take Out,5,C - Crucial
+ID_1,Restaurant,4,M - Minor
+ID_1,Restaurant,2,S - Significant
+ID_1,Restaurant,5,M - Minor
+ID_1,Restaurant,3,S - Significant
+ID_2,Food Take Out,1,C - Crucial
+ID_2,Restaurant,2,M - Minor
+ID_2,Food Take Out,4,M - Minor
+ID_2,Food Take Out,4,S - Significant
+ID_2,Restaurant,2,S - Significant
+ID_3,Food Take Out,1,C - Crucial
+ID_3,Restaurant,2,S - Significant
+ID_3,Food Take Out,3,C - Crucial
+ID_3,Restaurant,3,S - Significant
+ID_3,Restaurant,1,S - Significant
+ID_4,Restaurant,3,S - Significant
+ID_4,Food Take Out,3,S - Significant
+ID_4,Food Take Out,1,S - Significant
+ID_4,Food Take Out,2,C - Crucial
+ID_4,Food Take Out,1,M - Minor
+ID_5,Restaurant,2,M - Minor
+ID_5,Food Take Out,3,S - Significant
+ID_5,Food Take Out,1,M - Minor
+ID_5,Restaurant,2,S - Significant
+ID_5,Food Take Out,2,M - Minor
+ID_6,Food Take Out,1,C - Crucial
+ID_6,Restaurant,4,M - Minor
+ID_6,Food Take Out,1,S - Significant
+ID_6,Restaurant,1,S - Significant
+ID_6,Restaurant,5,S - Significant
+ID_7,Food Take Out,1,M - Minor
+ID_7,Food Take Out,2,C - Crucial
+ID_7,Food Take Out,1,M - Minor
+ID_7,Food Take Out,1,M - Minor
+ID_7,Restaurant,3,M - Minor
+ID_8,Food Take Out,5,C - Crucial
+ID_8,Restaurant,4,C - Crucial
+ID_8,Food Take Out,2,M - Minor
+ID_8,Food Take Out,4,S - Significant
+ID_8,Food Take Out,2,C - Crucial
+ID_9,Food Take Out,5,M - Minor
+ID_9,Food Take Out,1,S - Significant
+ID_9,Restaurant,1,S - Significant
+ID_9,Restaurant,3,M - Minor
+ID_9,Restaurant,5,S - Significant
+ID_10,Restaurant,2,M - Minor
+ID_10,Restaurant,4,S - Significant
+ID_10,Restaurant,3,C - Crucial
+ID_10,Restaurant,4,S - Significant
+ID_10,Food Take Out,2,C - Crucial
+ID_11,Restaurant,2,S - Significant
+ID_11,Food Take Out,2,M - Minor
+ID_11,Restaurant,4,C - Crucial
+ID_11,Restaurant,5,C - Crucial
+ID_11,Restaurant,5,C - Crucial
+ID_12,Food Take Out,5,C - Crucial
+ID_12,Food Take Out,2,S - Significant
+ID_12,Restaurant,4,C - Crucial
+ID_12,Food Take Out,2,S - Significant
+ID_12,Restaurant,4,C - Crucial
+ID_13,Restaurant,1,C - Crucial
+ID_13,Food Take Out,3,M - Minor
+ID_13,Food Take Out,5,S - Significant
+ID_13,Restaurant,5,C - Crucial
+ID_13,Food Take Out,4,S - Significant
+ID_14,Restaurant,3,S - Significant
+ID_14,Restaurant,3,S - Significant
+ID_14,Food Take Out,1,S - Significant
+ID_14,Food Take Out,4,C - Crucial
+ID_14,Food Take Out,2,C - Crucial
+ID_15,Restaurant,2,C - Crucial
+ID_15,Restaurant,3,M - Minor
+ID_15,Food Take Out,2,M - Minor
+ID_15,Restaurant,1,M - Minor
+ID_15,Restaurant,3,C - Crucial
+ID_16,Food Take Out,5,M - Minor
+ID_16,Restaurant,2,M - Minor
+ID_16,Food Take Out,4,M - Minor
+ID_16,Food Take Out,2,C - Crucial
+ID_16,Restaurant,5,S - Significant
+ID_17,Restaurant,4,S - Significant
+ID_17,Restaurant,1,S - Significant
+ID_17,Restaurant,3,M - Minor
+ID_17,Food Take Out,5,M - Minor
+ID_17,Food Take Out,1,S - Significant
+ID_18,Restaurant,3,S - Significant
+ID_18,Food Take Out,3,C - Crucial
+ID_18,Restaurant,4,M - Minor
+ID_18,Food Take Out,5,S - Significant
+ID_18,Food Take Out,1,S - Significant
+ID_19,Restaurant,4,S - Significant
+ID_19,Restaurant,4,S - Significant
+ID_19,Food Take Out,5,S - Significant
+ID_19,Food Take Out,5,C - Crucial
+ID_19,Food Take Out,2,M - Minor
+ID_20,Restaurant,3,S - Significant
+ID_20,Restaurant,4,S - Significant
+ID_20,Food Take Out,2,C - Crucial
+ID_20,Food Take Out,1,S - Significant
+ID_20,Restaurant,2,S - Significant
+ID_21,Food Take Out,2,M - Minor
+ID_21,Restaurant,4,M - Minor
+ID_21,Food Take Out,3,M - Minor
+ID_21,Restaurant,1,C - Crucial
+ID_21,Restaurant,1,M - Minor
+ID_22,Food Take Out,1,C - Crucial
+ID_22,Food Take Out,4,M - Minor
+ID_22,Restaurant,4,C - Crucial
+ID_22,Restaurant,5,C - Crucial
+ID_22,Food Take Out,4,M - Minor
+ID_23,Restaurant,1,C - Crucial
+ID_23,Food Take Out,4,C - Crucial
+ID_23,Food Take Out,1,S - Significant
+ID_23,Restaurant,2,S - Significant
+ID_23,Restaurant,5,S - Significant
+ID_24,Restaurant,1,C - Crucial
+ID_24,Restaurant,4,S - Significant
+ID_24,Restaurant,1,S - Significant
+ID_24,Food Take Out,1,C - Crucial
+ID_24,Food Take Out,3,C - Crucial
+ID_25,Restaurant,3,M - Minor
+ID_25,Food Take Out,5,S - Significant
+ID_25,Food Take Out,5,M - Minor
+ID_25,Restaurant,1,M - Minor
+ID_25,Food Take Out,2,M - Minor
+ID_26,Restaurant,5,C - Crucial
+ID_26,Restaurant,5,C - Crucial
+ID_26,Food Take Out,5,C - Crucial
+ID_26,Restaurant,3,S - Significant
+ID_26,Restaurant,3,M - Minor
+ID_27,Restaurant,4,C - Crucial
+ID_27,Restaurant,3,M - Minor
+ID_27,Food Take Out,5,M - Minor
+ID_27,Food Take Out,2,M - Minor
+ID_27,Food Take Out,5,C - Crucial
+ID_28,Restaurant,1,S - Significant
+ID_28,Restaurant,1,M - Minor
+ID_28,Food Take Out,5,M - Minor
+ID_28,Restaurant,2,S - Significant
+ID_28,Restaurant,3,C - Crucial
+ID_29,Food Take Out,3,M - Minor
+ID_29,Restaurant,4,S - Significant
+ID_29,Restaurant,3,S - Significant
+ID_29,Restaurant,1,M - Minor
+ID_29,Restaurant,4,C - Crucial
+ID_30,Food Take Out,5,M - Minor
+ID_30,Food Take Out,1,M - Minor
+ID_30,Restaurant,5,S - Significant
+ID_30,Restaurant,1,C - Crucial
+ID_30,Food Take Out,2,C - Crucial
+ID_31,Food Take Out,3,S - Significant
+ID_31,Food Take Out,4,C - Crucial
+ID_31,Restaurant,5,M - Minor
+ID_31,Restaurant,1,C - Crucial
+ID_31,Restaurant,5,M - Minor
+ID_32,Food Take Out,1,M - Minor
+ID_32,Food Take Out,2,S - Significant
+ID_32,Restaurant,3,S - Significant
+ID_32,Food Take Out,5,C - Crucial
+ID_32,Restaurant,3,C - Crucial
+ID_33,Food Take Out,2,C - Crucial
+ID_33,Food Take Out,1,M - Minor
+ID_33,Restaurant,4,M - Minor
+ID_33,Restaurant,4,M - Minor
+ID_33,Restaurant,5,C - Crucial
+ID_34,Food Take Out,2,M - Minor
+ID_34,Restaurant,3,C - Crucial
+ID_34,Food Take Out,4,M - Minor
+ID_34,Restaurant,1,M - Minor
+ID_34,Restaurant,4,M - Minor
+ID_35,Restaurant,3,M - Minor
+ID_35,Restaurant,3,C - Crucial
+ID_35,Restaurant,2,S - Significant
+ID_35,Food Take Out,1,M - Minor
+ID_35,Food Take Out,4,S - Significant
+ID_36,Restaurant,2,S - Significant
+ID_36,Restaurant,5,S - Significant
+ID_36,Food Take Out,1,M - Minor
+ID_36,Food Take Out,1,S - Significant
+ID_36,Food Take Out,1,C - Crucial
+ID_37,Restaurant,3,M - Minor
+ID_37,Restaurant,4,S - Significant
+ID_37,Restaurant,2,S - Significant
+ID_37,Food Take Out,1,M - Minor
+ID_37,Restaurant,5,S - Significant
+ID_38,Food Take Out,1,C - Crucial
+ID_38,Food Take Out,4,S - Significant
+ID_38,Restaurant,5,S - Significant
+ID_38,Restaurant,3,C - Crucial
+ID_38,Restaurant,4,C - Crucial
+ID_39,Food Take Out,4,M - Minor
+ID_39,Restaurant,5,S - Significant
+ID_39,Food Take Out,4,S - Significant
+ID_39,Restaurant,3,M - Minor
+ID_39,Restaurant,3,M - Minor
+ID_40,Restaurant,1,M - Minor
+ID_40,Food Take Out,5,C - Crucial
+ID_40,Food Take Out,5,C - Crucial
+ID_40,Food Take Out,1,S - Significant
+ID_40,Food Take Out,3,S - Significant
+ID_41,Food Take Out,1,S - Significant
+ID_41,Food Take Out,4,C - Crucial
+ID_41,Restaurant,1,M - Minor
+ID_41,Restaurant,2,C - Crucial
+ID_41,Food Take Out,2,C - Crucial
+ID_42,Restaurant,3,S - Significant
+ID_42,Food Take Out,3,M - Minor
+ID_42,Food Take Out,5,M - Minor
+ID_42,Restaurant,4,S - Significant
+ID_42,Restaurant,5,C - Crucial
+ID_43,Restaurant,2,S - Significant
+ID_43,Restaurant,3,M - Minor
+ID_43,Food Take Out,1,S - Significant
+ID_43,Food Take Out,3,C - Crucial
+ID_43,Restaurant,1,S - Significant
+ID_44,Food Take Out,3,C - Crucial
+ID_44,Restaurant,5,S - Significant
+ID_44,Food Take Out,4,S - Significant
+ID_44,Restaurant,1,M - Minor
+ID_44,Restaurant,5,S - Significant
+ID_45,Food Take Out,1,M - Minor
+ID_45,Restaurant,5,S - Significant
+ID_45,Restaurant,3,C - Crucial
+ID_45,Food Take Out,5,C - Crucial
+ID_45,Food Take Out,3,C - Crucial
+ID_46,Food Take Out,4,S - Significant
+ID_46,Food Take Out,4,C - Crucial
+ID_46,Restaurant,4,M - Minor
+ID_46,Restaurant,1,M - Minor
+ID_46,Food Take Out,4,M - Minor
+ID_47,Restaurant,1,M - Minor
+ID_47,Restaurant,1,C - Crucial
+ID_47,Restaurant,1,C - Crucial
+ID_47,Restaurant,4,C - Crucial
+ID_47,Food Take Out,3,C - Crucial
+ID_48,Food Take Out,4,M - Minor
+ID_48,Food Take Out,4,S - Significant
+ID_48,Restaurant,2,S - Significant
+ID_48,Food Take Out,3,C - Crucial
+ID_48,Restaurant,2,C - Crucial
+ID_49,Food Take Out,4,M - Minor
+ID_49,Restaurant,1,C - Crucial
+ID_49,Restaurant,2,C - Crucial
+ID_49,Food Take Out,4,C - Crucial
+ID_49,Food Take Out,5,C - Crucial
+ID_50,Food Take Out,3,C - Crucial
+ID_50,Restaurant,2,S - Significant
+ID_50,Food Take Out,2,M - Minor
+ID_50,Restaurant,5,C - Crucial
+ID_50,Food Take Out,3,C - Crucial
+ID_51,Restaurant,4,C - Crucial
+ID_51,Food Take Out,3,S - Significant
+ID_51,Restaurant,3,C - Crucial
+ID_51,Food Take Out,4,M - Minor
+ID_51,Restaurant,4,S - Significant
+ID_52,Restaurant,2,S - Significant
+ID_52,Restaurant,1,M - Minor
+ID_52,Food Take Out,2,C - Crucial
+ID_52,Food Take Out,5,C - Crucial
+ID_52,Restaurant,2,M - Minor
+ID_53,Restaurant,5,C - Crucial
+ID_53,Food Take Out,3,M - Minor
+ID_53,Restaurant,4,S - Significant
+ID_53,Restaurant,1,C - Crucial
+ID_53,Food Take Out,5,M - Minor
+ID_54,Restaurant,3,S - Significant
+ID_54,Food Take Out,5,M - Minor
+ID_54,Food Take Out,4,M - Minor
+ID_54,Food Take Out,3,S - Significant
+ID_54,Food Take Out,5,S - Significant
+ID_55,Restaurant,1,M - Minor
+ID_55,Restaurant,2,S - Significant
+ID_55,Restaurant,4,M - Minor
+ID_55,Food Take Out,1,S - Significant
+ID_55,Food Take Out,3,C - Crucial
+ID_56,Restaurant,5,M - Minor
+ID_56,Restaurant,2,S - Significant
+ID_56,Food Take Out,5,C - Crucial
+ID_56,Restaurant,1,S - Significant
+ID_56,Food Take Out,1,S - Significant
+ID_57,Restaurant,2,S - Significant
+ID_57,Restaurant,1,S - Significant
+ID_57,Food Take Out,5,S - Significant
+ID_57,Food Take Out,5,M - Minor
+ID_57,Restaurant,4,M - Minor
+ID_58,Food Take Out,2,C - Crucial
+ID_58,Restaurant,5,C - Crucial
+ID_58,Food Take Out,1,C - Crucial
+ID_58,Food Take Out,1,C - Crucial
+ID_58,Restaurant,1,M - Minor
+ID_59,Food Take Out,1,S - Significant
+ID_59,Food Take Out,2,M - Minor
+ID_59,Restaurant,4,C - Crucial
+ID_59,Food Take Out,4,S - Significant
+ID_59,Restaurant,5,M - Minor
+ID_60,Restaurant,1,M - Minor
+ID_60,Restaurant,1,S - Significant
+ID_60,Food Take Out,1,S - Significant
+ID_60,Restaurant,5,C - Crucial
+ID_60,Restaurant,3,C - Crucial
+ID_61,Food Take Out,3,C - Crucial
+ID_61,Food Take Out,5,C - Crucial
+ID_61,Restaurant,5,S - Significant
+ID_61,Food Take Out,2,M - Minor
+ID_61,Food Take Out,5,S - Significant
+ID_62,Restaurant,2,S - Significant
+ID_62,Food Take Out,3,C - Crucial
+ID_62,Restaurant,2,S - Significant
+ID_62,Food Take Out,3,M - Minor
+ID_62,Restaurant,5,C - Crucial
+ID_63,Restaurant,3,M - Minor
+ID_63,Restaurant,1,S - Significant
+ID_63,Restaurant,5,C - Crucial
+ID_63,Restaurant,4,M - Minor
+ID_63,Restaurant,4,M - Minor
+ID_64,Restaurant,4,S - Significant
+ID_64,Food Take Out,1,C - Crucial
+ID_64,Food Take Out,1,M - Minor
+ID_64,Food Take Out,4,M - Minor
+ID_64,Food Take Out,3,M - Minor
+ID_65,Restaurant,1,S - Significant
+ID_65,Food Take Out,4,S - Significant
+ID_65,Restaurant,2,S - Significant
+ID_65,Restaurant,3,S - Significant
+ID_65,Restaurant,1,M - Minor
+ID_66,Food Take Out,1,C - Crucial
+ID_66,Food Take Out,1,M - Minor
+ID_66,Food Take Out,1,C - Crucial
+ID_66,Restaurant,4,S - Significant
+ID_66,Restaurant,2,S - Significant
+ID_67,Food Take Out,1,M - Minor
+ID_67,Restaurant,2,M - Minor
+ID_67,Food Take Out,1,M - Minor
+ID_67,Restaurant,5,C - Crucial
+ID_67,Food Take Out,2,M - Minor
+ID_68,Food Take Out,5,C - Crucial
+ID_68,Restaurant,4,C - Crucial
+ID_68,Restaurant,3,S - Significant
+ID_68,Restaurant,5,S - Significant
+ID_68,Food Take Out,1,C - Crucial
+ID_69,Restaurant,2,S - Significant
+ID_69,Restaurant,2,S - Significant
+ID_69,Restaurant,1,S - Significant
+ID_69,Food Take Out,2,M - Minor
+ID_69,Restaurant,1,C - Crucial
+ID_70,Restaurant,4,S - Significant
+ID_70,Food Take Out,5,M - Minor
+ID_70,Restaurant,3,S - Significant
+ID_70,Food Take Out,4,S - Significant
+ID_70,Restaurant,5,C - Crucial
+ID_71,Food Take Out,2,C - Crucial
+ID_71,Food Take Out,2,C - Crucial
+ID_71,Restaurant,1,S - Significant
+ID_71,Restaurant,3,S - Significant
+ID_71,Restaurant,2,S - Significant
+ID_72,Restaurant,2,S - Significant
+ID_72,Restaurant,3,M - Minor
+ID_72,Food Take Out,2,C - Crucial
+ID_72,Food Take Out,5,C - Crucial
+ID_72,Food Take Out,2,M - Minor
+ID_73,Food Take Out,5,C - Crucial
+ID_73,Food Take Out,4,M - Minor
+ID_73,Restaurant,4,S - Significant
+ID_73,Food Take Out,2,S - Significant
+ID_73,Food Take Out,1,C - Crucial
+ID_74,Restaurant,2,S - Significant
+ID_74,Food Take Out,1,C - Crucial
+ID_74,Restaurant,5,S - Significant
+ID_74,Food Take Out,5,M - Minor
+ID_74,Restaurant,1,S - Significant
+ID_75,Food Take Out,3,S - Significant
+ID_75,Restaurant,5,C - Crucial
+ID_75,Restaurant,4,C - Crucial
+ID_75,Food Take Out,5,M - Minor
+ID_75,Restaurant,4,C - Crucial
+ID_76,Restaurant,5,M - Minor
+ID_76,Food Take Out,2,C - Crucial
+ID_76,Food Take Out,4,C - Crucial
+ID_76,Restaurant,1,C - Crucial
+ID_76,Food Take Out,5,S - Significant
+ID_77,Food Take Out,5,S - Significant
+ID_77,Restaurant,3,M - Minor
+ID_77,Food Take Out,5,S - Significant
+ID_77,Restaurant,1,S - Significant
+ID_77,Food Take Out,3,S - Significant
+ID_78,Food Take Out,1,C - Crucial
+ID_78,Food Take Out,4,S - Significant
+ID_78,Food Take Out,5,M - Minor
+ID_78,Food Take Out,4,M - Minor
+ID_78,Food Take Out,2,M - Minor
+ID_79,Food Take Out,5,C - Crucial
+ID_79,Restaurant,3,C - Crucial
+ID_79,Restaurant,5,M - Minor
+ID_79,Restaurant,4,M - Minor
+ID_79,Restaurant,5,M - Minor
+ID_80,Food Take Out,2,C - Crucial
+ID_80,Restaurant,3,C - Crucial
+ID_80,Food Take Out,1,M - Minor
+ID_80,Restaurant,2,M - Minor
+ID_80,Food Take Out,4,S - Significant
+ID_81,Restaurant,3,C - Crucial
+ID_81,Food Take Out,4,S - Significant
+ID_81,Food Take Out,1,S - Significant
+ID_81,Restaurant,1,M - Minor
+ID_81,Food Take Out,2,S - Significant
+ID_82,Restaurant,1,C - Crucial
+ID_82,Restaurant,5,C - Crucial
+ID_82,Food Take Out,1,M - Minor
+ID_82,Restaurant,2,S - Significant
+ID_82,Food Take Out,1,M - Minor
+ID_83,Restaurant,3,S - Significant
+ID_83,Food Take Out,3,C - Crucial
+ID_83,Food Take Out,5,S - Significant
+ID_83,Food Take Out,5,C - Crucial
+ID_83,Food Take Out,3,C - Crucial
+ID_84,Food Take Out,3,C - Crucial
+ID_84,Food Take Out,1,C - Crucial
+ID_84,Restaurant,1,M - Minor
+ID_84,Restaurant,1,S - Significant
+ID_84,Food Take Out,1,S - Significant
+ID_85,Restaurant,4,C - Crucial
+ID_85,Restaurant,4,S - Significant
+ID_85,Food Take Out,4,M - Minor
+ID_85,Restaurant,3,M - Minor
+ID_85,Food Take Out,1,C - Crucial
+ID_86,Restaurant,1,M - Minor
+ID_86,Restaurant,1,S - Significant
+ID_86,Food Take Out,4,C - Crucial
+ID_86,Restaurant,3,C - Crucial
+ID_86,Restaurant,1,C - Crucial
+ID_87,Food Take Out,1,S - Significant
+ID_87,Restaurant,1,C - Crucial
+ID_87,Food Take Out,5,C - Crucial
+ID_87,Food Take Out,4,M - Minor
+ID_87,Restaurant,2,M - Minor
+ID_88,Food Take Out,2,S - Significant
+ID_88,Food Take Out,2,M - Minor
+ID_88,Food Take Out,2,M - Minor
+ID_88,Restaurant,3,C - Crucial
+ID_88,Restaurant,1,M - Minor
+ID_89,Food Take Out,3,C - Crucial
+ID_89,Food Take Out,1,C - Crucial
+ID_89,Food Take Out,5,S - Significant
+ID_89,Restaurant,3,M - Minor
+ID_89,Restaurant,3,C - Crucial
+ID_90,Restaurant,5,S - Significant
+ID_90,Restaurant,4,M - Minor
+ID_90,Food Take Out,3,S - Significant
+ID_90,Restaurant,4,C - Crucial
+ID_90,Food Take Out,1,C - Crucial
+ID_91,Restaurant,5,S - Significant
+ID_91,Restaurant,3,C - Crucial
+ID_91,Food Take Out,2,M - Minor
+ID_91,Food Take Out,2,M - Minor
+ID_91,Restaurant,3,C - Crucial
+ID_92,Food Take Out,5,M - Minor
+ID_92,Restaurant,3,S - Significant
+ID_92,Restaurant,2,S - Significant
+ID_92,Food Take Out,2,C - Crucial
+ID_92,Restaurant,1,M - Minor
+ID_93,Food Take Out,1,S - Significant
+ID_93,Restaurant,1,M - Minor
+ID_93,Food Take Out,2,S - Significant
+ID_93,Restaurant,1,C - Crucial
+ID_93,Food Take Out,3,C - Crucial
+ID_94,Food Take Out,3,S - Significant
+ID_94,Food Take Out,4,C - Crucial
+ID_94,Food Take Out,4,C - Crucial
+ID_94,Restaurant,2,M - Minor
+ID_94,Restaurant,1,C - Crucial
+ID_95,Food Take Out,1,C - Crucial
+ID_95,Restaurant,1,S - Significant
+ID_95,Restaurant,5,M - Minor
+ID_95,Restaurant,3,M - Minor
+ID_95,Restaurant,5,S - Significant
+ID_96,Food Take Out,2,C - Crucial
+ID_96,Food Take Out,4,S - Significant
+ID_96,Food Take Out,5,S - Significant
+ID_96,Restaurant,1,S - Significant
+ID_96,Restaurant,4,S - Significant
+ID_97,Restaurant,4,S - Significant
+ID_97,Food Take Out,5,S - Significant
+ID_97,Food Take Out,3,S - Significant
+ID_97,Food Take Out,2,M - Minor
+ID_97,Food Take Out,2,S - Significant
+ID_98,Food Take Out,1,S - Significant
+ID_98,Food Take Out,5,S - Significant
+ID_98,Restaurant,2,S - Significant
+ID_98,Food Take Out,2,M - Minor
+ID_98,Food Take Out,3,S - Significant
+ID_99,Restaurant,2,C - Crucial
+ID_99,Food Take Out,1,C - Crucial
+ID_99,Food Take Out,4,C - Crucial
+ID_99,Restaurant,2,S - Significant
+ID_99,Restaurant,1,C - Crucial
+ID_100,Food Take Out,1,M - Minor
+ID_100,Food Take Out,3,S - Significant
+ID_100,Restaurant,2,C - Crucial
+ID_100,Restaurant,5,S - Significant
+ID_100,Restaurant,1,S - Significant
+ID_101,Food Take Out,5,S - Significant
+ID_101,Food Take Out,5,M - Minor
+ID_101,Restaurant,5,C - Crucial
+ID_101,Food Take Out,5,C - Crucial
+ID_101,Restaurant,1,S - Significant
+ID_102,Restaurant,3,C - Crucial
+ID_102,Restaurant,2,S - Significant
+ID_102,Food Take Out,1,M - Minor
+ID_102,Restaurant,1,C - Crucial
+ID_102,Restaurant,5,S - Significant
+ID_103,Restaurant,4,S - Significant
+ID_103,Food Take Out,2,S - Significant
+ID_103,Restaurant,4,S - Significant
+ID_103,Food Take Out,2,C - Crucial
+ID_103,Food Take Out,5,C - Crucial
+ID_104,Restaurant,2,S - Significant
+ID_104,Restaurant,4,M - Minor
+ID_104,Food Take Out,4,C - Crucial
+ID_104,Food Take Out,4,C - Crucial
+ID_104,Food Take Out,5,S - Significant
+ID_105,Food Take Out,4,M - Minor
+ID_105,Food Take Out,5,C - Crucial
+ID_105,Food Take Out,1,C - Crucial
+ID_105,Restaurant,3,C - Crucial
+ID_105,Restaurant,4,M - Minor
+ID_106,Restaurant,2,M - Minor
+ID_106,Restaurant,2,M - Minor
+ID_106,Restaurant,3,C - Crucial
+ID_106,Food Take Out,3,C - Crucial
+ID_106,Food Take Out,1,S - Significant
+ID_107,Food Take Out,3,S - Significant
+ID_107,Food Take Out,3,C - Crucial
+ID_107,Food Take Out,4,S - Significant
+ID_107,Food Take Out,2,C - Crucial
+ID_107,Food Take Out,4,C - Crucial
+ID_108,Restaurant,1,M - Minor
+ID_108,Restaurant,3,M - Minor
+ID_108,Restaurant,1,C - Crucial
+ID_108,Restaurant,3,S - Significant
+ID_108,Food Take Out,4,S - Significant
+ID_109,Food Take Out,4,S - Significant
+ID_109,Restaurant,3,C - Crucial
+ID_109,Food Take Out,3,C - Crucial
+ID_109,Food Take Out,4,M - Minor
+ID_109,Food Take Out,1,C - Crucial
+ID_110,Food Take Out,1,S - Significant
+ID_110,Food Take Out,1,C - Crucial
+ID_110,Restaurant,2,C - Crucial
+ID_110,Restaurant,5,M - Minor
+ID_110,Restaurant,1,M - Minor
+ID_111,Restaurant,2,S - Significant
+ID_111,Restaurant,3,C - Crucial
+ID_111,Food Take Out,3,C - Crucial
+ID_111,Food Take Out,3,C - Crucial
+ID_111,Food Take Out,3,M - Minor
+ID_112,Food Take Out,2,C - Crucial
+ID_112,Food Take Out,3,M - Minor
+ID_112,Restaurant,2,S - Significant
+ID_112,Food Take Out,1,M - Minor
+ID_112,Restaurant,5,C - Crucial
+ID_113,Restaurant,2,M - Minor
+ID_113,Food Take Out,3,C - Crucial
+ID_113,Food Take Out,1,S - Significant
+ID_113,Restaurant,1,M - Minor
+ID_113,Restaurant,2,M - Minor
+ID_114,Restaurant,3,S - Significant
+ID_114,Restaurant,2,M - Minor
+ID_114,Restaurant,4,C - Crucial
+ID_114,Restaurant,2,C - Crucial
+ID_114,Food Take Out,4,M - Minor
+ID_115,Food Take Out,1,S - Significant
+ID_115,Food Take Out,3,M - Minor
+ID_115,Food Take Out,5,S - Significant
+ID_115,Food Take Out,1,C - Crucial
+ID_115,Restaurant,4,C - Crucial
+ID_116,Restaurant,3,C - Crucial
+ID_116,Food Take Out,5,M - Minor
+ID_116,Restaurant,3,S - Significant
+ID_116,Restaurant,3,M - Minor
+ID_116,Food Take Out,2,C - Crucial
+ID_117,Food Take Out,2,S - Significant
+ID_117,Food Take Out,4,S - Significant
+ID_117,Food Take Out,1,C - Crucial
+ID_117,Restaurant,2,M - Minor
+ID_117,Restaurant,4,C - Crucial
+ID_118,Food Take Out,5,C - Crucial
+ID_118,Restaurant,2,S - Significant
+ID_118,Restaurant,5,M - Minor
+ID_118,Restaurant,1,M - Minor
+ID_118,Food Take Out,5,M - Minor
+ID_119,Food Take Out,5,C - Crucial
+ID_119,Restaurant,4,C - Crucial
+ID_119,Food Take Out,4,S - Significant
+ID_119,Food Take Out,5,S - Significant
+ID_119,Restaurant,4,C - Crucial
+ID_120,Food Take Out,4,S - Significant
+ID_120,Restaurant,5,M - Minor
+ID_120,Food Take Out,5,S - Significant
+ID_120,Restaurant,2,S - Significant
+ID_120,Restaurant,3,M - Minor
+ID_121,Restaurant,5,C - Crucial
+ID_121,Food Take Out,4,S - Significant
+ID_121,Food Take Out,5,C - Crucial
+ID_121,Restaurant,3,C - Crucial
+ID_121,Restaurant,2,M - Minor
+ID_122,Restaurant,3,C - Crucial
+ID_122,Food Take Out,5,M - Minor
+ID_122,Restaurant,4,S - Significant
+ID_122,Restaurant,1,M - Minor
+ID_122,Restaurant,2,S - Significant
+ID_123,Food Take Out,3,S - Significant
+ID_123,Food Take Out,4,S - Significant
+ID_123,Restaurant,1,M - Minor
+ID_123,Restaurant,1,M - Minor
+ID_123,Food Take Out,1,M - Minor
+ID_124,Food Take Out,5,S - Significant
+ID_124,Restaurant,3,C - Crucial
+ID_124,Food Take Out,3,M - Minor
+ID_124,Restaurant,2,M - Minor
+ID_124,Food Take Out,4,C - Crucial
+ID_125,Restaurant,2,S - Significant
+ID_125,Restaurant,3,C - Crucial
+ID_125,Restaurant,2,M - Minor
+ID_125,Restaurant,3,S - Significant
+ID_125,Food Take Out,4,C - Crucial
+ID_126,Food Take Out,1,C - Crucial
+ID_126,Restaurant,4,C - Crucial
+ID_126,Restaurant,4,S - Significant
+ID_126,Food Take Out,5,C - Crucial
+ID_126,Food Take Out,2,C - Crucial
+ID_127,Food Take Out,1,C - Crucial
+ID_127,Restaurant,5,M - Minor
+ID_127,Restaurant,2,M - Minor
+ID_127,Food Take Out,2,M - Minor
+ID_127,Restaurant,3,M - Minor
+ID_128,Food Take Out,1,S - Significant
+ID_128,Restaurant,4,S - Significant
+ID_128,Food Take Out,1,C - Crucial
+ID_128,Restaurant,5,C - Crucial
+ID_128,Restaurant,4,C - Crucial
+ID_129,Restaurant,4,S - Significant
+ID_129,Restaurant,1,C - Crucial
+ID_129,Food Take Out,3,M - Minor
+ID_129,Restaurant,3,C - Crucial
+ID_129,Food Take Out,3,S - Significant
+ID_130,Food Take Out,5,C - Crucial
+ID_130,Restaurant,2,S - Significant
+ID_130,Food Take Out,2,C - Crucial
+ID_130,Food Take Out,3,C - Crucial
+ID_130,Restaurant,2,S - Significant
+ID_131,Food Take Out,3,S - Significant
+ID_131,Restaurant,3,C - Crucial
+ID_131,Restaurant,2,M - Minor
+ID_131,Restaurant,5,M - Minor
+ID_131,Restaurant,4,C - Crucial
+ID_132,Restaurant,4,C - Crucial
+ID_132,Restaurant,3,M - Minor
+ID_132,Food Take Out,4,M - Minor
+ID_132,Restaurant,5,C - Crucial
+ID_132,Restaurant,4,S - Significant
+ID_133,Restaurant,4,S - Significant
+ID_133,Restaurant,4,M - Minor
+ID_133,Food Take Out,4,S - Significant
+ID_133,Food Take Out,2,S - Significant
+ID_133,Food Take Out,2,M - Minor
+ID_134,Food Take Out,5,S - Significant
+ID_134,Restaurant,1,S - Significant
+ID_134,Food Take Out,1,S - Significant
+ID_134,Food Take Out,5,C - Crucial
+ID_134,Food Take Out,3,C - Crucial
+ID_135,Food Take Out,3,M - Minor
+ID_135,Food Take Out,3,M - Minor
+ID_135,Restaurant,3,S - Significant
+ID_135,Food Take Out,1,S - Significant
+ID_135,Food Take Out,4,S - Significant
+ID_136,Food Take Out,4,C - Crucial
+ID_136,Food Take Out,2,M - Minor
+ID_136,Restaurant,5,C - Crucial
+ID_136,Food Take Out,1,C - Crucial
+ID_136,Food Take Out,4,M - Minor
+ID_137,Food Take Out,4,M - Minor
+ID_137,Restaurant,1,M - Minor
+ID_137,Restaurant,4,S - Significant
+ID_137,Food Take Out,5,C - Crucial
+ID_137,Food Take Out,5,C - Crucial
+ID_138,Restaurant,3,C - Crucial
+ID_138,Food Take Out,5,C - Crucial
+ID_138,Restaurant,1,C - Crucial
+ID_138,Food Take Out,4,S - Significant
+ID_138,Food Take Out,5,C - Crucial
+ID_139,Restaurant,2,C - Crucial
+ID_139,Restaurant,2,M - Minor
+ID_139,Food Take Out,4,M - Minor
+ID_139,Restaurant,1,C - Crucial
+ID_139,Restaurant,5,S - Significant
+ID_140,Food Take Out,5,C - Crucial
+ID_140,Restaurant,4,S - Significant
+ID_140,Food Take Out,3,M - Minor
+ID_140,Food Take Out,2,S - Significant
+ID_140,Restaurant,4,C - Crucial
+ID_141,Restaurant,5,S - Significant
+ID_141,Restaurant,4,M - Minor
+ID_141,Restaurant,4,S - Significant
+ID_141,Food Take Out,2,M - Minor
+ID_141,Restaurant,1,M - Minor
+ID_142,Restaurant,5,M - Minor
+ID_142,Food Take Out,4,S - Significant
+ID_142,Food Take Out,4,C - Crucial
+ID_142,Food Take Out,3,S - Significant
+ID_142,Restaurant,3,C - Crucial
+ID_143,Restaurant,4,C - Crucial
+ID_143,Food Take Out,3,S - Significant
+ID_143,Food Take Out,3,C - Crucial
+ID_143,Food Take Out,4,M - Minor
+ID_143,Restaurant,5,S - Significant
+ID_144,Food Take Out,1,M - Minor
+ID_144,Food Take Out,3,C - Crucial
+ID_144,Restaurant,5,M - Minor
+ID_144,Food Take Out,5,S - Significant
+ID_144,Food Take Out,3,C - Crucial
+ID_145,Food Take Out,2,M - Minor
+ID_145,Restaurant,4,S - Significant
+ID_145,Food Take Out,3,C - Crucial
+ID_145,Restaurant,5,S - Significant
+ID_145,Restaurant,1,S - Significant
+ID_146,Food Take Out,4,M - Minor
+ID_146,Food Take Out,1,S - Significant
+ID_146,Restaurant,4,C - Crucial
+ID_146,Restaurant,1,C - Crucial
+ID_146,Restaurant,3,M - Minor
+ID_147,Restaurant,1,S - Significant
+ID_147,Restaurant,2,M - Minor
+ID_147,Restaurant,3,M - Minor
+ID_147,Restaurant,3,M - Minor
+ID_147,Food Take Out,2,M - Minor
+ID_148,Restaurant,2,M - Minor
+ID_148,Restaurant,2,M - Minor
+ID_148,Restaurant,1,M - Minor
+ID_148,Food Take Out,3,S - Significant
+ID_148,Restaurant,2,S - Significant
+ID_149,Restaurant,2,C - Crucial
+ID_149,Restaurant,3,S - Significant
+ID_149,Restaurant,1,S - Significant
+ID_149,Food Take Out,5,C - Crucial
+ID_149,Restaurant,2,M - Minor
+ID_150,Food Take Out,3,S - Significant
+ID_150,Restaurant,4,M - Minor
+ID_150,Food Take Out,2,M - Minor
+ID_150,Restaurant,2,S - Significant
+ID_150,Restaurant,1,M - Minor
+ID_151,Food Take Out,5,S - Significant
+ID_151,Food Take Out,5,M - Minor
+ID_151,Restaurant,3,M - Minor
+ID_151,Restaurant,3,C - Crucial
+ID_151,Food Take Out,1,S - Significant
+ID_152,Food Take Out,2,C - Crucial
+ID_152,Food Take Out,2,M - Minor
+ID_152,Food Take Out,4,S - Significant
+ID_152,Restaurant,5,M - Minor
+ID_152,Food Take Out,5,S - Significant
+ID_153,Food Take Out,5,S - Significant
+ID_153,Food Take Out,2,M - Minor
+ID_153,Food Take Out,2,M - Minor
+ID_153,Restaurant,2,S - Significant
+ID_153,Restaurant,3,M - Minor
+ID_154,Restaurant,3,M - Minor
+ID_154,Restaurant,1,S - Significant
+ID_154,Food Take Out,3,M - Minor
+ID_154,Restaurant,1,S - Significant
+ID_154,Restaurant,5,S - Significant
+ID_155,Restaurant,5,C - Crucial
+ID_155,Food Take Out,3,C - Crucial
+ID_155,Restaurant,5,M - Minor
+ID_155,Food Take Out,1,S - Significant
+ID_155,Food Take Out,3,S - Significant
+ID_156,Restaurant,3,C - Crucial
+ID_156,Food Take Out,3,C - Crucial
+ID_156,Restaurant,3,M - Minor
+ID_156,Restaurant,5,C - Crucial
+ID_156,Restaurant,1,C - Crucial
+ID_157,Restaurant,4,M - Minor
+ID_157,Food Take Out,1,C - Crucial
+ID_157,Food Take Out,5,M - Minor
+ID_157,Restaurant,4,S - Significant
+ID_157,Food Take Out,4,S - Significant
+ID_158,Restaurant,1,S - Significant
+ID_158,Food Take Out,3,M - Minor
+ID_158,Food Take Out,4,S - Significant
+ID_158,Food Take Out,3,C - Crucial
+ID_158,Restaurant,1,C - Crucial
+ID_159,Food Take Out,4,C - Crucial
+ID_159,Restaurant,1,M - Minor
+ID_159,Food Take Out,4,C - Crucial
+ID_159,Restaurant,1,C - Crucial
+ID_159,Restaurant,1,S - Significant
+ID_160,Food Take Out,2,M - Minor
+ID_160,Restaurant,5,C - Crucial
+ID_160,Food Take Out,2,M - Minor
+ID_160,Restaurant,3,S - Significant
+ID_160,Restaurant,4,M - Minor
+ID_161,Food Take Out,5,C - Crucial
+ID_161,Food Take Out,4,S - Significant
+ID_161,Restaurant,4,M - Minor
+ID_161,Food Take Out,3,M - Minor
+ID_161,Restaurant,1,C - Crucial
+ID_162,Restaurant,3,S - Significant
+ID_162,Restaurant,2,C - Crucial
+ID_162,Food Take Out,4,C - Crucial
+ID_162,Food Take Out,5,M - Minor
+ID_162,Restaurant,5,S - Significant
+ID_163,Restaurant,5,S - Significant
+ID_163,Food Take Out,3,M - Minor
+ID_163,Food Take Out,3,S - Significant
+ID_163,Restaurant,4,C - Crucial
+ID_163,Food Take Out,2,C - Crucial
+ID_164,Restaurant,2,M - Minor
+ID_164,Restaurant,2,M - Minor
+ID_164,Food Take Out,2,C - Crucial
+ID_164,Restaurant,2,C - Crucial
+ID_164,Restaurant,4,M - Minor
+ID_165,Food Take Out,2,S - Significant
+ID_165,Food Take Out,1,S - Significant
+ID_165,Food Take Out,4,C - Crucial
+ID_165,Restaurant,4,C - Crucial
+ID_165,Food Take Out,3,S - Significant
+ID_166,Food Take Out,4,M - Minor
+ID_166,Food Take Out,2,S - Significant
+ID_166,Food Take Out,4,S - Significant
+ID_166,Food Take Out,1,M - Minor
+ID_166,Food Take Out,3,M - Minor
+ID_167,Food Take Out,5,C - Crucial
+ID_167,Food Take Out,1,S - Significant
+ID_167,Restaurant,4,S - Significant
+ID_167,Food Take Out,4,S - Significant
+ID_167,Restaurant,2,C - Crucial
+ID_168,Food Take Out,1,M - Minor
+ID_168,Restaurant,3,C - Crucial
+ID_168,Food Take Out,1,M - Minor
+ID_168,Food Take Out,2,C - Crucial
+ID_168,Restaurant,2,M - Minor
+ID_169,Food Take Out,4,M - Minor
+ID_169,Food Take Out,2,C - Crucial
+ID_169,Restaurant,3,M - Minor
+ID_169,Restaurant,2,M - Minor
+ID_169,Food Take Out,3,M - Minor
+ID_170,Restaurant,3,S - Significant
+ID_170,Food Take Out,3,C - Crucial
+ID_170,Food Take Out,5,M - Minor
+ID_170,Food Take Out,5,C - Crucial
+ID_170,Restaurant,5,C - Crucial
+ID_171,Restaurant,5,C - Crucial
+ID_171,Restaurant,4,M - Minor
+ID_171,Restaurant,5,S - Significant
+ID_171,Food Take Out,4,C - Crucial
+ID_171,Food Take Out,4,S - Significant
+ID_172,Food Take Out,1,C - Crucial
+ID_172,Food Take Out,3,C - Crucial
+ID_172,Food Take Out,4,C - Crucial
+ID_172,Food Take Out,1,M - Minor
+ID_172,Food Take Out,2,M - Minor
+ID_173,Food Take Out,1,C - Crucial
+ID_173,Food Take Out,3,C - Crucial
+ID_173,Food Take Out,2,S - Significant
+ID_173,Restaurant,2,S - Significant
+ID_173,Restaurant,2,C - Crucial
+ID_174,Food Take Out,5,S - Significant
+ID_174,Restaurant,3,S - Significant
+ID_174,Food Take Out,1,S - Significant
+ID_174,Restaurant,4,S - Significant
+ID_174,Food Take Out,4,M - Minor
+ID_175,Restaurant,1,S - Significant
+ID_175,Food Take Out,3,C - Crucial
+ID_175,Food Take Out,3,M - Minor
+ID_175,Restaurant,4,M - Minor
+ID_175,Food Take Out,5,S - Significant
+ID_176,Restaurant,2,S - Significant
+ID_176,Food Take Out,3,M - Minor
+ID_176,Food Take Out,2,M - Minor
+ID_176,Food Take Out,2,M - Minor
+ID_176,Food Take Out,2,M - Minor
+ID_177,Restaurant,3,M - Minor
+ID_177,Restaurant,3,M - Minor
+ID_177,Food Take Out,3,M - Minor
+ID_177,Restaurant,3,M - Minor
+ID_177,Food Take Out,5,S - Significant
+ID_178,Food Take Out,5,M - Minor
+ID_178,Restaurant,3,C - Crucial
+ID_178,Restaurant,2,M - Minor
+ID_178,Food Take Out,2,C - Crucial
+ID_178,Restaurant,1,S - Significant
+ID_179,Food Take Out,4,S - Significant
+ID_179,Restaurant,4,M - Minor
+ID_179,Food Take Out,3,M - Minor
+ID_179,Restaurant,1,S - Significant
+ID_179,Food Take Out,3,M - Minor
+ID_180,Restaurant,5,S - Significant
+ID_180,Food Take Out,3,C - Crucial
+ID_180,Restaurant,5,M - Minor
+ID_180,Food Take Out,3,C - Crucial
+ID_180,Restaurant,3,M - Minor
+ID_181,Restaurant,3,S - Significant
+ID_181,Restaurant,5,S - Significant
+ID_181,Restaurant,4,M - Minor
+ID_181,Restaurant,5,S - Significant
+ID_181,Food Take Out,2,M - Minor
+ID_182,Restaurant,3,S - Significant
+ID_182,Restaurant,2,M - Minor
+ID_182,Restaurant,2,S - Significant
+ID_182,Food Take Out,1,M - Minor
+ID_182,Food Take Out,5,C - Crucial
+ID_183,Food Take Out,4,M - Minor
+ID_183,Restaurant,3,C - Crucial
+ID_183,Food Take Out,4,M - Minor
+ID_183,Restaurant,1,C - Crucial
+ID_183,Food Take Out,4,M - Minor
+ID_184,Restaurant,3,M - Minor
+ID_184,Food Take Out,4,S - Significant
+ID_184,Restaurant,2,S - Significant
+ID_184,Food Take Out,3,S - Significant
+ID_184,Restaurant,3,C - Crucial
+ID_185,Restaurant,1,M - Minor
+ID_185,Restaurant,1,C - Crucial
+ID_185,Restaurant,2,M - Minor
+ID_185,Food Take Out,2,S - Significant
+ID_185,Restaurant,4,C - Crucial
+ID_186,Food Take Out,1,S - Significant
+ID_186,Food Take Out,2,S - Significant
+ID_186,Restaurant,4,C - Crucial
+ID_186,Food Take Out,4,C - Crucial
+ID_186,Food Take Out,2,C - Crucial
+ID_187,Restaurant,2,S - Significant
+ID_187,Food Take Out,2,M - Minor
+ID_187,Food Take Out,1,M - Minor
+ID_187,Food Take Out,1,C - Crucial
+ID_187,Restaurant,3,S - Significant
+ID_188,Food Take Out,1,S - Significant
+ID_188,Food Take Out,1,M - Minor
+ID_188,Restaurant,3,S - Significant
+ID_188,Restaurant,2,C - Crucial
+ID_188,Restaurant,1,C - Crucial
+ID_189,Restaurant,4,S - Significant
+ID_189,Food Take Out,3,S - Significant
+ID_189,Food Take Out,4,M - Minor
+ID_189,Food Take Out,5,C - Crucial
+ID_189,Restaurant,3,S - Significant
+ID_190,Restaurant,5,C - Crucial
+ID_190,Food Take Out,1,M - Minor
+ID_190,Food Take Out,1,C - Crucial
+ID_190,Restaurant,3,S - Significant
+ID_190,Restaurant,5,M - Minor
+ID_191,Food Take Out,1,S - Significant
+ID_191,Restaurant,5,S - Significant
+ID_191,Restaurant,2,M - Minor
+ID_191,Food Take Out,5,C - Crucial
+ID_191,Food Take Out,5,M - Minor
+ID_192,Food Take Out,2,M - Minor
+ID_192,Restaurant,5,C - Crucial
+ID_192,Restaurant,2,M - Minor
+ID_192,Restaurant,3,C - Crucial
+ID_192,Food Take Out,3,M - Minor
+ID_193,Restaurant,4,S - Significant
+ID_193,Restaurant,5,M - Minor
+ID_193,Restaurant,3,M - Minor
+ID_193,Food Take Out,1,S - Significant
+ID_193,Food Take Out,2,S - Significant
+ID_194,Restaurant,5,M - Minor
+ID_194,Restaurant,2,C - Crucial
+ID_194,Food Take Out,4,M - Minor
+ID_194,Food Take Out,4,S - Significant
+ID_194,Food Take Out,5,S - Significant
+ID_195,Restaurant,1,C - Crucial
+ID_195,Restaurant,4,S - Significant
+ID_195,Food Take Out,1,M - Minor
+ID_195,Food Take Out,1,S - Significant
+ID_195,Food Take Out,4,M - Minor
+ID_196,Restaurant,3,M - Minor
+ID_196,Restaurant,2,C - Crucial
+ID_196,Restaurant,5,M - Minor
+ID_196,Food Take Out,4,M - Minor
+ID_196,Restaurant,3,S - Significant
+ID_197,Food Take Out,1,M - Minor
+ID_197,Restaurant,5,S - Significant
+ID_197,Food Take Out,3,M - Minor
+ID_197,Food Take Out,3,C - Crucial
+ID_197,Food Take Out,2,M - Minor
+ID_198,Food Take Out,3,S - Significant
+ID_198,Restaurant,4,S - Significant
+ID_198,Restaurant,4,M - Minor
+ID_198,Restaurant,2,M - Minor
+ID_198,Restaurant,2,M - Minor
+ID_199,Restaurant,2,C - Crucial
+ID_199,Food Take Out,1,C - Crucial
+ID_199,Restaurant,2,M - Minor
+ID_199,Food Take Out,4,C - Crucial
+ID_199,Food Take Out,4,C - Crucial
+ID_200,Food Take Out,3,M - Minor
+ID_200,Food Take Out,2,M - Minor
+ID_200,Restaurant,3,C - Crucial
+ID_200,Food Take Out,1,M - Minor
+ID_200,Food Take Out,4,M - Minor

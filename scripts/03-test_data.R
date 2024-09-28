@@ -19,14 +19,15 @@ missing_values <- data %>%
   summarise(
     missing_establishment_id = sum(is.na(`Establishment ID`)),
     missing_establishment_type = sum(is.na(`Establishment Type`)),
-    missing_severity = sum(is.na(Severity)),
+    missing_severity = sum(is.na(Severity) | Severity == ""),  # Test for NA and empty strings
     missing_inspection_date = sum(is.na(`Inspection Date`))
   )
 
 print(missing_values)  # Check if there are missing values in critical columns
 
 # 2. Test for invalid severity values
-valid_severity_levels <- c("C - Crucial", "M - Minor", "S - Significant", "N/A - Not Applicable")
+# Include "No Infraction" as a valid severity level, as well as other valid levels.
+valid_severity_levels <- c("C - Crucial", "M - Minor", "S - Significant", "NA - Not Applicable", "No Infraction")
 invalid_severity_values <- data %>%
   filter(!Severity %in% valid_severity_levels)
 
