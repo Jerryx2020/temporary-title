@@ -2,7 +2,7 @@
 
 ## Description
 
-This GitHub Repository contains all the files used to generate the paper *Frequent Inspections Fail to Curb Violations in Toronto's Good-Standing Food Establishments*.
+This GitHub Repository contains all the files used to generate the paper *Inspection Frequency Reveals Violation Patterns in Toronto Restaurants and Takeout Establishments (2022-2024)*.
 
 The DineSafe dataset from Toronto’s Open Data platform was analyzed to investigate the relationship between inspection frequency and the prevalence of infractions in various food service establishments, such as restaurants and takeout locations. Some of the R code used in this analysis was adapted from publicly available resources and tools from the R community.
 
