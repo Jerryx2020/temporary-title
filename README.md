@@ -1,4 +1,4 @@
-# Frequent Inspections Fail to Curb Violations in Toronto's Good-Standing Food Establishments
+# Inspection Frequency Reveals Violation Patterns in Toronto Restaurants and Takeout Establishments (2022-2024)
 
 ## Description
 

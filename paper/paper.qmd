@@ -1,15 +1,14 @@
 ---
-title: "Frequent Inspections Fail to Curb Violations in Toronto's Good-Standing Food Establishments"
+title: "Inspection Frequency Reveals Violation Patterns in Toronto Restaurants and Takeout Establishments (2022-2024)"
 author: 
   - Jerry Xia
 thanks: "Code and data are available at: <https://github.com/Jerryx2020/toronto_dinesafe_analysis>"
-date: "`r format(Sys.Date() - 1, '%A, %B %d, %Y')`"
+date: "`r format(Sys.Date() - 1, '%A, %B %d, %Y')`" #chatgpt assisted how to create a custom date for due date Sept 27
 date-format: long
-abstract: "This study analyzes inspection patterns and compliance outcomes using Toronto’s DineSafe dataset (2022-2024) to explore the relationship between inspection frequency and food safety infractions in restaurants and takeout establishments. The data reveals that restaurants have a higher percentage of inspections resulting in infractions compared to takeout establishments, highlighting more significant compliance challenges in full-service operations. These findings suggest that current regulatory practices may need to focus more on restaurants to ensure public safety. By identifying gaps in inspection frequency and infractions, this analysis highlights the need for more targeted oversight to improve food safety.
-"
+abstract: "This study analyzes Toronto’s DineSafe dataset (2022-2024) to examine the relationship between inspection frequency and food safety infractions in restaurants and takeout establishments. Results show 73.4% of restaurant inspections lead to infractions, compared to 58.6% for takeout locations, with more frequent inspections correlating with higher infraction counts. These findings suggest that regulatory efforts may need to be more targeted, particularly in full-service operations, to address the higher violation rates and improve overall food safety compliance in Toronto."
 format: pdf
 number-sections: true
-toc: true #https://quarto.org/docs/reference/formats/pdf.html
+toc: true #chatgpt asissted with table of contents
 bibliography: references.bib
 ---
 
@@ -24,31 +23,40 @@ library(ggplot2)
 
 # Introduction
 
-In large urban centers like Toronto, ensuring food safety is a critical public health priority. Foodborne illnesses pose significant risks, and the health of the population is closely tied to the hygienic practices of food establishments, including restaurants, food trucks, and takeout locations. To address this, the DineSafe program, managed by Toronto Public Health, enforces health and safety regulations by conducting regular inspections of all food service establishments [@citeOpendatatoronto]. These inspections result in outcomes ranging from a pass to a conditional pass or even closure, depending on the establishment's compliance with food safety standards. According to the Centers for Disease Control and Prevention (CDC), frequent and transparent food inspections are instrumental in reducing foodborne illness outbreaks, as public posting of inspection results can encourage better compliance in food service settings [@cdc2024]. Despite this, significant variations exist in the frequency of inspections and the severity of infractions, raising concerns about whether some establishments, particularly mobile or temporary food vendors, receive adequate regulatory attention [@hazel2023].
+In large urban centers like Toronto, food safety is a critical public health concern, as foodborne illnesses can pose significant risks to the population. The DineSafe program, managed by Toronto Public Health, enforces health and safety regulations by conducting regular inspections of food establishments, including restaurants, food trucks, and takeout locations. These inspections result in outcomes such as a pass, conditional pass, or closure, depending on compliance with food safety standards [@citeOpendatatoronto]. According to the Centers for Disease Control and Prevention (CDC), regular and transparent food inspections are essential for reducing foodborne illness outbreaks, as public posting of results encourages compliance [@cdc2024]. However, disparities in inspection frequency and the severity of infractions across establishment types, particularly between mobile vendors and traditional restaurants, raise concerns about whether current regulatory efforts are sufficient [@hazel2023].
 
-This study focuses on analyzing Toronto’s DineSafe dataset, covering inspections from 2022 to 2024, to investigate patterns in inspection frequency and compliance outcomes among different types of food establishments. While previous research has broadly examined compliance across food establishments, this paper delves deeper into the relationships between establishment types—such as traditional restaurants and takeout locations—and the severity of infractions identified during inspections. Restaurants exhibit a higher rate of severe infractions compared to takeout establishments, suggesting that full-service operations may require more regulatory oversight to address food safety challenges [@fsa2023].
+This paper analyzes the DineSafe dataset from 2022 to 2024 to explore patterns in inspection frequency and compliance outcomes across different types of food establishments. While previous studies have examined broad compliance trends, this research focuses specifically on how the type of establishment—such as restaurants versus takeout locations—affects the likelihood of infractions. Notably, restaurants tend to have more infractions compared to takeout establishments, suggesting that more stringent oversight may be needed for full-service operations [@fsa2023]. Additionally, restaurant vendors exhibit high rates of infractions relative to the number of inspections conducted, further underscoring potential regulatory gaps.
 
-To address this gap, the DineSafe inspection data for Toronto food establishments was obtained and cleaned as described in @sec-data-overview. The results, presented in @sec-data-results, reveal key trends in the frequency of inspections and the prevalence of infractions across different establishment types. The findings indicate that while mobile food vendors undergo fewer inspections than restaurants, they exhibit a higher rate of severe infractions relative to the number of inspections conducted. These insights, as discussed in @sec-discussion, highlight the need for more frequent inspections or stricter regulations in this sector to ensure public safety.
+To address the variations in inspection frequency and compliance, the DineSafe inspection data for Toronto's food establishments was cleaned and analyzed, as described in @sec-data-overview and @sec-appendix-cleaning. The results, detailed in @sec-data-results, show that establishments inspected more frequently tend to have higher infraction counts, suggesting that frequent inspections uncover more violations but may not effectively reduce them (@fig-inspection-vs-infraction). Inspection activity fluctuated monthly from 2022 to 2024, with peaks likely driven by public health crises or regulatory changes (@fig-inspections-over-time). Restaurants, in particular, exhibit a higher percentage of inspections resulting in infractions (73.4%) compared to takeout establishments (58.6%), highlighting the greater compliance challenges faced by full-service operations (@fig-restaurant-vs-takeout). These findings emphasize the need for targeted regulatory efforts to improve food safety compliance across different sectors.
 
-The remainder of this paper is organized as follows: @sec-data-overview provides a detailed overview of the data and the methodology used to clean and analyze the dataset; @sec-data-results presents the key findings of the analysis, including the inspection frequency and infraction severity; and @sec-discussion concludes with recommendations for improving food safety oversight in Toronto. The appendix includes additional materials, such as code and data, ensuring full reproducibility of the results.
+The remainder of this paper is organized as follows: @sec-data-overview provides a detailed overview of the dataset and methodology; @sec-data-results presents the key findings, including inspection frequency and @sec-discussion concludes with recommendations for improving food safety oversight in Toronto. An appendix with supplementary materials, including cleaning and sketches, ensures full reproducibility of the results.
 
 # Data {#sec-data}
 
 ## Overview {#sec-data-overview}
 
-This analysis utilizes the DineSafe dataset from Toronto’s Open Data platform, accessed using the `opendatatoronto` package [@citeOpendatatoronto]. The dataset includes inspections conducted from 2022 to 2024, providing detailed information on health inspections of food establishments, including restaurants and takeout locations, throughout Toronto.
- Key variables in the dataset include inspection dates, infraction types, and establishment compliance statuses, which serve as the primary indicators for assessing food safety. These regular inspections are crucial for maintaining food hygiene standards, as highlighted by the CDC, which emphasizes the importance of routine inspections and the public posting of results, such as letter grades, to encourage compliance and reduce foodborne illnesses [@cdc2024].
+This analysis utilizes the DineSafe dataset from Toronto’s Open Data platform, accessed using the `opendatatoronto` package [@citeOpendatatoronto]. The dataset includes inspections conducted from 2022 to 2024, providing detailed information on health inspections of food establishments, including restaurants and takeout locations, throughout Toronto. 
 
-For this study, only the inspection data for "Restaurant" and "Food Take Out" establishments that passed their most recent inspection were retained. This focus allows for an in-depth exploration of the correlation between inspection frequency and the occurrence of infractions in establishments that are deemed to be in compliance. The DineSafe dataset is updated regularly by Toronto Public Health, and is considered open data under Toronto’s Open Data Licence (@sec-appendix-attribution), as long as proper attribution is provided [@tphlicense].
+The DineSafe dataset used in this study contains 20,481 individual inspections from 2022 to 2024, covering 6,231 unique food establishments across Toronto. Among these establishments, 73.5% are categorized as restaurants, while the remaining 26.5% are takeout establishments. The average duration between consecutive inspections for any establishment is 170 days, highlighting a relatively consistent inspection schedule.Of the infractions recorded, 37.2% are categorized as "Significant", while 17.5% are "Crucial", indicating a lower proportion of severe food safety violations. Only 45.3% of recorded infractions are labeled "Minor".
 
-The data analysis and processing were carried out using the R programming language [@citeR], employing a range of specialized packages. The `tidyverse` package [@citeTidyverse] was used extensively for filtering, cleaning, and summarizing the data. Additionally, the `ggplot2` package [@citeGgplot2] was applied to visualize patterns in inspection frequency and the severity of infractions. Date-related data were managed using the `lubridate` package [@citeLubridate] to ensure consistency in handling inspection dates.
+The key variables in the dataset include:
 
-This analysis exclusively focuses on data for restaurants and takeout establishments, as these are among the most common food service types in Toronto, and represent a significant portion of the inspections carried out by public health authorities. As described in @sec-data-results, the dataset was thoroughly cleaned and prepared for analysis, ensuring that all irrelevant fields were removed and the remaining data was formatted for accurate analysis.
+- **Establishment ID**: A unique identifier for each food establishment in Toronto.
+- **Establishment Type**: The type of food establishment, such as "Restaurant" or "Food Take Out." This variable helps categorize the establishments and compare compliance across different types of food services.
+- **Severity**: This variable indicates the severity of food safety infractions, categorized as "C - Critical," "S - Significant," "M - Minor," and "No Infraction." Critical infractions represent immediate risks to public health, while minor infractions are less severe.
+- **Inspection Date**: The date on which an inspection occurred. This variable allows for temporal analysis of inspections over time, such as monthly or yearly trends.
+- **Establishment Status**: Indicates whether the establishment passed, failed, or received a conditional pass following an inspection.
 
+They serve as the primary indicators for assessing food safety. These regular inspections are crucial for maintaining food hygiene standards, as highlighted by the CDC, which emphasizes the importance of routine inspections and the public posting of results, such as letter grades, to encourage compliance and reduce foodborne illnesses [@cdc2024].
+ 
+Several variables required construction or manipulation to facilitate the analysis. Counting Infractions: For the analysis of infraction rates, the Severity variable was used to construct a count of confirmed infractions for each establishment. Specifically, any row where the Severity was not labeled as "No Infraction" was considered to have a confirmed infraction. This constructed variable allowed for a clearer view of the total number of infractions per establishment. Infraction Percentage: To compare infraction rates between establishment types (restaurants vs. takeout), we calculated the Percentage of Inspections with Infractions. This involved dividing the total number of inspections where an infraction occurred by the total number of inspections for each establishment type. This metric allowed us to assess compliance rates across different food service sectors.
+
+DineSafe is subject to limitations in measurement. For example, while most severe infractions are likely to be well-documented, less serious violations may be underreported, or follow-up inspections may not be conducted in a timely manner. This is a limitation noted in broader studies of food safety compliance systems [@hazel2023]. Other relevant datasets in Toronto, such as the Toronto Public Health Inspection Results and COVID-19 Business and Community Closure Data, were considered but not used due to their broader scope or focus on closures rather than detailed food safety inspections. While these datasets offer insights into public health compliance, they lack the detailed inspection frequency and infraction data that the DineSafe dataset provides [@citeOpendatatoronto; @tphlicense]. The DineSafe dataset offers detailed insights into food safety but has limitations. It may underrepresent infractions in lower-risk establishments, which are inspected less frequently, as previous studies indicate that inspections tend to focus on higher-risk venues [@hazel2023]. Furthermore, not all infractions lead to immediate penalties, meaning some compliance issues may persist undetected [@hazel2023; @fsa2023]. The dataset also does not capture asymptomatic outbreaks or unreported violations, which can affect public health [@fsa2023].
+
+For this study, only the inspection data for "Restaurant" and "Food Take Out" establishments that passed their most recent inspection were retained. This analysis exclusively focuses on data for restaurants and takeout establishments, as these are among the most common food service types in Toronto. This focus allows for an in-depth exploration of the correlation between inspection frequency and the occurrence of infractions in establishments that are deemed to be in compliance. The DineSafe dataset is updated regularly by Toronto Public Health, and is considered open data under Toronto’s Open Data Licence (@sec-appendix-attribution), as long as proper attribution is provided [@tphlicense].
 \newpage
 
 ## Results {#sec-data-results}
-
 ```{r}
 #| echo: false
 #| warning: false
@@ -70,7 +78,7 @@ inspection_infraction_data <- cleaned_data %>%
 # Plot the adjusted graph
 ggplot(inspection_infraction_data, aes(x = inspection_count, y = infraction_count)) +
   geom_point(color = "purple", size = 2, alpha = 0.7) +  # Purple dots
-  geom_smooth(method = "lm", color = "darkgray", linetype = "dashed", se = FALSE) +  # Regression line
+  geom_smooth(method = "lm", color = "darkgray", linetype = "dashed", se = FALSE) +  # chatgpt regression line
   scale_x_continuous(breaks = seq(0, 60, by = 10)) +  
   scale_y_continuous(breaks = seq(0, 60, by = 10)) +  
   labs(x = "Number of Inspections",
@@ -83,7 +91,7 @@ ggplot(inspection_infraction_data, aes(x = inspection_count, y = infraction_coun
 
 ```
 
-As shown in @fig-inspection-vs-infraction, the graph now excludes only inspections where "No Infraction" was recorded. The results show that establishments inspected more frequently tend to have higher counts of infractions. This positive correlation reflects findings from the literature that increased inspection frequency does not necessarily reduce violations but instead highlights pre-existing issues [@mdpi2023; @cdc2024]. The data was processed using the `tidyverse` package for summarization and visualization [@citeTidyverse], while the plots were generated using `ggplot2` [@citeGgplot2].
+As shown in @fig-inspection-vs-infraction, the graph now excludes only inspections where "No Infraction" was recorded. The results show that establishments inspected more frequently tend to have higher counts of infractions. This positive correlation reflects findings from the literature that increased inspection frequency does not necessarily reduce violations but instead highlights pre-existing issues [@mdpi2023; @cdc2024]. 
 
 \newpage
 
@@ -106,7 +114,7 @@ inspections_over_time <- cleaned_data %>%
 # Plot with more refined styling and complexity
 ggplot(inspections_over_time, aes(x = month, y = inspections)) +
   geom_line(color = "black", size = 1.2) +  # Grayscale line for monthly inspections
-  geom_point(color = "purple", size = 2, alpha = 0.8) +  # Purple points for each month
+  geom_point(color = "purple", size = 2, alpha = 0.8) + 
   labs(x = "Month",
        y = "Number of Inspections") +
   scale_x_date(date_labels = "%b %Y", date_breaks = "3 months") +  # Customize date labels and breaks
@@ -116,13 +124,13 @@ ggplot(inspections_over_time, aes(x = month, y = inspections)) +
     axis.title.y = element_text(size = 12), 
     axis.text.x = element_text(size = 10, angle = 45, hjust = 1),  # Rotate x-axis labels for readability
     axis.text.y = element_text(size = 10, color = "black"),  # Style y-axis ticks
-    panel.grid.major = element_line(size = 0.2, color = "gray80"),  # Lighter grid lines
+    panel.grid.major = element_line(size = 0.2, color = "gray80"),  # grid lines
     panel.grid.minor = element_blank()  # Remove minor grid lines
   )
 
 ```
 
-As shown in @fig-inspections-over-time, the number of inspections fluctuates month by month. Several external factors, such as regulatory changes, seasonal variations, or public health crises like the COVID-19 pandemic, likely influence these inconsistencies in inspection activity [@hazel2023]. The visualization was created using `ggplot2` [@citeGgplot2] for plotting and `lubridate` [@citeLubridate] for time-based grouping.
+As shown in @fig-inspections-over-time, the number of inspections fluctuates month by month. Several external factors, such as regulatory changes, seasonal variations, or public health crises like the COVID-19 pandemic, likely influence these inconsistencies in inspection activity [@hazel2023].
 
 
 
@@ -145,7 +153,7 @@ type_percentage_comparison <- cleaned_data %>%
 
 # Refined plot with purple percentage numbers
 ggplot(type_percentage_comparison, aes(x = `Establishment Type`, y = percentage_with_infractions)) +
-  geom_bar(stat = "identity", fill = "gray40", color = "black", width = 0.6) +  # Grayscale bar with refined styling
+  geom_bar(stat = "identity", fill = "gray40", color = "black", width = 0.6) +  # Grayscale bar
   geom_text(aes(label = sprintf("%.1f%%", percentage_with_infractions)), vjust = -0.5, size = 5, color = "purple") +  # Purple labels
   ylim(0, 80) +  # Increase the limit of the y-axis to give more space at the top
   labs(x = "Establishment Type",
@@ -156,12 +164,14 @@ ggplot(type_percentage_comparison, aes(x = `Establishment Type`, y = percentage_
     axis.title.y = element_text(size =11),  # Style y-axis label
     axis.text.x = element_text(size = 12),  # Style x-axis ticks
     axis.text.y = element_text(size = 12),  # Style y-axis ticks
-    panel.grid.major = element_line(size = 0.2, color = "gray80"),  # Lighter grid lines
+    panel.grid.major = element_line(size = 0.2, color = "gray80"),  # grid lines
     panel.grid.minor = element_blank()  # Remove minor grid lines
   )
 
+#chatgpt learned how to group by type
+
 ```
-As shown in @fig-restaurant-vs-takeout, the percentage of inspections resulting in infractions is higher for restaurants (73.4%) compared to takeout establishments (58.6%). This indicates that despite takeout establishments being subject to fewer total inspections due to their smaller numbers, restaurants have a greater percentage of infractions per inspection. This could suggest that full-service restaurants face more complex operational challenges that increase the likelihood of non-compliance with food safety regulations. Research has shown that full-service restaurants, due to the complexity of food handling processes, tend to have higher rates of infractions compared to smaller or more specialized establishments [@hazel2023; @fsa2023]. These findings underscore the need for continued regulatory focus on restaurants, where maintaining compliance appears more difficult, reflecting the operational differences between full-service restaurants and takeout locations [@cdc2024].
+As shown in @fig-restaurant-vs-takeout, the percentage of inspections resulting in infractions is higher for restaurants (73.4%) compared to takeout establishments (58.6%). This indicates that despite takeout establishments being subject to fewer total inspections due to their smaller numbers, restaurants have a greater percentage of infractions per inspection. This could suggest that full-service restaurants face more complex operational challenges that increase the likelihood of non-compliance with food safety regulations. Research has shown that full-service restaurants, due to the complexity of food handling processes, tend to have higher rates of infractions compared to smaller or more specialized establishments [@hazel2023; @fsa2023]. These findings underscore the need for continued regulatory focus on restaurants, where maintaining compliance appears more difficult, reflecting the operational differences between full-service restaurants and takeout locations [@cdc2024]. All plots were generated using `ggplot2` [@citeGgplot2].
 
 
 \newpage
@@ -174,11 +184,11 @@ When examining the number of inspections conducted over time, as shown in @fig-i
 
 @fig-restaurant-vs-takeout in @sec-data-results compares the percentage of inspections resulting in infractions between restaurants and takeout establishments. Restaurants, with a 73.4% infraction rate compared to 58.6% for takeout establishments (@fig-restaurant-vs-takeout), face greater compliance challenges, suggesting a need for enhanced regulatory scrutiny. This suggests that full-service restaurants, due to their operational complexity, may face greater compliance challenges with food safety regulations. This observation is consistent with other research that highlights the difficulties full-service restaurants experience in maintaining hygiene and safety standards, as their more complex operations involve multiple stages of food preparation and handling [@hazel2023; @fsa2023]. These findings underscore the importance of focused regulatory oversight on restaurants, where compliance challenges appear more prevalent.
 
-Despite the valuable insights provided by this analysis, certain limitations must be acknowledged. As noted in @sec-data-results, the DineSafe dataset may not capture all infractions, especially for establishments classified as low-risk and inspected less frequently. This underrepresentation could result in an incomplete view of food safety compliance across the city. Moreover, some infractions may not lead to immediate enforcement actions (e.g., fines or closures), potentially allowing non-compliance to persist over time. Addressing these limitations may require additional measures such as follow-up inspections and broadening the range of establishments subject to frequent scrutiny [@citeOpendatatoronto].
+Despite the valuable insights provided by this analysis, certain limitations must be acknowledged. The DineSafe dataset captures only reported infractions during scheduled inspections, and some minor infractions may go unreported due to limited follow-up or enforcement in lower-risk establishments. For instance, Hazel Analytics noted in their 2023 report that establishments classified as low-risk may experience fewer inspections, potentially underrepresenting compliance issues in these sectors [@hazel2023]. This can be easily seen in the data where quick sorting by specific columns results in many thousands of blank entries. Additionally, infractions that do not lead to immediate enforcement actions, such as fines or temporary closures, may allow non-compliance to persist undetected for extended periods [@cdc2024]. Addressing these limitations will likely require more frequent and unannounced follow-up inspections, as well as extending scrutiny to a wider range of establishments [@fsa2023].
 
-Future research could investigate the application of machine learning techniques to predict which establishments are most likely to fail inspections based on historical data, allowing regulatory bodies to allocate resources more efficiently [@mdpi2023]. Additionally, more detailed studies into the effectiveness of enforcement actions, such as fines and mandatory re-inspections, could provide insights into strategies for improving compliance rates. Comparative analyses between cities with varying levels of transparency, such as public disclosure of inspection scores, could further illuminate best practices for reducing foodborne illness outbreaks and enhancing compliance, as discussed in @sec-discussion.
+Future research could investigate the application of machine learning techniques to predict establishments most at risk of failing inspections based on historical data, enabling more efficient allocation of resources [@mdpi2023]. Further studies examining the impact of enforcement actions, such as fines and mandatory re-inspections, on long-term compliance would provide valuable insights into regulatory effectiveness. Comparative analyses between cities with varying levels of transparency—such as those that publicly disclose inspection scores—could offer additional insights into effective strategies for reducing foodborne illness outbreaks and improving compliance [@fsa2023].
 
-In conclusion, while the DineSafe program has been successful in identifying non-compliant establishments, this study suggests that frequent inspections alone are not enough to prevent food safety violations. Targeted regulatory interventions, particularly in high-risk and complex food service sectors like full-service restaurants, may be required to strengthen compliance and safeguard public health in Toronto.
+In conclusion, while the DineSafe program has been effective in identifying non-compliant establishments, this study suggests that frequent inspections alone are insufficient to prevent recurring food safety violations. Inconsistent inspection schedules, particularly among high-risk establishments, may further undermine the efficacy of regulatory efforts. To safeguard public health, regulatory bodies should consider implementing more targeted interventions, such as increased oversight of full-service restaurants and sectors with high infraction rates, coupled with stricter penalties for non-compliance [@hazel2023; @fsa2023].
 
 
 \newpage
@@ -195,7 +205,7 @@ The data cleaning process was essential to prepare the raw DineSafe dataset for 
 
 Next, we removed irrelevant columns to simplify the dataset and enhance clarity. For example, columns unrelated to inspection outcomes or establishment types were excluded. Additionally, we ensured consistency across the dataset by renaming certain columns for clarity and ease of analysis.
 
-To handle date-related data, we utilized the lubridate package [@citeLubridate], which enabled consistent date formatting and facilitated time-based analysis. The entire data cleaning process was carried out using the tidyverse package [@citeTidyverse], which streamlined the filtering, mutating, and summarizing operations essential for preparing the dataset for further exploration.
+To handle date-related data, we utilized the lubridate package [@citeLubridate], which enabled consistent date formatting and facilitated time-based analysis. The entire data cleaning process was carried out using the tidyverse package [@citeTidyverse], which streamlined the filtering, mutating, and summarizing operations essential for preparing the dataset for further exploration. 
 
 
 ## Attribution Statement {#sec-appendix-attribution}
